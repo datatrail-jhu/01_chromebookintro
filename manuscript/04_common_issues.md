@@ -66,6 +66,7 @@ Clicking on the red 'NEW TOPIC' button will bring you to a new window where you 
  
 ![New Topic Empty Box](images/04_common_issues/04_gettingstarted_common_issues-13.png)
 
+You're now all up-to-date!
 
 ### Slides and Video
 
