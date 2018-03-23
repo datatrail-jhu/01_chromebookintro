@@ -1,6 +1,6 @@
 # Common issues with Chromebooks
 
-The beauty of the Chromebook is its simplicity. Most things are accomplished through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll disucss them below and describe where you can find help for these problems. 
+The beauty of the Chromebook is its simplicity. Most things are accomplished through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll discuss them below and describe where you can find help for these problems. 
 
 ### Common Issues
 
@@ -42,7 +42,7 @@ If you don't see what you're looking for immediately among these topics, you can
 
 ![Search Bar](images/04_common_issues/04_gettingstarted_common_issues-7.png)
 
-By typing in the issue you are having in the search bar at the top, you can be directed to questions others have previously asked. For example, if you want to learn how to add an extension, you could type 'add extentsion in the search bar. As with most Google search bars, Google will try to provide helpful suggestions of topics you may be interested in. You can click on this if it matches what you're interested in
+By typing in the issue you are having in the search bar at the top, you can be directed to questions others have previously asked. For example, if you want to learn how to add an extension, you could type 'add extension in the search bar. As with most Google search bars, Google will try to provide helpful suggestions of topics you may be interested in. You can click on this if it matches what you're interested in
 
 ![Add Extension Search Bar](images/04_common_issues/04_gettingstarted_common_issues-8.png)
 

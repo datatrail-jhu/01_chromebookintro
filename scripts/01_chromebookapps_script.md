@@ -2,7 +2,7 @@ At this point, you may have realized that in many ways your Chromebook works jus
 
 Similar to apps on your phone or that are advertised on television and radio, Chromebook apps are downloaded from the Internet. These applications are referred to as web apps. There are many types of applications. They can be used to increase your productivity, help you plan your taxes, or entertain you, among many other things. 
 
-To get started, Chromebook apps can specifically be searched from your Chromebook, by first clicking on the Launcher button on hte bottom left-hand side of the screen.
+To get started, Chromebook apps can specifically be searched from your Chromebook, by first clicking on the Launcher button on the bottom left-hand side of the screen.
 
 This brings up a menu where you can select 'Play Store.' 
 

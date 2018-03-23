@@ -1,6 +1,6 @@
 In the last lesson we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to download a web app. We'll then discuss a number of helpful web applications 
 
-To dowload a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up (or using the Search bar to search for Google play should the 'Play Store' icon not be immediately visible). 
+To download a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up (or using the Search bar to search for Google play should the 'Play Store' icon not be immediately visible). 
 Once the play store pops up, you'll type the app you're interested in downloading in in the search bar at top.
 
 For this first example, we'll have you download Inbox by Gmail. Inbox is a standalone web-app that makes reading and organizing all of your email simple, right on your Chromebook. By typing 'inbox' in the search bar and hitting 'enter', a new window will pop up. 
@@ -25,10 +25,10 @@ We've previously discussed Slack as a place where you and all your other team me
 
 Google Calendar is a great place to keep track of meetings and life events. We'll discuss the ins and outs of Google Calendar in a later lesson; however, for now, it's important to know that there is a standalone app for Google Calendar.
 
-Wunderlist is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to thers. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash.
+Wunderlist is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to there. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash.
 
 The Twitter app has all the same information as the Twitter website. It has the same tweets, news, and messaging capabilities; however, with it directly on your Chromebook, it makes accessing this information a little easier. 
 
-Evernote is an app that can help you get and stay organized. Its primarily a place where you can take notes. However, it also allows you to genertae to-do lists, organize receipts and bills, and to share these things with others. 
+Evernote is an app that can help you get and stay organized. Its primarily a place where you can take notes. However, it also allows you to generate to-do lists, organize receipts and bills, and to share these things with others. 
 
 V L C is a multimedia player. It will play most types of video files. So, if you ever have a video that you're not directly streaming from YouTube, V L C will most likely be able to open and play it.

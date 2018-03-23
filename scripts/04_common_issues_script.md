@@ -1,4 +1,4 @@
-The beauty of the Chromebook is its simplicity. Most things are accomplished through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll disucss them below and describe where you can find help for these problems. 
+The beauty of the Chromebook is its simplicity. Most things are accomplished through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll discuss them below and describe where you can find help for these problems. 
 
 Common Chromebook Issues generally fall under one of the following categories: Operating Systems Issues, Internet Connection Problems, or Google Account Login issues. All of these issues are addressed among Google's Chromebook help pages. Below we'll demonstrate how to step through finding answers among this documentation.
 
@@ -14,7 +14,7 @@ This would open a new web page with step-by-step instructions to help get you co
 
 If you don't see what you're looking for immediately among these topics, you can use the search bar at top.
 
-By typing in the issue you are having in the search bar at the top, you can be directed to questions others have previously asked. For example, if you want to learn how to add an extension, you could type 'add extentsion in the search bar. As with most Google search bars, Google will try to provide helpful suggestions of topics you may be interested in. You can click on this if it matches what you're interested in
+By typing in the issue you are having in the search bar at the top, you can be directed to questions others have previously asked. For example, if you want to learn how to add an extension, you could type 'add extension in the search bar. As with most Google search bars, Google will try to provide helpful suggestions of topics you may be interested in. You can click on this if it matches what you're interested in
 
 As before, a page with helpful steps to help solve your problem will show up. 
 

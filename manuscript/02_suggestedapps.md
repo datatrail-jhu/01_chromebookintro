@@ -4,7 +4,7 @@ In the last lesson we discussed how to find web apps through the Google Play sto
 
 ### Downloading Web Applications
 
-To dowload a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up (or using the Search bar to search for Google play should the 'Play Store' icon not be immediately visible). Once the play store pops up, you'll type the app you're interested in downloading in in the search bar at top.
+To download a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up (or using the Search bar to search for Google play should the 'Play Store' icon not be immediately visible). Once the play store pops up, you'll type the app you're interested in downloading in in the search bar at top.
 
 ![Inbox Search Bar](images/02_suggestedapps/02_gettingstarted_suggestedapps-3.png)
 
