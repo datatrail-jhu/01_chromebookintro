@@ -37,8 +37,6 @@ You now have access to Chromebook apps. In the next lesson, we will discuss a nu
 
 ### Chromebook Apps quiz
 
-This is the Chromebook Apps quiz
-
 ? How do you access Chromebook Apps?
 
 a) Google Slides

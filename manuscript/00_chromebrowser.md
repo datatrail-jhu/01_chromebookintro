@@ -45,8 +45,6 @@ If you click on 'Done', the bookmark will be saved to the Bookmarks bar. Next ti
 
 ### Chrome Browser quiz
 
-This is the Chrome Browser quiz
-
 ? What internet browser will we be using?
 
 a) Firefox

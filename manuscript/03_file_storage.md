@@ -49,8 +49,6 @@ You can also move files from your local Downloads folder to the cloud by draggin
 
 ### File Storage quiz
 
-This is the File Storage quiz
-
 ? When you save an image from the Internet, where is it saved?
 
 a) It's not saved. There is no local storage on the Chromebook.

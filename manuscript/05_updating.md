@@ -46,8 +46,6 @@ At this point, your screen will go black for a few seconds. Your Chromebook will
 
 ### Updating Your Chromebook quiz
 
-This is the Updating Your Chromebook quiz
-
 ? TRUE/FALSE: You will always have to manually update your Chromebook. Otherwise, it will not update.
 
 a) TRUE

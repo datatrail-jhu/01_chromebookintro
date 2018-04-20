@@ -79,8 +79,6 @@ You're now all up-to-date!
 
 ### Common Issues quiz
 
-This is the Common Issues quiz
-
 ? Before posting a new question on the support pages, what should you do first?
 
 a) See if your question has been asked and answered previously.

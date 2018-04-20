@@ -86,9 +86,7 @@ The [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 ### Suggested Apps quiz
 
-This is the Suggested Apps quiz
-
-? TRUE/FALSE: Web apps cannot be accessed on your Internet Browser
+? TRUE/FALSE: Web apps cannot be accessed on your Internet Browser.
 
 a) TRUE
 B) FALSE
