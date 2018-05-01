@@ -2,7 +2,7 @@ The beauty of the Chromebook is its simplicity. Most things are accomplished thr
 
 Common Chromebook Issues generally fall under one of the following categories: Operating Systems Issues, Internet Connection Problems, or Google Account Login issues. All of these issues are addressed among Google's Chromebook help pages. Below we'll demonstrate how to step through finding answers among this documentation.
 
-Before we get to that, however, a few good things to consider before going to the help documentation are: First, did I type that web address correctly? Am I getting this error because of a mistake I made? If it is, fix that mistake and move on! Secondly, it's worth considering whether or not you have restarted your Chromebook recently ? If not, now may be a good time to consider restarting to see if the issue still exists.
+However, a few good things to consider before going to the help documentation are: First, did I type that web address correctly? Am I getting this error because of a mistake I made? If it is, fix that mistake and move on! Secondly, it's worth considering whether or not you have restarted your Chromebook recently ? If not, now may be a good time to consider restarting to see if the issue still exists.
 
 If restarting doesn't work or you can't find a mistake, it may be time to consult the Chromebook Support documentation. To access this documentation, you should type the https://support.google.com/chromebook into your Internet browser. Here, you can search for answers to questions others have already asked or ask new questions.
 

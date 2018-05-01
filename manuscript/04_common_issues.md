@@ -10,9 +10,7 @@ The beauty of the Chromebook is its simplicity. Most things are accomplished thr
 * Internet Connection Problems
 * Google Account Login 
 
-All of these issues are addressed among Google's [Chromebook help pages](https://support.google.com/chromebook/answer/4514391?hl=en). Below we'll demonstrate how to step through finding answers among this documentation.
-
-Before we get to that, however, a few good things to consider before going to the help documentation are:
+All of these issues are addressed among Google's [Chromebook help pages](https://support.google.com/chromebook/answer/4514391?hl=en). Below we'll demonstrate how to step through finding answers among this documentation; however, a few good things to consider before going to the help documentation are:
 
 * did I type that web address correctly? Am I getting this error because of a mistake I made? If it is, fix that mistake and move on!
 * Have I restarted recently (within the past week or two)? If not, now may be a good time to consider restarting to see if the issue still exists.

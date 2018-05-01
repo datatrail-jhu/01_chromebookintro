@@ -98,7 +98,7 @@ b) Twitter
 C) Google Calendar
 d) DocHub
 
-? Which of these apps assists improves communication between team members?
+? Which of these apps improves communication between team members?
 
 A) Slack
 b) VLC
