@@ -43,36 +43,34 @@ We've previously discussed Slack as a place where you and all your other team me
 ![Slack](images/02_suggestedapps/02_gettingstarted_suggestedapps-11.png)
 
 
-#### DocHub
-
-![DocHub](images/02_suggestedapps/02_gettingstarted_suggestedapps-12.png)
-
 #### Google Calendar
 
 [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) is a great place to keep track of meetings and life events. We'll discuss the ins and outs of Google Calendar in a later lesson; however, for now, it's important to know that there is a standalone app for Google Calendar.
 
-![Google Calendar](images/02_suggestedapps/02_gettingstarted_suggestedapps-13.png)
+![Google Calendar](images/02_suggestedapps/02_gettingstarted_suggestedapps-12.png)
 
 #### Wunderlist
 
 [Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid) is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to thers. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash.
 
-![Wunderlist](images/02_suggestedapps/02_gettingstarted_suggestedapps-14.png)
+![Wunderlist](images/02_suggestedapps/02_gettingstarted_suggestedapps-13.png)
 
 #### Twitter
 The [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android) app has all the same information as the Twitter website. It has the same tweets, news, and messaging capabilities; however, with it directly on your Chromebook, it makes accessing this information a little easier. 
 
-![Twitter](images/02_suggestedapps/02_gettingstarted_suggestedapps-15.png)
+![Twitter](images/02_suggestedapps/02_gettingstarted_suggestedapps-14.png)
 
 #### Evernote
 [Evernote](https://play.google.com/store/apps/details?id=com.evernote) is an app that can help you get and stay organized. Its primarily a place where you can take notes. However, it also allows you to genertae to-do lists, organize receipts and bills, and to share these things with others. 
 
-![Evernote](images/02_suggestedapps/02_gettingstarted_suggestedapps-16.png)
+![Evernote](images/02_suggestedapps/02_gettingstarted_suggestedapps-15.png)
 
 #### VLC
 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) is a multimedia player. It will play most types of video files. So, if you ever have a video that you're not directly streaming from YouTube, VLC will most likely be able to open and play it.
 
-![VLC](images/02_suggestedapps/02_gettingstarted_suggestedapps-17.png)
+![VLC](images/02_suggestedapps/02_gettingstarted_suggestedapps-16.png)
+
+### Deleting Web Applications 
 
 
 ### Slides and Video
