@@ -43,7 +43,7 @@ If you click on 'Done', the bookmark will be saved to the Bookmarks bar. Next ti
 
 ### Slides and Video
 
-![Chrome Browser](UPDATE LINK)
+![Chrome Browser](https://youtu.be/1PQ6_Bdb9ag)
 
 * [Slides](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/edit?usp=sharing)
 

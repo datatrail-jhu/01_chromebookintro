@@ -86,7 +86,7 @@ A new prompt will pop up asking you to confirm that you want to remove this app.
 
 ### Slides and Video
 
-![Suggested Applications](UPDATE LINK)
+![Suggested Applications](https://youtu.be/EZRo6oCh4Mg)
 
 * [Slides](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/edit?usp=sharing)
 

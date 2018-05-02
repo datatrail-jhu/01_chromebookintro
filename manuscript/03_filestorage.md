@@ -40,7 +40,7 @@ You can also move files from your local Downloads folder to the cloud by draggin
 
 ### Slides and Video
 
-![File Storage](UPDATE LINK)
+![File Storage](https://www.youtube.com/watch?v=qreYBbdske8)
 
 * [Slides](https://docs.google.com/presentation/d/1k9e4UEhxg63DWSFkV71u1ewQQe-4DopdXAMG35O0hkc/edit?usp=sharing)
 

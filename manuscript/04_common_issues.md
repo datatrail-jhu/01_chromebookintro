@@ -68,7 +68,7 @@ You're now all up-to-date!
 
 ### Slides and Video
 
-![Common Issues](UPDATE LINK)
+![Common Issues](https://youtu.be/Xn7f_4-1cLE)
 
 * [Slides](https://docs.google.com/presentation/d/1pAzLCi3qGonAlUi2uKTzSe5eIxgNPUjvOs8IQVNIRC8/edit?usp=sharing)
 

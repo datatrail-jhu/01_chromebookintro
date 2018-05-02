@@ -28,7 +28,7 @@ You now have access to Chromebook apps. In the next lesson, we will discuss a nu
 
 ### Slides and Video
 
-![Chromebook Applications](UPDATE LINK)
+![Chromebook Applications](https://youtu.be/dQrnIRz9r2U)
 
 * [Slides](https://docs.google.com/presentation/d/1_qk0_j1BDjJXLKW-G436BlxmUw3Wt9sxtlYBwA1eKLg/edit?usp=sharing)
 
