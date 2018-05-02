@@ -72,6 +72,17 @@ The [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 ### Deleting Web Applications 
 
+To delete an app from your Chromebook, you'll first click on the circle icon at the bottom left-hand side of the screen. This will open up your apps screen. Within this screen, you'll scroll to the app you'd like to remove. If, for example, you wanted to remove Google Docs, you would use two fingers to click on that icon. 
+
+![Two-finger click on app you want to remove](images/02_suggestedapps/02_gettingstarted_suggestedapps-17.png)
+
+This brings up a menu where you can click on "Remove from Chrome..."
+
+![Menu to remove app from Chrome](images/02_suggestedapps/02_gettingstarted_suggestedapps-18.png)
+
+A new prompt will pop up asking you to confirm that you want to remove this app. If you do want to remove the app, click "Remove".
+
+![Menu to remove app from Chrome](images/02_suggestedapps/02_gettingstarted_suggestedapps-18.png)
 
 ### Slides and Video
 

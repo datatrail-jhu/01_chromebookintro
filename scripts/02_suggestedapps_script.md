@@ -32,3 +32,11 @@ The Twitter app has all the same information as the Twitter website. It has the 
 Evernote is an app that can help you get and stay organized. Its primarily a place where you can take notes. However, it also allows you to generate to-do lists, organize receipts and bills, and to share these things with others. 
 
 V L C is a multimedia player. It will play most types of video files. So, if you ever have a video that you're not directly streaming from YouTube, V L C will most likely be able to open and play it.
+
+To delete an app from your Chromebook, you'll first click on the circle icon at the bottom left-hand side of the screen. This will open up your apps screen. Within this screen, you'll scroll to the app you'd like to remove. If, for example, you wanted to remove Google Docs, you would use two fingers to click on that icon. 
+
+This brings up a menu where you can click on "Remove from Chrome..."
+
+A new prompt will pop up asking you to confirm that you want to remove this app. If you do want to remove the app, click "Remove".
+
+In this lesson we've covered how to download and delete web applications and discussed a number of web applications that will likely be helpful to you as you learn more about data science and get more familiar with your Chromebook.
