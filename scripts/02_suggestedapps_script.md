@@ -1,6 +1,7 @@
 In the last lesson we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to download a web app. We'll then discuss a number of helpful web applications 
 
 To download a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up (or using the Search bar to search for Google play should the 'Play Store' icon not be immediately visible). 
+
 Once the play store pops up, you'll type the app you're interested in downloading in in the search bar at top.
 
 For this first example, we'll have you download Inbox by Gmail. Inbox is a standalone web-app that makes reading and organizing all of your email simple, right on your Chromebook. By typing 'inbox' in the search bar and hitting 'enter', a new window will pop up. 
@@ -20,8 +21,6 @@ This will pop up the most recent apps you've used. If Inbox is among these icons
 Now that you know the process for downloading a web application on your Chromebook, there are a number of other web applications that you may want to download to your Chromebook. We'll discuss what each of them is briefly here and give you a link to read more about that web application; however, none of these apps is essential. These apps can all be accessed directly from your Internet browser; however, sometimes it will make your life and work easier to have the app directly on your Chromebook.The apps discussed below can all be installed using the same process as you used above to install Inbox from Gmail.
 
 We've previously discussed Slack as a place where you and all your other team members can communicate about projects. You can chat, share documents, read past conversations, and receive notifications on Slack. Having the Slack app on your Chromebook will allow you to be updated whenever anyone on the team is trying to communicate with you. 
-
-#### DocHub
 
 Google Calendar is a great place to keep track of meetings and life events. We'll discuss the ins and outs of Google Calendar in a later lesson; however, for now, it's important to know that there is a standalone app for Google Calendar.
 
