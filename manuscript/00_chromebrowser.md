@@ -66,5 +66,12 @@ B) If you visit it frequently
 c) To block that page
 d) To block ads from appearing
 
+? Which of the following is true about Google Chrome browser?
+
+a) It has the advantage of tabbed browsing
+B) You can only use Google Chrome on a Chromebook
+c) It allows for in-browser translation
+d) It allows for private browsing
+
 {/quiz}
 
