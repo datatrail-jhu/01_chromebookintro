@@ -1,10 +1,3 @@
-{
-course-completeness: 90
-course-attempts: 2
-default-quiz-attempts: 2
-default-random-choice-order: true
-}
-
 # Chrome Browser
 
 Google Chrome is Google's internet browser. An internet browser or web browser is a software that can be downloaded on your Windows or Mac computer (or is the default browser on your Chromebook) that you can use to access the web and surf websites. If you want to check an NBA score, shop online, or Google a word, you will need to use an internet browser. In fact, without internet browsers we can't fully exploit the Internet. When you enter the URL of a webpage such as [www.nba.com](www.nba.com) into your internet browser, your browser locates and requests information about that webpage from a web server. Your browser then receives a code file (most likely in HTML or Javascript) that tells your browser what information and how that information from the webpage should be displayed. Your browser then reads and executes the code and displays the webpage for you. This all happens in just a few seconds (or even less) behind the scenes. All the user does is type in a web address and then see the webpage they requested displayed on their computer screen. However, the web browser is running code in the background to allow this to happen.
