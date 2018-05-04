@@ -1,10 +1,8 @@
 In this lesson we will teach you about what a Chromebook is and a little about the philosophy of our program. 
 
-This course is part of the Chromebook Data Science series of courses.Chromebooks are a very specific type of computer produced by Google. 
+This course is part of the Chromebook Data Science series of courses. Chromebooks are a very specific type of computer produced by Google. 
 
-
-Chromebooks aren't exactly like normal computers and they have a few unique characteristics. First, they are usually very cheap. 
-Second, they are are designed mostly to use the web. Third, you don't install any software on the computer itself. And fourth, instead of "apps" and software you simply got to websites for your work
+Chromebooks aren't exactly like normal computers and they have a few unique characteristics. First, they are usually very cheap. Second, they are are designed mostly to use the web. Third, you don't install any software on the computer itself. And fourth, instead of "apps" and software you simply got to websites for your work
 
 A simple way to think about it is that a Chromebook is a computer that only lets you use an internet browser like Chrome. You can't really do much on the computer itself. 
 
