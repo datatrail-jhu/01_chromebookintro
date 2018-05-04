@@ -4,7 +4,7 @@ Google Chrome is Google's internet browser. An internet browser or web browser i
 
 While other web browsers such as Safari, Microsoft Edge (formerly Internet Explorer), or Firefox can be used instead of Chrome, Chrome is the [https://en.wikipedia.org/wiki/Usage_share_of_web_browsers] (most popular internet browser). This is what Chrome looks like when opened.
 
-![Google Chrome](images/00_chromebrowser/00_gettingstarted_chromebrowser-2.png)
+![Google Chrome](images/00_chromebrowser/00_gettingstarted_chromebrowser-1.png)
 
 ### Why Google Chrome
 
@@ -16,23 +16,23 @@ Google Chrome offers features that are unique in addition to features that most 
 
 3. Bookmark webpages you visit regularly. This feature is not unique to Chrome but comes in handy frequently. It's especially helpful if you don't want to type the full address of a webpage, visit a page frequently, or are afraid you will forget them. To bookmark a webpage in Chrome, simply click on the star in the address bar or press _Ctrl_ + _D_ on your keyboard. This will open the following window.
 
-![Bookmark Menu](images/00_chromebrowser/00_gettingstarted_chromebrowser-4.png)
+![Bookmark Menu](images/00_chromebrowser/00_gettingstarted_chromebrowser-3.png)
 
 If you click on 'Done', the bookmark will be saved to the Bookmarks bar. Next time you like to check the webpage you bookmarked without typing the address, you can click on the Chrome menu in the top-right corner, hover over Bookmarks, then click the bookmark you'd like to open.
 
-![Bookmarks](images/00_chromebrowser/00_gettingstarted_chromebrowser-5.png)
+![Bookmarks](images/00_chromebrowser/00_gettingstarted_chromebrowser-4.png)
 
 4. Incognito mode creates a private browsing session that allows you to browse the web without leaving any fingerprint. When you're in Incognito Mode, your browser doesn't log what you've been doing during your last Internet session. This can be helpful when you're shopping online. By browsing in Incognito Mode, you should not later get ads targeting you to buy the items you had searched for earlier. Similarly, airlines track individuals patterns on the web. In Incognito Mode, there is a chance you'll be able to save a little bit on air travel prices. To launch a new incognito window, press _Ctrl_ + _Shift_ + _N_, which opens a grey-colored window.
 
-![Incognito](images/00_chromebrowser/00_gettingstarted_chromebrowser-6.png)
+![Incognito](images/00_chromebrowser/00_gettingstarted_chromebrowser-5.png)
 
 5. Tabbed browsing is another feature that most browsers have. It allows you to browse the web and view multiple pages in one browser window instead of opening multiple windows. To open a new tab, simply press _Ctrl_ + _T_.
 
-![Tabs](images/00_chromebrowser/00_gettingstarted_chromebrowser-7.png)
+![Tabs](images/00_chromebrowser/00_gettingstarted_chromebrowser-6.png)
 
 6. In-browser translation uses Google's signature translation service, Google Translate. If you are browsing a webpage in a language that you don't know, Google, in most cases, suggests to translate the webpage for you to English at the top of the webpage. To translate a page, click 'Translate' at the top of the web browser. Google translate is not perfect but the outcome is definitely better than staring at the webpage trying to make sense of the language you don't know.
 
-![Translate](images/00_chromebrowser/00_gettingstarted_chromebrowser-8.png)
+![Translate](images/00_chromebrowser/00_gettingstarted_chromebrowser-7.png)
 
 ### Slides and Video
 
