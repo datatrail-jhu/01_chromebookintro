@@ -12,9 +12,9 @@ This course is part of the ["Chromebook Data Science"](http://jhudatascience.org
 * They are usually [very cheap](https://www.google.com/chromebook/find-yours/)
 * They are designed mostly to use the web
 * You don't "install" any software on the computer itself
-* Instead of "apps" and "software" you simply got to websites for your work
+* Instead of "apps" and "software" you simply go to websites for your work
 
-A simple way to think about it is that a Chromebook is a computer that only lets you use an internet browser like [Chrome](https://www.google.com/chrome/). You can't really do much on the computer itself. Some people call this way of working - working only through the internet - ["cloud computing"](https://en.wikipedia.org/wiki/Cloud_computing). It's called cloud because the computer you are using most of the time is not the one sitting in front of you. You are using the internet to access tools and computers to do your work. But the physical computers doing the work are stored somewhere else - it could be nearby or on the other side of the globe. That is why people call the computers "in the cloud".
+A simple way to think about it is that a Chromebook is a computer that only lets you use an internet browser like [Chrome](https://www.google.com/chrome/). You can't really do much on the computer itself. Some people call this way of working - working only through the internet - ["cloud computing"](https://en.wikipedia.org/wiki/Cloud_computing). It's called cloud computing because the computer you are using most of the time is not the one sitting in front of you. You are using the internet to access tools and computers to do your work. But the physical computers doing the work are stored somewhere else - it could be nearby or on the other side of the globe. That is why people call the computers "in the cloud".
 
 The goal of Chromebook Data Science is not that you _have_ to use a Chromebook to finish the program, it is just that you _could_ use a Chromebook to finish the whole program. You can finish the entire sequence of courses using any computer with an internet connection and a web browser. Doing everything through a web browser has a couple of advantages for a training program like this: 
 
@@ -37,7 +37,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 
 ### Slides and Video
 
-![What is a Chromebook](https://youtu.be/zvwPkcf99gI)
+![What is a Chromebook](https://youtu.be/uA0F4pgkdFA)
 
 * [Slides](https://docs.google.com/presentation/d/1GMZhK8UFRljEGRFfcj2Uy358E7DYUf3Asi_UtPeYY88/edit?usp=sharing)
 
