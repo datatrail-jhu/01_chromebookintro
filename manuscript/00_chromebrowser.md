@@ -9,7 +9,7 @@ default-random-choice-order: true
 
 Google Chrome is Google's internet browser. An internet browser or web browser is a software that can be downloaded on your Windows or Mac computer (or is the default browser on your Chromebook) that you can use to access the web and surf websites. If you want to check an NBA score, shop online, or Google a word, you will need to use an internet browser. In fact, without internet browsers we can't fully exploit the Internet. When you enter the URL of a webpage such as [www.nba.com](www.nba.com) into your internet browser, your browser locates and requests information about that webpage from a web server. Your browser then receives a code file (most likely in HTML or Javascript) that tells your browser what information and how that information from the webpage should be displayed. Your browser then reads and executes the code and displays the webpage for you. This all happens in just a few seconds (or even less) behind the scenes. All the user does is type in a web address and then see the webpage they requested displayed on their computer screen. However, the web browser is running code in the background to allow this to happen.
 
-While other web browsers such as Safari, Microsoft Edge (formerly Internet Explorer), or Firefox can be used instead of Chrome, Chrome is the most popular internet browser. This is what Chrome looks like when opened.
+While other web browsers such as Safari, Microsoft Edge (formerly Internet Explorer), or Firefox can be used instead of Chrome, Chrome is the [https://en.wikipedia.org/wiki/Usage_share_of_web_browsers] (most popular internet browser). This is what Chrome looks like when opened.
 
 ![Google Chrome](images/00_chromebrowser/00_gettingstarted_chromebrowser-2.png)
 
@@ -17,7 +17,7 @@ While other web browsers such as Safari, Microsoft Edge (formerly Internet Explo
 
 Google Chrome offers features that are unique in addition to features that most modern browsers offer. Below we investigate some of these features:
 
-1. Signing in to Chrome using your Gmail account automatically signs you in to all Google services including YouTube, Gmail, Google Drive, etc.. 
+1. Signing in to Chrome using your Gmail account automatically signs you in to all Google services including YouTube, Gmail, Google Drive, etc. 
 
 2. You can customize your experience by changing the settings and by adding apps, extensions, and themes. Extensions are small software programs that can be installed on Chrome. Extensions can block ads from being displayed, manage your passwords, translate, or create notes and todo lists.
 
@@ -29,7 +29,7 @@ If you click on 'Done', the bookmark will be saved to the Bookmarks bar. Next ti
 
 ![Bookmarks](images/00_chromebrowser/00_gettingstarted_chromebrowser-5.png)
 
-4. Incognito mode creates a private browsing session that allows you to browse the web without leaving any fingerprint. When you're in Incognito Mode, your browser doesn't log what you've been doing during your last Internet session. This can be helpful when you're shopping online. By browsing in Incognito mode, you should not later get ads targeting you to buy the items you had searched for earlier. Similarly, airlines track individuals patterns on the web. In Incognito mode, there is a chance you'll be able to save a little bit on air travel prices. To launch a new incognito window, press _Ctrl_ + _Shift_ + _N_, which opens a grey-colored window.
+4. Incognito mode creates a private browsing session that allows you to browse the web without leaving any fingerprint. When you're in Incognito Mode, your browser doesn't log what you've been doing during your last Internet session. This can be helpful when you're shopping online. By browsing in Incognito Mode, you should not later get ads targeting you to buy the items you had searched for earlier. Similarly, airlines track individuals patterns on the web. In Incognito Mode, there is a chance you'll be able to save a little bit on air travel prices. To launch a new incognito window, press _Ctrl_ + _Shift_ + _N_, which opens a grey-colored window.
 
 ![Incognito](images/00_chromebrowser/00_gettingstarted_chromebrowser-6.png)
 
@@ -65,6 +65,13 @@ a) If you never want to visit the page again
 B) If you visit it frequently
 c) To block that page
 d) To block ads from appearing
+
+? Which of the following is true about Google Chrome browser?
+
+a) It has the advantage of tabbed browsing
+B) You can only use Google Chrome on a Chromebook
+c) It allows for in-browser translation
+d) It allows for private browsing
 
 {/quiz}
 

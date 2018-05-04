@@ -4,7 +4,7 @@ In computing, there are often updates that are available. Updates can fix bugs, 
 1. A Chromebook
 2. An Internet Connection
 
-In fact, every time you power on your Chromebook, it will check for and apply available updates. In fact, some updates to the Chrome OS happen in the background automatically while you're using your device with the updates going into effect the next time you restart. However, should you ever need or want to manually update your Chromebook, you can do so using the following steps:
+Every time you power on your Chromebook, it will check for and apply available updates. In fact, some updates to the Chrome OS happen in the background automatically while you're using your device with the updates going into effect the next time you restart. However, should you ever need or want to manually update your Chromebook, you can do so using the following steps:
 
 
 ### Steps to Update
@@ -37,7 +37,7 @@ At this point, your screen will go black for a few seconds. Your Chromebook will
 
 ### Slides and Video
 
-![Updating Your Chromebook](https://youtu.be/bcidAAwWwP4)
+![Updating Your Chromebook](https://youtu.be/UDYbOEp8Y3s)
 
 * [Slides](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/edit?usp=sharing)
 

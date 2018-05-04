@@ -1,10 +1,10 @@
 # Suggested Applications
 
-In the last lesson we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to download a web app. We'll then discuss a number of helpful web applications 
+In the last lesson, we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to download a web app. We'll then discuss a number of helpful web applications.
 
 ### Downloading Web Applications
 
-To download a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up (or using the Search bar to search for Google play should the 'Play Store' icon not be immediately visible). Once the play store pops up, you'll type the app you're interested in downloading in in the search bar at top.
+To download a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up. Alterntively, you can use the Search bar to search for Google Play if the 'Play Store' icon is not immediately visible. Once the play store pops up, you'll type the app that you're interested in downloading in in the search bar at top.
 
 ![Inbox Search Bar](images/02_suggestedapps/02_gettingstarted_suggestedapps-3.png)
 
@@ -18,7 +18,7 @@ In that same window, your browser will let you know that the app is Installing. 
 
 ![OPEN Inbox by Gmail](images/02_suggestedapps/02_gettingstarted_suggestedapps-6.png)
 
-At this point, Inbox will open and the Inbox icon will appear in the bar along the bottom of your screen. The Inbox app has now been downloaded! You can explore this app further now to see how it works if you'd like!
+At this point, Inbox will open, and the Inbox icon will appear in the bar along the bottom of your screen. The Inbox app has now been downloaded! You can explore this app further now to see how it works if you'd like!
 
 ![Inbox by Gmail](images/02_suggestedapps/02_gettingstarted_suggestedapps-7.png)
 
@@ -35,9 +35,10 @@ This will pop up the most recent apps you've used. If Inbox is among these icons
 
 ### Helpful Apps for your Chromebook
 
-Now that you know the process for downloading a web application on your Chromebook, there are a number of other web applications that you may want to download to your Chromebook. We'll discuss what each of them is briefly here and give you a link to read more about that web application; however, none of these apps is essential. These apps can all be accessed directly from your Internet browser; however, sometimes it will make your life and work easier to have the app directly on your Chromebook. The apps discussed below can all be installed using the same process as you used above to install Inbox from Gmail.
+Now that you know the process for downloading a web application on your Chromebook, there are a number of other web applications that you may want to download to your Chromebook. We'll discuss what each of them is briefly here and give you a link to read more about that web application. None of these apps is essential, but they may be helpful for productivity or organization. These apps can all be accessed directly from your Internet browser, but sometimes it will make your life and work easier to have the app directly on your Chromebook. The apps discussed below can all be installed using the same process as you used above to install Inbox from Gmail.
 
 #### Slack
+
 We've previously discussed Slack as a place where you and all your other team members can communicate about projects. You can chat, share documents, read past conversations, and receive notifications on Slack. Having the [Slack app](https://play.google.com/store/apps/details?id=com.Slack) on your Chromebook will allow you to be updated whenever anyone on the team is trying to communicate with you. 
 
 ![Slack](images/02_suggestedapps/02_gettingstarted_suggestedapps-11.png)
@@ -56,16 +57,19 @@ We've previously discussed Slack as a place where you and all your other team me
 ![Wunderlist](images/02_suggestedapps/02_gettingstarted_suggestedapps-13.png)
 
 #### Twitter
+
 The [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android) app has all the same information as the Twitter website. It has the same tweets, news, and messaging capabilities; however, with it directly on your Chromebook, it makes accessing this information a little easier. 
 
 ![Twitter](images/02_suggestedapps/02_gettingstarted_suggestedapps-14.png)
 
 #### Evernote
-[Evernote](https://play.google.com/store/apps/details?id=com.evernote) is an app that can help you get and stay organized. Its primarily a place where you can take notes. However, it also allows you to genertae to-do lists, organize receipts and bills, and to share these things with others. 
+
+[Evernote](https://play.google.com/store/apps/details?id=com.evernote) is an app that can help you get and stay organized. It is primarily a place where you can take notes. However, it also allows you to generate to-do lists, organize receipts and bills, and to share these things with others. 
 
 ![Evernote](images/02_suggestedapps/02_gettingstarted_suggestedapps-15.png)
 
 #### VLC
+
 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) is a multimedia player. It will play most types of video files. So, if you ever have a video that you're not directly streaming from YouTube, VLC will most likely be able to open and play it.
 
 ![VLC](images/02_suggestedapps/02_gettingstarted_suggestedapps-16.png)
@@ -86,7 +90,7 @@ A new prompt will pop up asking you to confirm that you want to remove this app.
 
 ### Slides and Video
 
-![Suggested Applications](https://youtu.be/EZRo6oCh4Mg)
+![Suggested Applications](https://youtu.be/9qpOBCLSFYQ)
 
 * [Slides](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/edit?usp=sharing)
 
