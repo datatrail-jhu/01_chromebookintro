@@ -6,23 +6,23 @@ At this point, you may have realized that in many ways your Chromebook works jus
 
 Similar to apps on your phone or that are advertised on television and radio ("There's an app for that!"), Chromebook apps are downloaded from the Internet. These applications are referred to as web apps. There are many types of applications. They can be used to increase your productivity, help you plan your taxes, or entertain you, among many other things. To get started, Chromebook apps can specifically be searched from your Chromebook, by first clicking on the Launcher button on the bottom left-hand side of the screen.
 
-![Home Screen](images/01_chromebookapps/01_gettingstarted_chromebookapps-3.png)
+![Home Screen](images/01_chromebookapps/01_gettingstarted_chromebookapps-2.png)
 
 This brings up a menu where you can select 'Play Store.' 
 
-![Play Store](images/01_chromebookapps/01_gettingstarted_chromebookapps-4.png)
+![Play Store](images/01_chromebookapps/01_gettingstarted_chromebookapps-3.png)
 
 The first time you click on 'Play Store' will bring you to the Google Play Terms of Service. After reading the Terms of Service, click on 'Agree' in the bottom right-hand side of the window.  
 
-![Google Play Terms of Service](images/01_chromebookapps/01_gettingstarted_chromebookapps-5.png)
+![Google Play Terms of Service](images/01_chromebookapps/01_gettingstarted_chromebookapps-4.png)
 
 The following window will ask you to accept the Google Play Terms of Service. Here, you will click 'ACCEPT' to get to Google Play's apps.
 
-![Accept Terms of Service](images/01_chromebookapps/01_gettingstarted_chromebookapps-6.png)
+![Accept Terms of Service](images/01_chromebookapps/01_gettingstarted_chromebookapps-5.png)
 
 You now have access to Chromebook apps. In the next lesson, we will discuss a number of apps that you may want to add to your Chromebook. They will all be accessed through this screen.
 
-![Google Play](images/01_chromebookapps/01_gettingstarted_chromebookapps-7.png)
+![Google Play](images/01_chromebookapps/01_gettingstarted_chromebookapps-6.png)
 
 
 
