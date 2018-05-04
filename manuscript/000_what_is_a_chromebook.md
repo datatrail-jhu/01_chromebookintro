@@ -34,7 +34,15 @@ If you restrict yourself to only working in web browsers, doing everything will 
 
 Using Chromebooks to do data science is a relatively [new idea](https://simplystatistics.org/2017/08/29/data-science-on-a-chromebook/) and is only possible in the last few years. But increasingly the tools for doing data science are available through the web. It is more and more common to have to use the internet to rent computers, do analyses, or distribute your results. So by learning to do data science on a Chromebook, you are preparing for a future where most analysis is done online. 
 
-{quiz, id: quiz_00_chrome_browser}
+
+### Slides and Video
+
+![Chromebook Applications](https://youtu.be/dQrnIRz9r2U)
+
+* [Slides](https://docs.google.com/presentation/d/1GMZhK8UFRljEGRFfcj2Uy358E7DYUf3Asi_UtPeYY88/edit?usp=sharing)
+
+
+{quiz, id: quiz_00_what_is_a_chromebook}
 
 ### What is a Chromebook Quiz
 
