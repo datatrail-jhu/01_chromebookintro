@@ -37,7 +37,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 
 ### Slides and Video
 
-![Chromebook Applications](https://youtu.be/dQrnIRz9r2U)
+![What is a Chromebook](https://youtu.be/zvwPkcf99gI)
 
 * [Slides](https://docs.google.com/presentation/d/1GMZhK8UFRljEGRFfcj2Uy358E7DYUf3Asi_UtPeYY88/edit?usp=sharing)
 
