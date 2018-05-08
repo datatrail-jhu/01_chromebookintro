@@ -1,13 +1,14 @@
 # Chromebook Applications
 
-Your Chromebook is a little different than most normal Desktop computers. The main difference is that almost everything will be done in a Chrome web browser. "Apps" for your Chromebook are mostly going to be links to the website versions of 
+Your Chromebook is a little different than most normal Desktop computers. The main difference is that almost everything will be done in a Chrome web browser. "Apps" for your Chromebook are mostly going to be links to websites where you can use software. For the most part, we won't use any software that save data directly to your computer. 
 
-
-At this point, you may have realized that in many ways your Chromebook works just like any other laptop or desktop computer you've ever used. However, you may have noticed a few differences. Specifically, we've done everything so far on the Chrome browser. We haven't used any software that save data directly to your computer. This is because there is not a lot of memory actually on the Chromebook itself. That's not to say you'll be limited in what you can do as a data scientist. Rather, your work will be done in the cloud, rather than on your Chromebook directly. Also, while you won't be downloading software directly to your Chromebook, you can personalize your Chromebook in a manner similar to what you may have previously done on a laptop or desktop computer. On a Chromebook, this is done through Chromebook Applications, or Chromebook apps.  
+That's not to say you'll be limited in what you can do as a data scientist. Rather, your work will be done in the "cloud", rather than on your Chromebook directly. Also, while you won't be downloading software directly to your Chromebook, you can personalize your Chromebook in a manner similar to what you may have previously done on a laptop or desktop computer. On a Chromebook, this is done through Chromebook Applications, or Chromebook Apps.  
 
 ### What is a Chromebook app?
 
-Similar to apps on your phone or that are advertised on television and radio ("There's an app for that!"), Chromebook apps are downloaded from the Internet. These applications are referred to as web apps. There are many types of applications. They can be used to increase your productivity, help you plan your taxes, or entertain you, among many other things. To get started, Chromebook apps can specifically be searched from your Chromebook, by first clicking on the Launcher button on the bottom left-hand side of the screen.
+Similar to apps on your phone or apps on a normal Desktop computer, Chromebook Apps let you do specific tasks on your Chromebook. Rather than downloading these apps to your computer, you will set up links to the websites on your Chromebook. 
+
+These applications are referred to as web apps. There are many types of applications for a whole range of tasks, just like on your phone or a normal computer. They can be used to increase your productivity, help you plan your taxes, or entertain you, among many other things. To get started, Chromebook apps can specifically be searched from your Chromebook, by first clicking on the Launcher button on the bottom left-hand side of the screen.
 
 ![Home Screen](images/01_chromebookapps/01_gettingstarted_chromebookapps-2.png)
 
@@ -27,7 +28,9 @@ You now have access to Chromebook apps. In the next lesson, we will discuss a nu
 
 ![Google Play](images/01_chromebookapps/01_gettingstarted_chromebookapps-6.png)
 
+Once you have installed an app you can find it by again clicking on the Launcher button on the lower left hand side of the screen. 
 
+Your "shelf" is the set of apps that are viewable on the bottom of your Desktop. You can "pin" an app to the shelf by 
 
 ### Slides and Video
 
