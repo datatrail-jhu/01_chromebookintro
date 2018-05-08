@@ -1,6 +1,8 @@
 # Where Are Files Stored?
 
-Chromebooks are sold with the basic idea that you will store everything in the cloud. And, throughout this course, we'll stick to this principle. However, there _is_ local storage on your Chromebook. There's not a lot of it, so we will want to store all of your Docs, Slides, and Sheets on Google Drive; however, you should be aware of where you can find files stored locally on your Chromebook
+Chromebooks are sold with the basic idea that you will store everything in the cloud. And, this set of courses is designed with this principle in mind. So most files will be stored online and usedd through your web browser. However, there _is_ local storage on your Chromebook. There's not a lot of it, so we will want to store all of your Docs, Slides, and Sheets on Google Drive; however, you should be aware of where you can find files stored locally on your Chromebook. 
+
+This can be particularly useful when people send you a file in an email and you want to eventually store it online. You might need to download it first to upload it again to one of the online file storage systems. 
 
 ### Where is the local storage?
 
@@ -36,7 +38,9 @@ To delete something from your Downloads folder, select that file and then click 
 
 ![Delete](images/03_file_storage/03_gettingstarted_file_storage-8.png)
 
-You can also move files from your local Downloads folder to the cloud by dragging a file and dropping it into 'Google Drive' along the left-hand side of the window. This will place a copy of the file onto your Google Drive in the cloud. However, the local copy on your Chromebook will still be there. You'll still have to go and delete the copy from your Downloads folder before the space on your Chromebook is freed up.
+You can also move files from your local Downloads folder to the cloud by dragging a file and dropping it into 'Google Drive' along the left-hand side of the window. This will place a copy of the file onto your Google Drive in the cloud. However, the local copy on your Chromebook will still be there. You'll still have to go and delete the copy from your Downloads folder before the space on your Chromebook is freed up
+
+Generally you will want to do this often because you will quickly run out of local storage space on your Chromebook if you don't upload the files frequently to Google Drive or Dropbox. 
 
 ### Slides and Video
 

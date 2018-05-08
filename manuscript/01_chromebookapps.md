@@ -1,5 +1,8 @@
 # Chromebook Applications
 
+Your Chromebook is a little different than most normal Desktop computers. The main difference is that almost everything will be done in a Chrome web browser. "Apps" for your Chromebook are mostly going to be links to the website versions of 
+
+
 At this point, you may have realized that in many ways your Chromebook works just like any other laptop or desktop computer you've ever used. However, you may have noticed a few differences. Specifically, we've done everything so far on the Chrome browser. We haven't used any software that save data directly to your computer. This is because there is not a lot of memory actually on the Chromebook itself. That's not to say you'll be limited in what you can do as a data scientist. Rather, your work will be done in the cloud, rather than on your Chromebook directly. Also, while you won't be downloading software directly to your Chromebook, you can personalize your Chromebook in a manner similar to what you may have previously done on a laptop or desktop computer. On a Chromebook, this is done through Chromebook Applications, or Chromebook apps.  
 
 ### What is a Chromebook app?

@@ -1,6 +1,7 @@
 # Updating your Chromebook
 
 In computing, there are often updates that are available. Updates can fix bugs, add new features, and/or improve security on your chromebook. Over time, your apps will need to be updated as well as your Chromebook's operating system (OS) itself. To update your Chromebook you only need two things:
+
 1. A Chromebook
 2. An Internet Connection
 
