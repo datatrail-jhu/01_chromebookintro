@@ -1,6 +1,6 @@
 # Common issues with Chromebooks
 
-The beauty of the Chromebook is its simplicity. Most things are accomplished through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll discuss them below and describe where you can find help for these problems. 
+Chromebooks have the advantage of being very simple. You are going to do almost everything through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll discuss them below and describe where you can find help for these problems. 
 
 ### Common Issues
 

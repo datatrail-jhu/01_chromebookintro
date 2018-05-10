@@ -1,6 +1,6 @@
 # Suggested Applications
 
-In the last lesson, we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to download a web app. We'll then discuss a number of helpful web applications.
+In the last lesson, we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to install a web app. We'll then discuss a number of helpful web applications. These are some of the software that you will most likely be using to perform general tasks that data scientists have to do frequently. 
 
 ### Downloading Web Applications
 

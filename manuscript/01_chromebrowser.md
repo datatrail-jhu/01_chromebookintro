@@ -77,7 +77,7 @@ Those are the basics of how you manipulate windows and tabs in the Chrome browse
 * [Slides](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/edit?usp=sharing)
 
 
-{quiz, id: quiz_00_chrome_browser}
+{quiz, id: quiz_01_chrome_browser}
 
 ### Chrome Browser quiz
 

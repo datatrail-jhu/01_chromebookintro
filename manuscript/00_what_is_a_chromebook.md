@@ -42,7 +42,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 * [Slides](https://docs.google.com/presentation/d/1GMZhK8UFRljEGRFfcj2Uy358E7DYUf3Asi_UtPeYY88/edit?usp=sharing)
 
 
-{quiz, id: quiz_000_what_is_a_chromebook}
+{quiz, id: quiz_00_what_is_a_chromebook}
 
 ### What is a Chromebook Quiz
 

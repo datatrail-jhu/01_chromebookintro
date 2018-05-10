@@ -1,8 +1,8 @@
-# Offline Accces
+# Working offline
 
-Chromebooks are primarily meant to be used with an 
+Chromebooks are primarily meant to be used with an internet connection
 
-![Nearly up to date! RESTART your device to finish updating](images/05_updating/05_gettingstarted_updating-8.png)
+![Nearly up to date! RESTART your device to finish updating](images/05_working_offline/05_gettingstarted_updating-8.png)
 
  
 
