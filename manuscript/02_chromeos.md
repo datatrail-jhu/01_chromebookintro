@@ -1,6 +1,6 @@
 # Chrome OS
 
-Your Chromebook is a little different than most normal Desktop computers. The main difference is that almost everything will be done in a Chrome web browser. For the most part, we won't use any software that saves data directly to your computer with a few small exceptions.
+Your Chromebook is a little different than most normal Desktop computers. The main difference is that almost everything will be done in a Chrome web browser. For the most part, we won't use any software that saves data directly to your computer with a few small exceptions. All this is not to say you'll be limited in what you can do as a data scientist. Rather, your work will be done in the "cloud", rather than on your Chromebook directly.
 
 When using a "normal" computer you usually download software that makes it possible to edit files, make presentations, use your calendar, or use social media. On a Chromebook there are three different ways that you can add new software to use. 
 
@@ -9,6 +9,8 @@ When using a "normal" computer you usually download software that makes it possi
 * __Android Apps__ - Many modern Chromebooks now support installing Android Apps. These are the same apps that you would get if you had an Android phone. These apps won't run inside of a web browser, but will function just like an app on your phone. 
 
 You can think of all three of these extensions to Chrome OS as "Apps". Not all Chromebooks support Android Apps and we want anyone to be able to complete the Chromebook Data Science Program if they have a Chrome web browser and an internet connection. So we will mostly focus on Chrome Apps and Extensions for this course. But if you have Android Apps that you like on your phone and have a [Chromebook that supports Android Apps](https://www.androidcentral.com/these-are-chromebooks-can-run-android-apps) then you can add on to what we teach here. 
+
+ 
 
 ### Chrome "Apps"
 
@@ -55,6 +57,9 @@ You will then see the app on your Shelf so you can click on it to be taken direc
 If you want to "Unpin" or remove an App from your Shelf you should right click on the app on the Shelf, hover over the Unpin command and let go. The App will then be removed from your shelf. 
 
 
+
+### Websites as Chrome Apps
+
 You can actually add any website you want to your shelf, not just the ones that have Chrome Apps. For example, we will be using http://rstudio.cloud for a lot of the work in this course. There is not a Chrome App for http://rstudio.cloud. But you can still add this website to your shelf. 
 
 You can do this by first navigating to the website you want to add. Then clicking on the three dots in the upper right hand corner of the Chrome Browser. This will open up a menu and you can move yur cursor until it hovers over _More Tools_. Then you can move your cursor over _Add to shelf..._ and let go. 
@@ -65,63 +70,37 @@ This should then open up a window where you can name the website you are linking
 Once you are done you will see an icon for http://rstudio.cloud on your shelf so you will be able to quickly navigate to this web app in the future. 
 
 
-
-### Getting Chrome Apps
+### The Chrome Web Store and Chrome Apps
 
 Chrome Apps are pieces of software that can be run from the web browser. Sometimes you will need to download and install them on your Chromebook and sometimes they will just be an icon with a link to a particular website that lets you do some function. 
 
-We already talked about how you can To install a new Chrome App you need to use the Google Web Store. 
+We already talked about how you can install any webpage as a Chrome App direclty. But many Chrome Apps can also be found in the Chrome Web Store. This is a website that lets you search and find Chrome Apps for your Chromebook, similar to Google Play for Android Apps or the Appstore for Apple apps. You can get to the Chrome Web Store by clicking on the launcher button, then finding and clicking the Web Store icon. 
+
+You will be taken to the Chrome Web Store in your browser. 
+You can filter by whether they are free, built by Google, or are able to run offline. The first thing we will do is click on _Apps_ to ensure that we are searching only among Chrome Apps.  
+
+As an example we will find and install the [Stackedit](https://stackedit.io/) app, which is useful for writing markdown documents that you will use throughout the Chromebook Data Science courses. One nice feature of _Stackedit_ is that it can be used even when your Chromebook is offline. To find the app, we will search for _stackedit_ and then click return. 
+
+This will show two options one as a Chrome App and one as a Chrome Extension. 
 
 
-That's not to say you'll be limited in what you can do as a data scientist. Rather, your work will be done in the "cloud", rather than on your Chromebook directly. Also, while you won't be downloading software directly to your Chromebook, you can personalize your Chromebook in a manner similar to what you may have previously done on a laptop or desktop computer. On a Chromebook, this is done through Chromebook Applications, or Chromebook Apps.  
+We will select the app version and click _Add to Chrome_. This will bring up a dialogue box that asks if you would like to add _Stackedit_. Click on _Add_ and the app will be installed on your Chromebook. 
 
-### What is a Chromebook app?
-
-Similar to apps on your phone or apps on a normal Desktop computer, Chromebook Apps let you do specific tasks on your Chromebook. Rather than downloading these apps to your computer, you will set up links to the websites on your Chromebook. 
-
-These applications are referred to as web apps. There are many types of applications for a whole range of tasks, just like on your phone or a normal computer. They can be used to increase your productivity, help you plan your taxes, or entertain you, among many other things. To get started, Chromebook apps can specifically be searched from your Chromebook, by first clicking on the Launcher button on the bottom left-hand side of the screen.
-
-![Home Screen](images/01_chromebookapps/01_gettingstarted_chromebookapps-3.png)
-
-This brings up a menu where you can select 'Play Store.' 
-
-![Play Store](images/01_chromebookapps/01_gettingstarted_chromebookapps-4.png)
-
-The first time you click on 'Play Store' will bring you to the Google Play Terms of Service. After reading the Terms of Service, click on 'Agree' in the bottom right-hand side of the window.  
-
-![Google Play Terms of Service](images/01_chromebookapps/01_gettingstarted_chromebookapps-5.png)
-
-The following window will ask you to accept the Google Play Terms of Service. Here, you will click 'ACCEPT' to get to Google Play's apps.
-
-![Accept Terms of Service](images/01_chromebookapps/01_gettingstarted_chromebookapps-6.png)
-
-You now have access to Chromebook apps. In the next lesson, we will discuss a number of apps that you may want to add to your Chromebook. They will all be accessed through this screen.
-
-![Google Play](images/01_chromebookapps/01_gettingstarted_chromebookapps-7.png)
-
-Once you have installed an app you can find it by again clicking on the Launcher button on the lower left hand side of the screen. 
-
-![Click on launcher window to view apps](images/01_chromebookapps/01_gettingstarted_chromebookapps-8.png)
-
-If you don't see it among the first set of apps if you click on the arrow at the bottom of the screen you will be taken to a large list of apps installed on your Chromebook. 
+You can then click the Launcher button in the lower left to see that the app has been installed. 
 
 
-![Click on the arrow to see more apps](images/01_chromebookapps/01_gettingstarted_chromebookapps-9.png)
+If you click on the _Stackedit_ icon you'll be taken to the app, which you can see is also run in the Chrome web browser. 
+
+### Chrome extensions
 
 
-Your "shelf" is the set of apps that are viewable on the bottom of your Desktop. You can "pin" an app to the shelf by clicking with two fingers (sometimes called right clicking) on an app and then hovering over "Pin to Shelf" and letting go. For example you might want to pin your "Folder" with your local files to your Shelf so you can easily access it. 
 
-![Pin an app by right clicking](images/01_chromebookapps/01_gettingstarted_chromebookapps-10.png)
-
-
-You will then see the app on your Shelf so you can click on it to be taken directly to that Chrome App. 
-
-![The app is now pinned to your shelf.](images/01_chromebookapps/01_gettingstarted_chromebookapps-11.png)
+### Android Apps
 
 
-If you want to "Unpin" or remove an App from your Shelf you should right click on the app on the Shelf, hover over the Unpin command and let go. The App will then be removed from your shelf. 
 
-![Unpin an app by right clicking on the shelf.](images/01_chromebookapps/01_gettingstarted_chromebookapps-12.png)
+
+
 
 ### Slides and Video
 
