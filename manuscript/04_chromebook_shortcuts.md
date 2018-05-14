@@ -28,17 +28,17 @@ The full screen key will take a tab you are working on and make that tab fill th
 
 ![The full screen key is the key with the window with two arrows in the upper middle of the keyboard.](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-5.png)
 
-Thhe button next to that is the show all windows button. This button will show you all the windows you have open, including Chrome Windows and any Android Apps you might have open. We will call this button the `showwindows` button. 
+The button next to that is the show all windows button. This button will show you all the windows you have open, including Chrome Windows and any Android Apps you might have open. We will call this button the `showwindows` button. 
 
-![The show windows key is the key with the window and two lines next to it in the upper middle of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-5.png)
+![The show windows key is the key with the window and two lines next to it in the upper middle of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-6.png)
 
 The screen lock key in the upper right hand corner will lock your Chromebook when you aren't using it and if you set up your settings to require a password, then you will need to re-enter your password to re-open your Chromebook. When working on data science projects where the data is sensitive it is a good idea to lock your Chromebook whenever you aren't using it. We will call this the `lock` key. 
 
-![The lock key is the key with the lock  in the upper right of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-6.png)
+![The lock key is the key with the lock  in the upper right of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-7.png)
 
 You will recall that the Launcher key is the key with the magnifying glass on the left hand side of the keyboard. We will call this the `launcher` key. 
 
-![The launcher key is the magnifying glass on the right of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-7.png)
+![The launcher key is the magnifying glass on the right of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-8.png)
 
 
 ### Taking Screenshots on a Chromebook
@@ -48,15 +48,30 @@ Using these keys we can now consider some of the more useful keyboard shortcuts 
 One of the most useful things to know how to do is to be able to take a screenshot. You will use this when you are trouble shooting problems in the course frequently. There are two ways to take a screenshot. The first is to use the command `ctrl+showwindows`. If you use this key combination you will take a picture of everything that appears on the screen. This first will appear as a pop-up box in the lower right hand corner. 
 
 
+![The screenshot appears as a dialog in the lower right. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-9.png)
+
+
 You can also open the Files App and see that the screenshot has been stored on your computer. All screenshots you take will automatically stored in Files on your computer. 
+
+![The screenshot appears is stored in the Files App. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-10.png)
 
 
 If you click twice quickly on the screenshot file it will open and you can see it looks exactly like what was on your screen when you took the screenshot. 
 
 
+![The screenshot is a picture of whatever was on your screen. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-11.png)
+
+
 Sometimes, rather than taking a picture of the whole screen you will want to take a picture of just a small part of the screen. There is a second screenshot command that lets you do this. If you press `crtl+shift+showwindows` then your screen will turn a shade darker and you will see your cursor is replaced with a bullseye icon. If you click and then drag, you can select only part of your screen to take a screenshot of. For example you could take a screenshot of just the upper right hand corner of the Files App. 
 
+
+![A targeted screenshot is also stored as a png in the Files App.](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-12.png)
+
+
 This screenshot also will pop up in the lower right hand corner of your screen and then appear in your Files App. 
+
+
+![A targeted screenshot only takes a picture of part of the screen.](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-13.png)
 
 
 ### Zooming in and out
@@ -64,9 +79,17 @@ This screenshot also will pop up in the lower right hand corner of your screen a
 
 Another set of useful shortcuts is to zoom your screen in and zoom your screen out. To zoom in, you can hold down `ctrl` and press the key that has the plus and equals on it (near the top right hand side of the keyboard). To zoom out, you can hold the `ctrl` key and press the key with the minus and underscore key on it (near the top right hand side of the keyboard). This will allow you to make the text on websites bigger and smaller to ease reading. For example on the website https://rstudio.cloud/ if you press `ctrl+plus/equals` four times you will zoom in 175%. 
 
+
+![If you use the zoom shortcut the text on a webpage increases in size.](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-14.png)
+
+
+
 ### Finding a word on a page 
 
 Sometimes you will need to search a webpage for a specific word or phrase. To do this you can press `ctrl+f` and a box will pop up. You can then search for the specific word, for example we could search for the word "teach" on https://rstudio.cloud/.  
+
+
+![You can find a word or phrase on a page using the find shortcut.](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-15.png)
 
 
 ### Text formatting shortcuts
@@ -84,12 +107,11 @@ One thing that is somewhat unusual about a Chromebook is that there is not a cap
 
 
 
-
 ### Slides and Video
 
 ![Chromebook Shortcuts]()
 
-* [Slides](https://docs.google.com/presentation/d/1pAzLCi3qGonAlUi2uKTzSe5eIxgNPUjvOs8IQVNIRC8/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1CuNUXwu9BukytMCmtJ5JrRHWF_7O8Me2pu-PN_Zu6uU/edit?usp=sharing)
 
 
 {quiz, id: quiz_04_chromebook_shortcuts}
