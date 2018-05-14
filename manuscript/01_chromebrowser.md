@@ -58,7 +58,7 @@ You can also put two windows together into a single window with multiple tabs. T
 ![You can drag to combine tabs into a single window](images/00_chromebrowser/00_chromebookintro_chromebrowser-13.png)
 
 
-Finally, if you want to keep track of websites you use frequently you can use bookmarking. You can "bookmark" pages that you visit regularly and Chrome will keep track of those websites for you. It's especially helpful if you don't want to type the full address of a webpage, visit a page frequently, or are afraid you will forget about a page you will need later. To bookmark a webpage in Chrome, simply click on the star in the address bar or press`Ctrl+D` on your keyboard. This will open the following window.
+Finally, if you want to keep track of websites you use frequently you can use bookmarking. You can "bookmark" pages that you visit regularly and Chrome will keep track of those websites for you. It's especially helpful if you don't want to type the full address of a webpage, visit a page frequently, or are afraid you will forget about a page you will need later. To bookmark a webpage in Chrome, simply click on the star in the address bar or press`Ctrl+d` on your keyboard. This will open the following window.
 
 ![Bookmark Menu](images/00_chromebrowser/00_chromebookintro_chromebrowser-14.png)
 
