@@ -1,30 +1,42 @@
 # Where Are Files Stored?
 
-Chromebooks are sold with the basic idea that you will store everything in the cloud. And, this set of courses is designed with this principle in mind. So most files will be stored online and usedd through your web browser. However, there _is_ local storage on your Chromebook. There's not a lot of it, so we will want to store all of your Docs, Slides, and Sheets on Google Drive; however, you should be aware of where you can find files stored locally on your Chromebook. 
+Chromebooks operate on the basic idea that you will store everything in the cloud. And, this set of courses is designed with this principle in mind. So most files will be stored online and used through your web browser. There is not a lot of room to store files on most Chromebooks, so we will want to store all of your documents, presentations, spreadsheets, and data on Google Drive or Dropbox. 
 
-This can be particularly useful when people send you a file in an email and you want to eventually store it online. You might need to download it first to upload it again to one of the online file storage systems. 
+There is local storage on your Chromebook where you can place files. For example, we saw that when you take a screenshot with your Chromebook the file is saved onto your Chromebook directly, not onto the cloud. This can be particularly useful when people send you a file in an email and you want to eventually store it online. You might need to download it first to upload it again to one of the online file storage systems. 
 
 ### Where is the local storage?
 
-Files stored locally on your Chromebook can be found by first clicking on the Launcher circle at the bottom left-hand corner of your screen. 
+Files stored on your Chromebook can be found using the _Files_ App. 
+You can find them by first clicking on the Launcher circle at the bottom left-hand corner of your screen. To see all of the apps available on your Chromebook you will expand the selection from your Launcher by clicking on the '^' (up arrow) symbol on your screen. 
 
-![Launcher Screen](images/03_file_storage/03_gettingstarted_file_storage-2.png)
+![Launcher Screen](images/05_filestorage/05_chromebookintro_filestorage-2.png)
 
-To see all of the apps available on your Chromebook you will expand the selection from your Launcher by clicking on the '^' symbol on your screen. 
+You can then find the _Files_ App which looks like a blue circle with a white file folder on it. As we discussed in a previous section you can pin this app to your Shelf by clicking with two finders, then moving the cursor over _Pin to Shelf_ and letting go. It is important to pin this app to your shelf since it will be one of the apps you use most regularly. 
 
-![Expand Launcher Screen](images/03_file_storage/03_gettingstarted_file_storage-3.png)
 
-This will expose a screen that looks similar to what you see below. The icons may be in a different order, but one of them will be a blue folder with the label 'Files.' Clicking on this will open up your 'Downloads' folder. 
+![Pin the Files App to your Shelf.](images/05_filestorage/05_chromebookintro_filestorage-3.png)
 
-![Files](images/03_file_storage/03_gettingstarted_file_storage-4.png)
 
-Here you will see anything you've downloaded from the Internet. Anything you save from the Internet, will make its way here.
+If you click on the _Files_ App you will see all of the files you have downloaded from the internet, any screenshots you may have taken, and any other files you have stored locally on your computer. 
 
-![Downloads](images/03_file_storage/03_gettingstarted_file_storage-5.png)
+![The Files App shows you all of your files.](images/05_filestorage/05_chromebookintro_filestorage-4.png)
 
-Additionally, you'll notice that you also have access to all your files on the Cloud from this window. Everything in Google Drive is also available from your 'Files' directory. 
+These files are all stored in a folder called "Downloads" if you click on the Downloads button you will only see the files that are actually stored on your Chromebook. These files will be available whether you are connected to the internet or not. 
 
-![Google Drive Access](images/03_file_storage/03_gettingstarted_file_storage-6.png)
+![The Downloads folder shows you all of the files on your Chromebook.](images/05_filestorage/05_chromebookintro_filestorage-5.png)
+
+
+One challenge is that most Chromebooks don't have much space on them to store data and files. You can check how much space is left on your Chromebook by clicking the three dots on the upper right hand side of the _Files_ app. 
+
+![The Files options lets you see how much storage you have left.](images/05_filestorage/05_chromebookintro_filestorage-6.png)
+
+
+Despite the limitation on local storage you can also store some of your files and data on the cloud. We will talk about different options for this depending on whether you are storing code, data, or other files later. But in general, you have access to all of your files stored on the "cloud" here as well. For example, everything in Google Drive is also available from the _Files_ App. These files aren't saved to your computer, they are saved on the internet, so you will need an internet connection to be able to access them. To see these files click on "Google Drive" on the left hand side of the _Files_ App. 
+
+![Google Drive files can be accessed from the Files App](images/03_file_storage/03_gettingstarted_file_storage-7.png)
+
+If you want to free up space on your Chromebook, one thing that you can do is transfer some of your files 
+
 
 ### Determining how much storage is left
 
