@@ -33,35 +33,37 @@ One challenge is that most Chromebooks don't have much space on them to store da
 
 Despite the limitation on local storage you can also store some of your files and data on the cloud. We will talk about different options for this depending on whether you are storing code, data, or other files later. But in general, you have access to all of your files stored on the "cloud" here as well. For example, everything in Google Drive is also available from the _Files_ App. These files aren't saved to your computer, they are saved on the internet, so you will need an internet connection to be able to access them. To see these files click on "Google Drive" on the left hand side of the _Files_ App. 
 
-![Google Drive files can be accessed from the Files App](images/03_file_storage/03_gettingstarted_file_storage-7.png)
+![Google Drive files can be accessed from the Files App](images/05_filestorage/05_chromebookintro_filestorage-7.png)
 
-If you want to free up space on your Chromebook, one thing that you can do is transfer some of your files 
+If you want to free up space on your Chromebook, one thing that you can do is transfer some of your files from your Downloads folder to your Google Drive. You can do that by clicking on a file in your Downloads folder, holding down, and dragging it to Google Drive. This will upload the file to the cloud.
+
+![You can drag files from Download to Google Drive to upload them.](images/05_filestorage/05_chromebookintro_filestorage-8.png)
+
+ Then if you delete it from your Downloads folder, it will only be stored on the web and will free up space on your Chromebook. To delete a file you can click with two fingers on the file. This will bring up options for different things you can do with the file. If you move your cursor down to delete and let go, you will be asked if you want to delete the file. If you say yes, the file will be permanently deleted from your Chromebook. 
 
 
-### Determining how much storage is left
+![Click with two fingers on a file and then move the cursor over delete to rename the file. ](images/05_filestorage/05_chromebookintro_filestorage-9.png)
 
-As mentioned earlier, there is a limited amount of storage on your Chromebook. To determine how much storage you have left, you can click on the three dots in the top right-hand corner of this screen. You will see how many gigabytes of space are still available on your Chromebook. 
+You might also find that the names of files aren't easy to follow. In a later course we will cover file naming for data science. But for now, it is useful to know how to change the name of a file. You start by again clicking with two fingers on the file. Then you can drag the cursor over "Rename" and let go.
 
-![Space Available](images/03_file_storage/03_gettingstarted_file_storage-7.png)
 
-### Deleting and moving files
+![Click with two fingers on a file and then move the cursor over delete to delete the file. ](images/05_filestorage/05_chromebookintro_filestorage-10.png)
 
-To delete something from your Downloads folder, select that file and then click on the trash icon along the top blue bar of the screen. This is one way to free up space from your Chromebook.
+This will place your cursor on the file name which will now be editable. If you type in the new name and hit return the file will be renamed.
 
-![Delete](images/03_file_storage/03_gettingstarted_file_storage-8.png)
+![Type in the new name and hit return, but don't change the extension.](images/05_filestorage/05_chromebookintro_filestorage-10.png)
 
-You can also move files from your local Downloads folder to the cloud by dragging a file and dropping it into 'Google Drive' along the left-hand side of the window. This will place a copy of the file onto your Google Drive in the cloud. However, the local copy on your Chromebook will still be there. You'll still have to go and delete the copy from your Downloads folder before the space on your Chromebook is freed up
+Usually it is a good idea to leave the file extension the same even if you rename a file. The extension is all of the characters after the period that tells your computer what type of file it is - a code file, a data file, a text file, or something else. For example if your file is named "file.png" then the extension is ".png". So you might change the file name to something like "new_file.png" but you would want to leave the ".png" at the end. 
 
-Generally you will want to do this often because you will quickly run out of local storage space on your Chromebook if you don't upload the files frequently to Google Drive or Dropbox. 
 
 ### Slides and Video
 
-![File Storage](https://www.youtube.com/watch?v=qreYBbdske8)
+![File Storage]()
 
 * [Slides](https://docs.google.com/presentation/d/1k9e4UEhxg63DWSFkV71u1ewQQe-4DopdXAMG35O0hkc/edit?usp=sharing)
 
 
-{quiz, id: quiz_03_file_storage}
+{quiz, id: quiz_05_file_storage}
 
 ### File Storage quiz
 
@@ -70,7 +72,7 @@ Generally you will want to do this often because you will quickly run out of loc
 a) It's not saved. There is no local storage on the Chromebook.
 b) Gmail
 c) Google Drive
-D) Downloads folder in 'Files' on the Chromebook
+D) Downloads folder inthe 'Files' on the Chromebook
 
 ? When you run out of space on your Chromebook, what can you do to free up space?
 
@@ -78,6 +80,14 @@ A) Delete files from 'Downloads' folder.
 b) Nothing. Files cannot be deleted.
 c) Move files from Google Drive to Downloads.
 d) Convert files to larger file formats.
+
+
+? When you drag a file from Downloads to Google Drive what happens? 
+
+A) The file is uploaded to Google Drive, which stores files on the internet.
+b) The file is uploaded to Google Drive, which stores files on your Chromebook.
+c) The file is deleted from Google Drive, which stores files on your Chromebook.
+d) The file is moved to the Google Drive folder on your Chromebook.
 
 {/quiz}
 
