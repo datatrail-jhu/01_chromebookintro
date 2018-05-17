@@ -1,101 +1,66 @@
-# Suggested Applications
+# Useful Applications
 
-In the last lesson, we discussed how to find web apps through the Google Play store. Here, we'll go step-by-step through how to install a web app. We'll then discuss a number of helpful web applications. These are some of the software that you will most likely be using to perform general tasks that data scientists have to do frequently. 
-
-### Downloading Web Applications
-
-To download a web app, return to the Google Play Store as described in the previous lesson by clicking on the circle icon at the bottom left-hand side of the screen and then clicking 'Play Store' from the menu that pops up. Alterntively, you can use the Search bar to search for Google Play if the 'Play Store' icon is not immediately visible. Once the play store pops up, you'll type the app that you're interested in downloading in in the search bar at top.
-
-![Inbox Search Bar](images/02_suggestedapps/02_gettingstarted_suggestedapps-3.png)
-
-For this first example, we'll have you download [Inbox by Gmail](https://www.google.com/inbox/). Inbox is a standalone web-app that makes reading and organizing all of your email simple, right on your Chromebook. By typing 'inbox' in the search bar and hitting 'enter', a new window will pop up. 
-
-The first result at the top should be Inbox by Gmail. There will be a green box that says 'INSTALL.' Click on this button to begin app installation.
-
-![Inbox by Gmail](images/02_suggestedapps/02_gettingstarted_suggestedapps-4.png)
-
-In that same window, your browser will let you know that the app is Installing. When installation is complete, a green box will appear. Click on the green 'OPEN' button to open the Inbox app.
-
-![OPEN Inbox by Gmail](images/02_suggestedapps/02_gettingstarted_suggestedapps-6.png)
-
-At this point, Inbox will open, and the Inbox icon will appear in the bar along the bottom of your screen. The Inbox app has now been downloaded! You can explore this app further now to see how it works if you'd like!
-
-![Inbox by Gmail](images/02_suggestedapps/02_gettingstarted_suggestedapps-7.png)
+In previous lessons we have discussed how to download apps from the Chrome Web Store. Here we will discuss some Chrome web apps that may be useful for the course and where you can get them. None of these apps is essential, but they may be helpful for productivity or organization. These apps can all be accessed directly from your Internet browser, but sometimes it will make your life and work easier to have the app directly on your Chromebook. 
 
 
-### Opening Downloaded Apps
+### Slack
 
-Now that Inbox is downloaded, it will be available every time you log in. To access it, just click on the circle icon at the bottom left of your screen
+We've previously discussed Slack as a place where you and all your other team members can communicate about projects. You can chat, share documents, read past conversations, and receive notifications on Slack. Having the Slack App on your Chromebook will allow you to be updated whenever anyone on the team is trying to communicate with you. You can get Slack from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android. 
 
-![Circle Icon](images/02_suggestedapps/02_gettingstarted_suggestedapps-8.png)
-
-This will pop up the most recent apps you've used. If Inbox is among these icons, click on it now to open it. Or, you can use the search bar to search for the app you're looking for.
-
-![Apps menu](images/02_suggestedapps/02_gettingstarted_suggestedapps-9.png)
-
-### Helpful Apps for your Chromebook
-
-Now that you know the process for downloading a web application on your Chromebook, there are a number of other web applications that you may want to download to your Chromebook. We'll discuss what each of them is briefly here and give you a link to read more about that web application. None of these apps is essential, but they may be helpful for productivity or organization. These apps can all be accessed directly from your Internet browser, but sometimes it will make your life and work easier to have the app directly on your Chromebook. The apps discussed below can all be installed using the same process as you used above to install Inbox from Gmail.
-
-#### Slack
-
-We've previously discussed Slack as a place where you and all your other team members can communicate about projects. You can chat, share documents, read past conversations, and receive notifications on Slack. Having the [Slack app](https://play.google.com/store/apps/details?id=com.Slack) on your Chromebook will allow you to be updated whenever anyone on the team is trying to communicate with you. 
-
-![Slack](images/02_suggestedapps/02_gettingstarted_suggestedapps-11.png)
+![Slack is available from the Chrome Web Store or from the Google Play Store](images/10_useful_apps/10_chromebookintro_useful_apps-2.png)
 
 
-#### Google Calendar
+### Google Calendar
 
-[Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) is a great place to keep track of meetings and life events. We'll discuss the ins and outs of Google Calendar in a later lesson; however, for now, it's important to know that there is a standalone app for Google Calendar.
+Google Calendar is a great place to keep track of meetings and life events. We'll discuss the ins and outs of Google Calendar in a later lesson; however, for now, it's important to know that there is a standalone app for Google Calendar. You can get this app from the Google Play Store.
 
-![Google Calendar](images/02_suggestedapps/02_gettingstarted_suggestedapps-12.png)
+![Google Calendar is available from the Google Play Store](images/10_useful_apps/10_chromebookintro_useful_apps-3.png)
 
-#### Wunderlist
 
-[Wunderlist](https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid) is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to thers. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash.
+### Wunderlist
 
-![Wunderlist](images/02_suggestedapps/02_gettingstarted_suggestedapps-13.png)
+Wunderlist is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to thers. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash. You can get Wunderlist from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android. 
 
-#### Twitter
+![Wunderlist is available from the Chrome Web Store or from the Google Play Store](images/10_useful_apps/10_chromebookintro_useful_apps-4.png)
 
-The [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android) app has all the same information as the Twitter website. It has the same tweets, news, and messaging capabilities; however, with it directly on your Chromebook, it makes accessing this information a little easier. 
+### Tweetdeck
 
-![Twitter](images/02_suggestedapps/02_gettingstarted_suggestedapps-14.png)
+The Tweetdeck app has all the same information as the Twitter website, but it is organized to make it easy to use multiple accounts. It has the same tweets, news, and messaging capabilities; however, with it directly on your Chromebook, it makes accessing this information a little easier. You can get Tweeetdeck from the Chrome Web Store.
 
-#### Evernote
+![Tweetdeck is available from the Chrome Web Store](images/10_useful_apps/10_chromebookintro_useful_apps-5.png)
 
-[Evernote](https://play.google.com/store/apps/details?id=com.evernote) is an app that can help you get and stay organized. It is primarily a place where you can take notes. However, it also allows you to generate to-do lists, organize receipts and bills, and to share these things with others. 
+### Evernote
 
-![Evernote](images/02_suggestedapps/02_gettingstarted_suggestedapps-15.png)
+Evernote is an app that can help you get and stay organized. It is primarily a place where you can take notes. However, it also allows you to generate to-do lists, organize receipts and bills, and to share these things with others. You can get Evernote from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android. 
 
-#### VLC
+![Evernote is available from the Chrome Web Store or from the Google Play Store](images/10_useful_apps/10_chromebookintro_useful_apps-6.png)
 
-[VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) is a multimedia player. It will play most types of video files. So, if you ever have a video that you're not directly streaming from YouTube, VLC will most likely be able to open and play it.
 
-![VLC](images/02_suggestedapps/02_gettingstarted_suggestedapps-16.png)
 
-### Deleting Web Applications 
+### DataCamp
 
-To delete an app from your Chromebook, you'll first click on the circle icon at the bottom left-hand side of the screen. This will open up your apps screen. Within this screen, you'll scroll to the app you'd like to remove. If, for example, you wanted to remove Google Docs, you would use two fingers to click on that icon. 
+DataCamp will be used for tutorials throughout this sequence. You can install the DataCamp Chrome App which will provide a link to the DataCamp website. This app will be useful as a shortcut to DataCamp when doing assignments. You can get DataCamp from the Chrome Web Store.
 
-![Two-finger click on app you want to remove](images/02_suggestedapps/02_gettingstarted_suggestedapps-17.png)
+![DataCamp is available from the Chrome Web Store.](images/10_useful_apps/10_chromebookintro_useful_apps-7.png)
 
-This brings up a menu where you can click on "Remove from Chrome..."
 
-![Menu to remove app from Chrome](images/02_suggestedapps/02_gettingstarted_suggestedapps-18.png)
+### DocHub
 
-A new prompt will pop up asking you to confirm that you want to remove this app. If you do want to remove the app, click "Remove".
+DocHub can be used to upload documents, edit them, and sign them. When you need to apply an electronic signature to a document you are working on DocHub is useful. You can get DocHub from the Chrome Web Store.
 
-![Menu to remove app from Chrome](images/02_suggestedapps/02_gettingstarted_suggestedapps-18.png)
+![DocHub is available from the Chrome Web Store.](images/10_useful_apps/10_chromebookintro_useful_apps-8.png)
+
+
+There are lots of other useful apps and as we go through the courses we will point out when there are apps that may be useful to help you speed your way through your work as a data scientist. 
 
 ### Slides and Video
 
-![Suggested Applications](https://youtu.be/9qpOBCLSFYQ)
+![Useful Applications]()
 
 * [Slides](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/edit?usp=sharing)
 
 
-{quiz, id: quiz_02_suggested_apps}
+{quiz, id: quiz_10_useful_apps}
 
 ### Suggested Apps quiz
 
@@ -106,17 +71,18 @@ B) FALSE
 
 ? Which of these apps is great for keeping track of meetings?
 
-a) VLC
-b) Twitter
+a) DataCamp
+b) Tweetdeck
 C) Google Calendar
 d) DocHub
 
 ? Which of these apps improves communication between team members?
 
 A) Slack
-b) VLC
+b) DataCamp
 c) DocHub
 d) Angry Birds
+
 
 {/quiz}
 
