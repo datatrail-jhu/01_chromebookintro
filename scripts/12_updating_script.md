@@ -1,8 +1,6 @@
 In computing, there are often updates that are available. Updates can fix bugs, add new features, and/or improve security on your chromebook. Over time, your apps will need to be updated as well as your Chromebook's operating system itself. To update your Chromebook you only need two things: A Chromebook and An Internet Connection. Every time you power on your Chromebook, it will check for and apply available updates. In fact, some updates to the Chrome OS happen in the background automatically while you're using your device with the updates going into effect the next time you restart. However, should you ever need or want to manually update your Chromebook, you can do so using the following steps.
 
-Step 1. Click on your username or photo at the bottom right-hand of the screen.
-
-Step 2. A menu will display. 
+Step 1. Click on your username or photo at the bottom right-hand of the screen. Step 2. A menu will display. 
 
 On this menu, click on the settings button, which is the icon that looks like a gear turning.
 
