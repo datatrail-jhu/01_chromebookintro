@@ -173,7 +173,7 @@ Extensions, like Chrome Web Apps, can improve the way that Chrome OS functions i
 
 {quiz, id: quiz_02_chromeos}
 
-### Chromebook Apps quiz
+### Chrome OS Quiz
 
 ? How do you get Chromebook Apps?
 
