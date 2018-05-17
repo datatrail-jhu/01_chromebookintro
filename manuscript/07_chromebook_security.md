@@ -44,10 +44,24 @@ You'll be required to input your (hopefully good!) password.
 Then you can turn on screen lock by clicking the option in the upper right hand corner of the screen for "Show screen lock when waking from sleep". 
 
 
-![Input your password.](images/07_chromebook_security/07_chromebook_security-6.png)
+![Click on option to Show screen lock when waking from sleep.](images/07_chromebook_security/07_chromebook_security-6.png)
 
 
 Now if you close your Chromebook, put it to sleep, or log out, you will have to input your password to get access to your account. This will prevent other users from getting access to your Chromebook account even if they get ahold of the physical device.
+
+
+### Managing other people
+
+Another thing that you can do to make your Chromebook more secure is decide in advance who can log into your Chromebook. To do this, open your personal settings by clicking on the personal avatar at the bottom right hand side of your screen, then click the gear to open your personal settings. The click on the option to "Manage Other People". 
+
+
+![Click on Manage Other People to manage users of your Chromebook.](images/07_chromebook_security/07_chromebook_security-7.png)
+
+
+If you are the owner of the Chromebook you can then click on the dot next to "Restrict sign-in to the following users". If you are the owner of the Chromebook will then be able to input which users can and can't log on to your computer. 
+
+![Click on the option to restrict users.](images/07_chromebook_security/07_chromebook_security-8.png)
+
 
 ### Two step verification
 
@@ -55,15 +69,69 @@ If you are dealing with very sensitive data or want to be more secure about who 
 
 To turn on two step verification first go to the website https://www.google.com/landing/2step and click on "Get Started" in the upper right hand corner of the screen. 
 
-This will take you through the 
+![Go to the two step verification page and click Get Started.](images/07_chromebook_security/07_chromebook_security-9.png)
+
+
+This will take you through the two step verification set up process. First you will again need to click "Get Started".
+
+![Click Get Started.](images/07_chromebook_security/07_chromebook_security-10.png)
+
+Then you will be required to enter your password to confirm that it really is you trying to step two step verification. 
+
+![Enter your password.](images/07_chromebook_security/07_chromebook_security-11.png)
+
+You will be asked to input your phone number. This is the phone number that will receive the text message every time you input your password and try to log in. This should be for your personal phone that you will have with you when you want to log in to your Chromebook. You won't be able to log in without your phone after you set this up. 
+
+
+![Enter the phone number of the phone you will use for two step verification.](images/07_chromebook_security/07_chromebook_security-12.png)
+
+Once you input your phone number, you will get a text message with a 6 digit number. Take this code and type it in to the next screen to confirm that you have the right phone number set up for two step verification. 
+
+
+![Enter your verification code to confirm your phone.](images/07_chromebook_security/07_chromebook_security-13.png)
+
+Once you have confirmed both your password and your phone number you will be given the option to turn on two factor verification. You can do this by clicking "Turn On" on the next window. 
+
+
+![Turn on two factor authentication.](images/07_chromebook_security/07_chromebook_security-14.png)
+
+Once this is turned on you can turn it back off by going through the same steps as before and then clicking "Turn Off" on the next screen. 
+
+![You can turn off two factor verification by clicking Turn Off.](images/07_chromebook_security/07_chromebook_security-15.png)
+
+
+Once you have enabled two step verification, you will need to have your phone with you every time you log in to your computer. This is good for security purposes, but will cause problems if you lose or replace your phone. Make sure you turn this feature back off if you are planning on getting a new phone. 
 
 
 ### Managing apps and devices
 
+You can monitor and manage which apps and devices have access to your account information from your account security page at https://myaccount.google.com/security. You should check this information periodically (every month or so at least) to see if there are any events or activity that you don't recognize. If anyone has gotten access to your password or log in information, you will be able to see here when they have logged into your account. 
+
+
+![Your account security page.](images/07_chromebook_security/07_chromebook_security-16.png)
+
+First you can see any security events that have occured. Security events can be found by looking under "Device activity & security events" in the section "Recent Security Events". This will give you information on when your passwords are changed or when you have turned on or off two step verification. 
+
+![Your security events tell you about when your password or two step verification settings have changed.](images/07_chromebook_security/07_chromebook_security-17.png)
+
+You can also see all the devices that have logged in to your Google account under "Device activity & security events" in the section "Recently used devices". You will see the Chromebook you are currently working on, but you will also see any Android phones you have logged in to or other computers where you signed into your account. 
+
+
+![Your recently used devices tells you what devices have logged into your account.](images/07_chromebook_security/07_chromebook_security-18.png)
+
+As we have discussed in other sections, all of the software running on your Chromebook will be either Chrome Apps or Extensions or Android apps. For a lot of this software you will use Google to log in. That way you don't have to have a separate password for each app and website. But each time you do this, you give the app a little bit of your information. When you stop using an app you may no longer want them to have access to your information. You can look and see which apps have access to your Google information by looking under "Apps with Account Access" in the section "Apps with Access to your Account".
+
+![You can see which apps have access to your account.](images/07_chromebook_security/07_chromebook_security-19.png)
+
+
+If you click on a particular app you can take away the permission of that app to use your Google information. It is a good idea to check these apps from time to time and remove those that you no longer need, so they don't have access to your Google information anymore. 
+
+![You can remove access for specific apps by clicking on them.](images/07_chromebook_security/07_chromebook_security-20.png)
+
 
 ### Slides and Video
 
-![Updating Your Chromebook](https://youtu.be/UDYbOEp8Y3s)
+![Updating Your Chromebook]()
 
 * [Slides](https://docs.google.com/presentation/d/1-nW4KgJOVcfbRx4Vot_x6ZgoQGFItIxqIHZBXtLHDr8/edit?usp=sharing)
 
@@ -71,15 +139,26 @@ This will take you through the
 
 ### Chromebook security quiz
 
-? TRUE/FALSE: You will always have to manually update your Chromebook. Otherwise, it will not update.
+? Which of the following is a good password?
 
-a) TRUE
-B) FALSE
+A) weatherbaltimorefrisbeetacos
+b) password
+c) 12345
+d) jeffleek
 
-? TRUE/FALSE: Manually updating your Chromebook can be done in a couple simple steps.
+? Which of the following is not a required characteristic of a good password?
+a) It is long
+b) It is easy for you to remember
+c) It is hard to guess
+D) It has lots of numbers and symbols in it
 
-A) TRUE
-b) FALSE
+
+? What is two step verification?
+
+A) When you have to input a password and a security code from your phone to log in. 
+b) When you have to input just a password to log in
+c) When you have to input just a security code from your phone to log in
+d) When you have to click through two pages to get to your password
 
 
 {/quiz}
