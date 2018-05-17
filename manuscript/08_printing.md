@@ -56,7 +56,7 @@ This will send the file to your printer. One thing to note is that printing from
 
 ![Printing with a Chromebook]()
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1KxH-cciEQAyyHcngpzw_4n-vQkznmBsvi6QhS5RBOwg/edit?usp=sharing)
 
 {quiz, id: quiz_08_printing}
 

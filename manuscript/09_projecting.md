@@ -1,85 +1,130 @@
-# Chromebook security
+# Projecting from a Chromebook
 
-In some ways a Chromebook provides some security for you. Chrome OS has a number of [security features](https://support.google.com/chromebook/answer/3438631?hl=en) that are constantly being improved by Google. We will discuss updating your Chromebook in a later section, but the updates ensure that at a basic level your Chromebook will have good security features. For example, data wil be encrypted when passing through a web browser and each browser window will be sandboxed so a web app open in one browser window can't access data from another window. 
-
-But there are still some steps that you can take to make sure that your Chromebook is secure. This will be particularly important if your Chromebook is lost or stolen, but will also be useful if you share your computer with family or friends. Since a data scientist is often working with data that may be private or sensitive, it is important that if they lose their computer, they don't risk losing the data they are working on. Setting your Chromebook up to be secure from the start is an important step for any data scientist. 
+As a data scientist you will often be asked to give presentations on your findings to your employers, to your colleagues, or at workshops or conferences. So you will need to learn to connect your Chromebook to a projector. 
 
 
-### Setting your Chromebook password
+### Finding the right dongle
 
-One of the most important parts of securing your Chromebook is making sure that you have a good password. Good passwords are long, easy for you to remember, but hard for other people to guess. Don't use simple passwords like "12345" or "password", don't use your name, your date of birth, or other details that would be easy to guess if someone saw your Facebook profile. 
+You won't be able to plug your Chromebook in directly to a projector. You will need an adapter - often informally called a "dongle" to connect from your computer to the input cord of the projector. To figure out what kind of dongle you need, you need to know both the type of projector input you will be using and what type of ports you have on your computer to plug your dongle into. The two main types of inputs for projectors are VGA and HDMI. You can figure it out by looking at the cable coming from the projector. 
 
-Good passwords have a few important characteristics:
-
-1. They are long, ideally more than 10 characters
-2. They are easy for you to remember. 
-3. They are not a commonly used password. 
-
-One way to create relatively good passwords is to string together four or five random words. This approach was made popular by an xkcd cartoon. For example a password made with this approach would be "bikerainsmellblue". This passowrd has more than 10 characters, is easy for you to remember, and is unlikely to be used by a lot of other people. Try to pick words that aren't related to each other. Then you only have to remember the four words to remember your password. 
+![Find out what kind of projector cable you will be using ](images/08_printing/08_chromebookintro_projecting-2.png)
 
 
-![xkcd suggested a good password combines four random words.](images/07_chromebook_security/07_chromebook_security-2.png)
+You will then need to figure out what ports you have avaialable on your computer. For example, the type of Chromebook I'm writing this on is a [Chromebook Plus](https://www.samsung.com/us/computing/chromebooks/12-14/xe513c24-k01us-xe513c24-k01us/) from Samsung. My computer has a USB-C port for connecting external devices like printers. 
+
+![My Chromebook has a USB-C connector, but yours might be different. ](images/08_printing/08_chromebookintro_projecting-3.png)
 
 
-Another way to create a password is to choose a line from a book or movie and choose the first one to three letters of each word. For example, you might use the line "Once upon a midnight dreary, while I pondered, weak and weary, " then you could change that to "onupamiddrwhipoweanwe". You can then just remember the line that you have chosen and the fact that you used a certain number of letters from each word. Again, its a good idea to pick a line from a poem or a book that is less famous to do this. 
+To find out what kind of ports you have on your Chromebook you can go to the website https://www.google.com/chromebook. Then click on "Find Yours". 
+![Go to https://www.google.com/chromebook and click Find Yours ](images/08_printing/08_chromebookintro_projecting-4.png)
 
-You can improve either of those password schemes by capitalizing some letters or turning words like "too" into numbers to make them more unique. The key is just to have a password that is not very common, easy to remember, and would be hard for other people to guess. 
-
-
-### Requiring password to wake from sleep
-
-Now that you have set a good password you can make your Chromebook more secure by making sure that anyone will have to use the password to log in. To do this you need to again open up your personal settings by clicking on your personal avatar in the bottom of your screen and then click on the gear to open your personal settings.
-
-![Open your personal settings](images/07_chromebook_security/07_chromebook_security-3.png)
-
-Once you have your personal settings open you can click on the "Screen Lock" settings.
-
-![Open the Screen Lock settings.](images/07_chromebook_security/07_chromebook_security-4.png)
-
-You'll be required to input your (hopefully good!) password. 
+You will need to search or scroll down to find the version of Chromebook that you have. Once you have found your style of Chromebook click on it. 
 
 
-![Input your password.](images/07_chromebook_security/07_chromebook_security-5.png)
-
-Then you can turn on screen lock by clicking the option in the upper right hand corner of the screen for "Show screen lock when waking from sleep". 
+![Find your style of Chromebook and click on it. ](images/08_printing/08_chromebookintro_projecting-5.png)
 
 
-![Input your password.](images/07_chromebook_security/07_chromebook_security-6.png)
+This should bring you to a screen with different options for purchasing a Chromebook. Any of those websites will have informaiton about your Chromebook, but we have found that BestBuy often has the most information about ports, so click on the BestBuy logo on the left hand side to see more information. 
+
+![Click on the BestBuy logo to see more information. ](images/08_printing/08_chromebookintro_projecting-6.png)
+
+On the BestBuy page you can scroll down until you see the section called "Features". Look for the word "Port" to find the type of port you have. In this case it is a USB-C port. 
+
+![Find the type of port you have under Features. ](images/08_printing/08_chromebookintro_projecting-7.png)
+
+Once you know the type of port you have on your Chromebook adn the type of connection the projector cable has you can get the right dongle. Sometimes the place you will be presenting has a dongle avialable, but it is better to have two dongles. For each dongle you want one end to plug into the appropriate port on your computer (in my case USB-C). One of the dongles should have a VGA connection on the other end and the other dongle should have an HDMI connection. Then you will be prepared to connect your Chromebook to the vast majority of projectors you will use. 
+
+![Get a projector with the port for your computer and a VGA and HDMI connection on the other end. ](images/08_printing/08_chromebookintro_projecting-8.png)
 
 
-Now if you close your Chromebook, put it to sleep, or log out, you will have to input your password to get access to your account. This will prevent other users from getting access to your Chromebook account even if they get ahold of the physical device.
-
-### Two step verification
-
-If you are dealing with very sensitive data or want to be more secure about who can access your account, you can turn on two step verification. All this means is that you can set it up so that entering your password is not enough to unlock your computer. You will also need to get a text message to your phone with a special code each time that you log in. This means that even if someone gets ahold of your Chromebook, they would also have to have your phone to be able to log into your account. Two step verification is often required for data scientists working in industry and is a good idea to prevent loss of your account information. 
-
-To turn on two step verification first go to the website https://www.google.com/landing/2step and click on "Get Started" in the upper right hand corner of the screen. 
-
-This will take you through the 
 
 
-### Managing apps and devices
+
+### Projecting from your Chromebook
+
+If you have the appropriate dongle you are now ready to project from your Chromebook. First, connect the dongle to the projector cord. Then connect the other end of the dongle to the port on your computer. 
+
+
+![Connect the dongle to the projector cord and to the port on your Chromebook. ](images/08_printing/08_chromebookintro_projecting-9.png)
+
+
+When you do this you will see that a window appears that says "Extending screen to" and then the name of the display. You should click on this box to open the display settings. 
+
+![Click on the extend displays box to open your Displays settings. ](images/08_printing/08_chromebookintro_projecting-10.png)
+
+
+There are two ways that the projector and your laptop can be connected.
+
+* __Extended display__ means that the projected screen is like a second Desktop connected to the Desktop on your computer. So you can drag files from the screen on your laptop to the projected screen.
+* __Mirrored display__ means that exactly what is on your Desktop is displayed on the projector.
+
+Usually when you first connect a Chromebook to a projector it will extend the display. This means that if you open the Displays window by clicking on the extending displays box, it may appear on the projected screen but not on your Desktop! This is because you have extended your screen so you actually have two screens you are working with. 
+
+
+![Extended display gives you two screens so what appears on your Desktop may differ from what appears on the projector screen. ](images/08_printing/08_chromebookintro_projecting-11.png)
+
+
+Usually when presenting you want the same thing to appear on your Desktop screen and the projector screen. You can do this by changing the setting from "Extending Display" to "Mirrored Display".
+
+First you need to get the Displays Window to your Desktop. You can move your cursor all the way off the left or right hand side of the screen while watching the projector screen. You will see the cursor move up to the projector screen and you can click on the Displays window, hold down, and drag the display back to your Desktop. 
+
+![Drag the displays window to your Desktop and click mirror displays. ](images/08_printing/08_chromebookintro_projecting-12.png)
+
+Then if you click mirror displays you will see that your Desktop and the projector show the same thing.
+
+![Click the Mirror Displays box to mirror the displays. ](images/08_printing/08_chromebookintro_projecting-13.png)
+
+
+You are now corrected and ready to present! In a future class we will go over the software for making and delivering data science presentations. 
+
 
 
 ### Slides and Video
 
-![Updating Your Chromebook](https://youtu.be/UDYbOEp8Y3s)
+![Projecting From a Chromebook]()
 
-* [Slides](https://docs.google.com/presentation/d/1-nW4KgJOVcfbRx4Vot_x6ZgoQGFItIxqIHZBXtLHDr8/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1c4diFFLIkAqYE4EIbI6mZAYLc8zOPMwLEiczFMMM2nQ/edit?usp=sharing)
 
-{quiz, id: quiz_07_chromebook_security}
+{quiz, id: quiz_09_projecting}
 
-### Chromebook security quiz
+### Projecting from a Chromebook quiz
 
-? TRUE/FALSE: You will always have to manually update your Chromebook. Otherwise, it will not update.
+
+? True or False you can connect your Chromebook directly to most projectors?
 
 a) TRUE
 B) FALSE
 
-? TRUE/FALSE: Manually updating your Chromebook can be done in a couple simple steps.
+? Which of the following is a type of projector cable connection?
 
-A) TRUE
-b) FALSE
+A) VGA
+b) Bluetooth
+c) USB-C
+d) USB
+
+? Which of the following are the most common types of projector cable connections? 
+
+A) HDMI and VGA
+b) HDMI and USB
+c) VGA and USB-C
+d) HDMI and MiniDisplay
+
+
+? Which display setting is most appropriate for projecting?
+
+A) Mirrored Displays
+b) Extended Displays
+c) VGA Displays
+d) USB Displays
+
+
+? When your screen is extended how do you move a window from the projector screen to the Desktop screen?
+
+
+A) Move the cursor to the right or left until it moves to the second screen, click on the window, hold down and drag it back to your Desktop. 
+b) Double click on your settings window and it will open the Screens menu which you can click to move the screen back. 
+c) Move the screen by pressing `ctrl+m` then selecting the Desktop Screen from the menu that appears. 
+d) Pressing down on the launcher key until the window appears on your Desktop screen. 
 
 
 {/quiz}
