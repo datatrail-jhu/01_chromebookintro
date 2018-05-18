@@ -60,7 +60,7 @@ Android Apps are not Chrome Apps so are not accessed through the web browser. In
 
 A) No, Chrome Web Apps run in the Chrome Web Browser
 b) No, Android Apps run in the Chrome Web Browser
-C) Yes, they are the same thing
+c) Yes, they are the same thing
 d) Yes, they look the same on your Shelf
 
 
