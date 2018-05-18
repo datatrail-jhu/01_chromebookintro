@@ -9,32 +9,32 @@ But Google has started to support the use of Android Apps on [a small but growin
 Chromebook Apps are stored in the same place on your Chromebook as Chrome Web Apps and Extensions. In fact, just by looking at the Shelf or your list of Apps you won't be able to tell which are Chrome Apps and which are Android Apps. So to get started, we do the same thing as we did in the previous section, click on the Launcher button to show a list of potential apps. You can again click the arrow to view more apps if the Play Store does not appear among the first set of apps
 
 
-![Find the Google Play App](images/03_android/03_chromebookintro_android-3.png)
+![Find the Google Play App](images/03_android/03_chromebookintro_android-2.png)
 
 
 The first time you click on 'Play Store' will bring you to the Google Play Terms of Service. After reading the Terms of Service, if you agree to the Terms click on 'Agree' in the bottom right-hand side of the window.  
 
-![Google Play Terms of Service](images/03_android/03_chromebookintro_android-4.png)
+![Google Play Terms of Service](images/03_android/03_chromebookintro_android-3.png)
 
 
 The following window will ask you to accept the Google Play Terms of Service. Here, you will need to click 'ACCEPT' to get to Google Play's apps if you agree with the Terms of Service. 
 
-![You must accept terms of service to install Android Apps](images/03_android/03_chromebookintro_android-5.png)
+![You must accept terms of service to install Android Apps](images/03_android/03_chromebookintro_android-4.png)
 
 This will bring up Google Play where you can install Android Apps. This is the same place you would go if you have an Android Phone and you were going to install an App on your phone. 
 
 
-![The Google Play Store](images/03_android/03_chromebookintro_android-6.png)
+![The Google Play Store](images/03_android/03_chromebookintro_android-5.png)
 
 
 We will install the _Slack_ app that can be used for communication with teams and is frequently used by data scientists. First we search for the app in the Google Play Store. 
 
 
-![Search for the Slack App](images/03_android/03_chromebookintro_android-7.png)
+![Search for the Slack App](images/03_android/03_chromebookintro_android-6.png)
 
 When you find the Slack app you will be taken to a page where you can click _Install_ to install the app. You may be asked to agree to terms and Google Play may ask you to enter payment details. However, if you are only going to use free apps you can find the small grey _Skip_ box and skip over entering this information. Once you install the app it will appear as any other app on your Chromebook.  
 
-![Search for the Slack App](images/03_android/03_chromebookintro_android-8.png)
+![Search for the Slack App](images/03_android/03_chromebookintro_android-7.png)
 
 However one key difference is that if you click on the _Slack_ icon and open the app then you will see that it does not open in a browser window. Android Apps are not Chrome Apps so are not accessed through the web browser. In this case, they will open in a separate window. Even though they don't open in a web browser, many apps, including _Slack_, still require an internet connection to be fully functional. Others may be more useful when used entirely offline. 
 
