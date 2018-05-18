@@ -4,7 +4,7 @@ Android is an operating system that was made available by Google and now powers 
 
 But Google has started to support the use of Android Apps on [a small but growing number of Chromebooks](https://www.androidcentral.com/these-are-chromebooks-can-run-android-apps). If you have one of these Chromebooks it is now possible to use the same apps you use on your phone on your Chromebook. 
 
-![Android Apps are now available on Chromebooks](images/03_android/03_chromebookintro_android-2.png)
+![Android Apps are now available on Chromebooks](images/03_android/03_chromebookintro_android-1.png)
 
 Chromebook Apps are stored in the same place on your Chromebook as Chrome Web Apps and Extensions. In fact, just by looking at the Shelf or your list of Apps you won't be able to tell which are Chrome Apps and which are Android Apps. So to get started, we do the same thing as we did in the previous section, click on the Launcher button to show a list of potential apps. You can again click the arrow to view more apps if the Play Store does not appear among the first set of apps
 
