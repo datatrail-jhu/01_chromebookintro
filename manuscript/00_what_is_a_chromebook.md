@@ -73,7 +73,7 @@ d) Because the computations are done quickly.
 a) Mostly on the Chromebook
 B) Mostly on Google Drive or Dropbox
 c) Mostly on an external hard drive
-c) Mostly on your local computer
+d) Mostly on your local computer
 
 
 {/quiz}
