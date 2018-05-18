@@ -22,10 +22,7 @@ Once you know the type of port you have on your Chromebook adn the type of conne
 If you have the appropriate dongle you are now ready to project from your Chromebook. First, connect the dongle to the projector cord. Then connect the other end of the dongle to the port on your computer. 
 
 
-When you do this you will see that a window appears that says "Extending screen to" and then the name of the display. You should click on this box to open the display settings. 
-
-
-There are two ways that the projector and your laptop can be connected. Extended display means that the projected screen is like a second Desktop connected to the Desktop on your computer. So you can drag files from the screen on your laptop to the projected screen.
+When you do this you will see that a window appears that says "Extending screen to" and then the name of the display. You should click on this box to open the display settings. There are two ways that the projector and your laptop can be connected. Extended display means that the projected screen is like a second Desktop connected to the Desktop on your computer. So you can drag files from the screen on your laptop to the projected screen.
 Mirrored display means that exactly what is on your Desktop is displayed on the projector. Usually when you first connect a Chromebook to a projector it will extend the display. This means that if you open the Displays window by clicking on the extending displays box, it may appear on the projected screen but not on your Desktop! This is because you have extended your screen so you actually have two screens you are working with. Usually when presenting you want the same thing to appear on your Desktop screen and the projector screen. You can do this by changing the setting from "Extending Display" to "Mirrored Display".
 
 First you need to get the Displays Window to your Desktop. You can move your cursor all the way off the left or right hand side of the screen while watching the projector screen. You will see the cursor move up to the projector screen and you can click on the Displays window, hold down, and drag the display back to your Desktop. 
