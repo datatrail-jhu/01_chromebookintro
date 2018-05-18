@@ -4,9 +4,9 @@ Your Chromebook is a little different than most normal Desktop computers. The ma
 
 When using a "normal" computer you usually download software that makes it possible to edit files, make presentations, use your calendar, or use social media. On a Chromebook there are three different ways that you can add new software to use. 
 
-* __Chrome Apps__ - Are apps that you "add" to Chrome. The user interface is just the Chrome Browser. Very often these apps are actually just a link to a website that lets you do something like manage your calendar or write a document. But sometimes they have other offline functionality. 
-* __Chrome Extensions__ - These are actually pieces of software that modify the way the Chrome Browser itself works. An example would be an ad blocker that prevents ads on webpages you visit in Chrome from being shown. 
-* __Android Apps__ - Many modern Chromebooks now support installing Android Apps. These are the same apps that you would get if you had an Android phone. These apps won't run inside of a web browser, but will function just like an app on your phone. 
+* __Chrome Apps__: Are apps that you "add" to Chrome. The user interface is just the Chrome Browser. Very often these apps are actually just a link to a website that lets you do something like manage your calendar or write a document. But sometimes they have other offline functionality. 
+* __Chrome Extensions__: These are actually pieces of software that modify the way the Chrome Browser itself works. An example would be an ad blocker that prevents ads on webpages you visit in Chrome from being shown. 
+* __Android Apps__: Many modern Chromebooks now support installing Android Apps. These are the same apps that you would get if you had an Android phone. These apps won't run inside of a web browser, but will function just like an app on your phone. 
 
 You can think of all three of these extensions to Chrome OS as "Apps". Not all Chromebooks support Android Apps and we want anyone to be able to complete the Chromebook Data Science Program if they have a Chrome web browser and an internet connection. So we will mostly focus on Chrome Apps and Extensions for this course. But if you have Android Apps that you like on your phone and have a [Chromebook that supports Android Apps](https://www.androidcentral.com/these-are-chromebooks-can-run-android-apps) then you can install those apps as well as we discuss in the next section.  
 
@@ -16,17 +16,17 @@ You can think of all three of these extensions to Chrome OS as "Apps". Not all C
 
 Chrome Apps are software programs that run in the web browser. They can be as simple as a link to a website where the app runs or they can be actual pieces of software that download and run on your local Chrome computer. 
 
-When you set up your Chrome OS account and log in there will be a number of Chrome Apps that are available to you by default. Some of the most useful ones are: 
+When you set up your Chrome OS account and log in, there will be a number of Chrome Apps that are available to you by default. Some of the most useful ones are: 
 
-* __Google Docs__ -  for creating, writing and editing formatted text documents (similar to Microsoft Word, but through the web browser)
-* __Google Slides__ - for creating, writing and editing presentations (similar to Microsoft Office, but through the web browser)
-* __Google Sheets__ - for creating, writing and editing spreadsheets (similar to Microsoft Excel, but through the web browser)
+* __Google Docs__: for creating, writing and editing formatted text documents (similar to Microsoft Word, but through the web browser)
+* __Google Slides__: for creating, writing and editing presentations (similar to Microsoft Office, but through the web browser)
+* __Google Sheets__: for creating, writing and editing spreadsheets (similar to Microsoft Excel, but through the web browser)
 
 ![Google Docs, Slides and Sheets are three Chrome Apps that come installed on your Chromebook](images/00_chromebrowser/00_chromebookintro_chromeos-3.png)
 
 
 
-We won't go into too much detail about each of these apps here as we will cover that in a future class. For now we are just going to cover how to find these apps on your Chromebook, how to install and uninstall new ones, and how to organize them on your Chromebook. 
+We won't go into too much detail about each of these apps here as we will cover them in a future class. For now we are just going to cover how to find these apps on your Chromebook, how to install and uninstall new ones, and how to organize them on your Chromebook. 
 
 ### Where do Chromebook Apps live? 
 
@@ -47,7 +47,7 @@ Another way to open the screen with your apps is to click on the Launcher button
 ![The keyboard launcher button looks like a magnifyign glass](images/00_chromebrowser/00_chromebookintro_chromeos-6.png)
 
 
-Once you have found the App you want to open, click on it. When you click on a Chrome App the Chrome Browser will open up and be directed to the website where that piece of software lives. For exampele if you click on the Google Docs icon (the blue piece of paper) then you will be directed to the website: https://docs.google.com/document/u/0/ which lets you edit and work with your Google Docs. 
+Once you have found the App you want to open, click on it. When you click on a Chrome App the Chrome Browser will open and be directed to the website where that piece of software lives. For exampele if you click on the Google Docs icon (the blue piece of paper) then you will be directed to the website https://docs.google.com/document/u/0/ which lets you edit and work with your Google Docs. 
 
 ![Clicking on the Google Docs icon will open Google Docs in the web browser.](images/00_chromebrowser/00_chromebookintro_chromeos-7.png)
 
@@ -101,7 +101,7 @@ Once you are done you will see an icon for http://rstudio.cloud on your shelf so
 
 Chrome Apps are pieces of software that can be run from the web browser. Sometimes you will need to download and install them on your Chromebook and sometimes they will just be an icon with a link to a particular website that lets you do some function. 
 
-We already talked about how you can install any webpage as a Chrome App direclty. But many Chrome Apps can also be found in the Chrome Web Store. This is a website that lets you search and find Chrome Apps for your Chromebook, similar to Google Play for Android Apps or the Appstore for Apple apps. You can get to the Chrome Web Store by clicking on the launcher button, then finding and clicking the Web Store icon. 
+We already talked about how you can install any webpage as a Chrome App direclty. But many Chrome Apps can also be found in the Chrome Web Store. This is a website that lets you search and find Chrome Apps for your Chromebook, similar to Google Play for Android Apps or the App Store for Apple apps. You can get to the Chrome Web Store by clicking on the launcher button, then finding and clicking the Web Store icon. 
 
 
 ![Open the Chrome Web Store by clicking on the Web Store Icon.](images/01_chromeos/01_chromebookintro_chromeos-14.png)
@@ -126,7 +126,7 @@ You can then click the Launcher button in the lower left to see that the app has
 ![StackEdit is now installed.](images/01_chromeos/01_chromebookintro_chromeos-17.png)
 
 
-If you click on the _StackEdit_ icon you'll be taken to the app, which you can see is also run in the Chrome web browser, just like any website you would visit. The difference is that this website will let you write and save Markdown files including offline. 
+If you click on the _StackEdit_ icon you'll be taken to the app, which you can see is also run in the Chrome web browser, just like any website you would visit. The difference is that this website will let you write and save Markdown files. 
 
 ![StackEdit runs in the web browser.](images/01_chromeos/01_chromebookintro_chromeos-18.png)
 
@@ -140,7 +140,7 @@ Chrome extensions are software programs that modify the way that the Chrome brow
 As an example we will install the _Pocket_ Chrome extension. _Pocket_ is an extension that lets you save a particular website or essay for reading when your Chromebook is offline. So if you know you will need to read a document you can save it to _Pocket_ before you are traveling somewhere where you will not have internet access and then retrieve and read it even when you are offline. You can open the Chrome Web Store just as we did previously and search for Pocket under the _Extensions_ window. 
 
 
-Once you have found the extension you want, you can click on the extension and it will open a page where you can click _Add to Chrome_ if you do that and click add the extension will be added. 
+Once you have found the extension you want, you can click on the extension and it will open a page where you can click on _Add to Chrome_ if you do that and click add the extension will be added. 
 
 
 ![Click Add to Chrome to add the Pocket extension.](images/01_chromeos/01_chromebookintro_chromeos-19.png)

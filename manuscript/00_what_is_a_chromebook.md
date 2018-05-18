@@ -48,8 +48,8 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 
 ? Why is the program called Chromebook Data Science?
 
-a) Because you could do the program on a Chromebook if you want
-B) Because you have to do the program on a Chromebook
+A) Because you could do the program on a Chromebook if you want
+b) Because you have to do the program on a Chromebook
 c) Because Chromebooks are cheap 
 d) Because its safer not to store files on your computer
 
@@ -57,7 +57,7 @@ d) Because its safer not to store files on your computer
 
 A) There are many things you can't do offline
 b) They can be very cheap
-c) Everyone has the same operating system
+c) Because everything is done online, everyone is using the same software
 d) Your preferences are set up whenever you log in to any Chromebook
 
 ? Why is using a web browser for everything called "cloud computing"?
@@ -68,7 +68,7 @@ c) Because the computations are being done in a cloudy way.
 d) Because the computations are done quickly. 
 
 
-? Where do you store files when using a Chromebook ? 
+? Where do you store files when using a Chromebook? 
 
 a) Mostly on the Chromebook
 B) Mostly on Google Drive or Dropbox

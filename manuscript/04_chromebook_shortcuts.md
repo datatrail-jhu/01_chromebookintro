@@ -1,6 +1,6 @@
 # Chromebook shortcuts
 
-When we discussed the Chrome Browser we learned a couple of keyboard shortcuts. Keyboard short cuts are combination of keys that make your Chromebook do certain functions. For example, if you hold the `Crtl` key and press the `n` key you get a new Chrome window. When we want to tell you to press this key combination we will use the symbols `Ctrl+n` to describe what you are doing. 
+When we discussed the Chrome Browser we learned a couple of keyboard shortcuts. Keyboard shortcuts are combination of keys that make your Chromebook do certain functions. For example, if you hold the `Crtl` key and press the `n` key you get a new Chrome window. When we want to tell you to press this key combination we will use the symbols `Ctrl+n` to describe what you are doing. 
 
 In our Chrome Browser lesson we taught you the commands:
 
@@ -34,7 +34,7 @@ The button next to that is the show all windows button. This button will show yo
 
 The screen lock key in the upper right hand corner will lock your Chromebook when you aren't using it and if you set up your settings to require a password, then you will need to re-enter your password to re-open your Chromebook. When working on data science projects where the data is sensitive it is a good idea to lock your Chromebook whenever you aren't using it. We will call this the `lock` key. 
 
-![The lock key is the key with the lock  in the upper right of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-7.png)
+![The lock key is the key with the lock in the upper right of the keyboard. ](images/04_chromebook_shortcuts/03_chromebookintro_chromebook_shortcuts-7.png)
 
 You will recall that the Launcher key is the key with the magnifying glass on the left hand side of the keyboard. We will call this the `launcher` key. 
 

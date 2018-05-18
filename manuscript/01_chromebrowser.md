@@ -18,7 +18,7 @@ Here you can navigate to new websites and do all the usual things. At the bottom
 
 Click that box until the browser doesn't fill the whole window. You can then create a second browser window by again using the `Ctrl+n` command. 
 
-![Multiple chrome browsers](images/00_chromebrowser/00_chromebookintro_chromebrowser-5.png)
+![Multiple Chrome browsers](images/00_chromebrowser/00_chromebookintro_chromebrowser-5.png)
 
 
 If you want to do more than one thing at once you can do it in multiple windows like this. But it is often easier to see what you are doing if you use tabs instead of windows. You can close one of the browser windows by clicking the `X` in the upper right hand corner or by holding down `Ctrl` and pressing `w`.
@@ -66,7 +66,7 @@ If you click on "Done", the bookmark will be saved to the Bookmarks bar. Next ti
 
 ![Bookmarks](images/00_chromebrowser/00_chromebookintro_chromebrowser-15.png)
 
-Those are the basics of how you manipulate windows and tabs in the Chrome browser. In the following lessons we'll coer more about how you can use these windows to take advantage of the web through your Chromebook. 
+Those are the basics of how you manipulate windows and tabs in the Chrome browser. In the following lessons we'll learn more about how you can use these windows to take advantage of the web through your Chromebook. 
 
 
 
