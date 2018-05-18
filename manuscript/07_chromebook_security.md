@@ -47,7 +47,7 @@ Then you can turn on screen lock by clicking the option in the upper right hand 
 ![Click on option to Show screen lock when waking from sleep.](images/07_chromebook_security/07_chromebookintro_security-6.png)
 
 
-Now if you close your Chromebook, put it to sleep, or log out, you will have to input your password to get access to your account. This will prevent other users from getting access to your Chromebook account even if they get ahold of the physical device.
+Now if you close your Chromebook, put it to sleep, or log out, you will have to input your password to get access to your account. This will prevent other users from getting access to your Chromebook account even if they get a hold of the physical device.
 
 
 ### Managing other people
@@ -90,7 +90,7 @@ Once you input your phone number, you will get a text message with a 6 digit num
 
 ![Enter your verification code to confirm your phone.](images/07_chromebook_security/07_chromebookintro_security-13.png)
 
-Once you have confirmed both your password and your phone number you will be given the option to turn on two factor verification. You can do this by clicking "Turn On" on the next window. 
+After confirming both your password and your phone number you will be given the option to turn on two factor verification. You can do this by clicking "Turn On" on the next window. 
 
 
 ![Turn on two factor authentication.](images/07_chromebook_security/07_chromebookintro_security-14.png)
@@ -100,7 +100,7 @@ Once this is turned on you can turn it back off by going through the same steps 
 ![You can turn off two factor verification by clicking Turn Off.](images/07_chromebook_security/07_chromebookintro_security-15.png)
 
 
-Once you have enabled two step verification, you will need to have your phone with you every time you log in to your computer. This is good for security purposes, but will cause problems if you lose or replace your phone. Make sure you turn this feature back off if you are planning on getting a new phone. 
+Finally, once you have enabled two step verification, you will need to have your phone with you every time you log in to your computer. This is good for security purposes, but will cause problems if you lose or replace your phone. Make sure you turn this feature back off if you are planning on getting a new phone. 
 
 
 ### Managing apps and devices
@@ -131,13 +131,13 @@ If you click on a particular app you can take away the permission of that app to
 
 ### Slides and Video
 
-![Updating Your Chromebook]()
+![Chromebook Security]()
 
 * [Slides](https://docs.google.com/presentation/d/1-nW4KgJOVcfbRx4Vot_x6ZgoQGFItIxqIHZBXtLHDr8/edit?usp=sharing)
 
 {quiz, id: quiz_07_chromebook_security}
 
-### Chromebook security quiz
+### Chromebook Security quiz
 
 ? Which of the following is a good password?
 

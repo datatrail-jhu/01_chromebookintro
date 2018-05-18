@@ -86,7 +86,7 @@ In addition to the main apps from Google, many other apps and extensions offer O
 
 ### Slides and Video
 
-![Working offline]()
+![Working Offline]()
 
 * [Slides](https://docs.google.com/presentation/d/1OfWCdEL_1NMfa4C5Paz8iOzYaQHFg_60uD0rmpyfjtA/edit?usp=sharing)
 
@@ -95,12 +95,12 @@ In addition to the main apps from Google, many other apps and extensions offer O
 
 ### Working Offline Quiz
 
-? True or false: files in your Download folder are only stored online
+? Determine whether the following statement is True or false: files in your Download folder are only stored online
 
 a) TRUE
 B) FALSE
 
-? When you edit a file Google Docs offline when do the changes appear in the online version of the document? 
+? When you edit a file on Google Docs offline when do the changes appear in the online version of the document? 
 
 A) When you re-connect to the internet
 b) When you save the file 

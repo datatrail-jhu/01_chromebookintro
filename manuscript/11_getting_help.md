@@ -34,7 +34,7 @@ This will expand the list to expose a number of topics of interest. If you were 
 
 ![Connect your Chromebook to Wi-Fi](images/11_getting_help/04_chromebookintro_getting_help-5.png)
 
-This would open a new web page with step-by-step instructions to help get you connected to Wi-Fi.
+This would open a new web page with step-by-step instructions to help get you connected to wifi.
 
 ![Wi-Fi Connection Help Page](images/11_getting_help/04_chromebookintro_getting_help-6.png)
 
