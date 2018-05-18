@@ -76,7 +76,11 @@ Then if you click mirror displays you will see that your Desktop and the project
 ![Click the Mirror Displays box to mirror the displays. ](images/09_projecting/09_chromebookintro_projecting-12.png)
 
 
-You are now corrected and ready to present! In a future class we will go over the software for making and delivering data science presentations. 
+You are now corrected and ready to present! Mirrored displays show the same thing on your laptop as on the projector. 
+
+![Once displays are mirrored you see the same thing on the laptop and the remote version.  ](images/09_projecting/09_chromebookintro_projecting-13.png)
+
+In a future class we will go over the software for making and delivering data science presentations. 
 
 
 
