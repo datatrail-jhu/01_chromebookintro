@@ -18,4 +18,6 @@ We will install the Slack app that can be used for communication with teams and 
 When you find the Slack app you will be taken to a page where you can click Install to install the app. You may be asked to agree to terms and Google Play may ask you to enter payment details. However, if you are only going to use free apps you can find the small grey Skip box and skip over entering this information. Once you install the app it will appear as any other app on your Chromebook.  
 
 
-However one key difference is that if you click on the Slack icon and open the app then you will see that it does not open in a browser window. Android Apps are not Chrome Apps so are not accessed through the web browser. In this case, they will open in a separate window so that you can use them. Even though they don't open in a web browser, many apps, including Slack, still require an internet connection to be fully functional. Others may be more useful when used entirely offline. 
+However one key difference is that if you click on the Slack icon and open the app then you will see that it does not open in a browser window.  
+
+Android Apps are not Chrome Apps so are not accessed through the web browser. In this case, they will open in a separate window so that you can use them. Even though they don't open in a web browser, many apps, including Slack, still require an internet connection to be fully functional. Others may be more useful when used entirely offline. 
