@@ -86,7 +86,7 @@ In a future class we will go over the software for making and delivering data sc
 
 ### Slides and Video
 
-![Projecting From a Chromebook]()
+![Projecting From a Chromebook](https://www.youtube.com/watch?v=VF7YiYVHICY)
 
 * [Slides](https://docs.google.com/presentation/d/1c4diFFLIkAqYE4EIbI6mZAYLc8zOPMwLEiczFMMM2nQ/edit?usp=sharing)
 

@@ -54,7 +54,7 @@ This will send the file to your printer. One thing to note is that printing from
 
 ### Slides and Video
 
-![Printing with a Chromebook]()
+![Printing with a Chromebook](https://www.youtube.com/watch?v=ycCAW5PCpqQ)
 
 * [Slides](https://docs.google.com/presentation/d/1KxH-cciEQAyyHcngpzw_4n-vQkznmBsvi6QhS5RBOwg/edit?usp=sharing)
 

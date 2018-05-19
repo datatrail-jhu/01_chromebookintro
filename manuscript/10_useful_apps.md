@@ -55,7 +55,7 @@ There are lots of other useful apps and as we go through the courses we will poi
 
 ### Slides and Video
 
-![Useful Applications]()
+![Useful Applications](https://www.youtube.com/watch?v=tpJywSx5QFw)
 
 * [Slides](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/edit?usp=sharing)
 
