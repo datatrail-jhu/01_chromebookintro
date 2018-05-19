@@ -70,7 +70,7 @@ You're now all up-to-date!
 
 ### Slides and Video
 
-![Getting Help]()
+![Getting Help](https://www.youtube.com/watch?v=TthBmkiqr5k)
 
 * [Slides](https://docs.google.com/presentation/d/1pAzLCi3qGonAlUi2uKTzSe5eIxgNPUjvOs8IQVNIRC8/edit?usp=sharing)
 

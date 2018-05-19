@@ -40,7 +40,7 @@ At this point, your screen will go black for a few seconds. Your Chromebook will
 
 ### Slides and Video
 
-![Updating Your Chromebook]()
+![Updating Your Chromebook](https://www.youtube.com/watch?v=DrQrKJtV9q4)
 
 * [Slides](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/edit?usp=sharing)
 

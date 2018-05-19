@@ -86,7 +86,7 @@ In addition to the main apps from Google, many other apps and extensions offer O
 
 ### Slides and Video
 
-![Working Offline]()
+![Working Offline](https://www.youtube.com/watch?v=eewUMvPDpwE)
 
 * [Slides](https://docs.google.com/presentation/d/1OfWCdEL_1NMfa4C5Paz8iOzYaQHFg_60uD0rmpyfjtA/edit?usp=sharing)
 

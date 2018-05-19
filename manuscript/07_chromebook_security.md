@@ -131,7 +131,7 @@ If you click on a particular app you can take away the permission of that app to
 
 ### Slides and Video
 
-![Chromebook Security]()
+![Chromebook Security](https://www.youtube.com/watch?v=UObzYMzZ8is)
 
 * [Slides](https://docs.google.com/presentation/d/1-nW4KgJOVcfbRx4Vot_x6ZgoQGFItIxqIHZBXtLHDr8/edit?usp=sharing)
 

@@ -166,7 +166,7 @@ Extensions, like Chrome Web Apps, can improve the way that Chrome OS functions i
 
 ### Slides and Video
 
-![Chromebook OS]()
+![Chromebook OS](https://www.youtube.com/watch?v=xnRGU22QevI)
 
 * [Slides](https://docs.google.com/presentation/d/1_qk0_j1BDjJXLKW-G436BlxmUw3Wt9sxtlYBwA1eKLg/edit?usp=sharing)
 
