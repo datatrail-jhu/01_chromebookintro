@@ -58,7 +58,7 @@ Usually it is a good idea to leave the file extension the same even if you renam
 
 ### Slides and Video
 
-![File Storage](https://www.youtube.com/watch?v=g03pTauisyo)
+![File Storage](https://www.youtube.com/watch?v=Xc_kXtQ8kXI)
 
 * [Slides](https://docs.google.com/presentation/d/1k9e4UEhxg63DWSFkV71u1ewQQe-4DopdXAMG35O0hkc/edit?usp=sharing)
 
