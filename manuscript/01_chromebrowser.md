@@ -72,7 +72,7 @@ Those are the basics of how you manipulate windows and tabs in the Chrome browse
 
 ### Slides and Video
 
-![Chrome Browser](https://www.youtube.com/watch?v=2EtFF9YUVJ4)
+![Chrome Browser](https://www.youtube.com/watch?v=sH0AjY6hUFg)
 
 * [Slides](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/edit?usp=sharing)
 
