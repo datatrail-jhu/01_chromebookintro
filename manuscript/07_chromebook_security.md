@@ -147,6 +147,7 @@ c) 12345
 d) jeffleek
 
 ? Which of the following is not a required characteristic of a good password?
+
 a) It is long
 b) It is easy for you to remember
 c) It is hard to guess
