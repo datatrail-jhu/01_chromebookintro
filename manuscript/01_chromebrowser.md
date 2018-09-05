@@ -1,8 +1,8 @@
 # Chrome Browser
 
-A Chromebook is designed to primarily be an internet browser. In other words, it mostly will only allow you to open up websites and navigate between them. Chromebooks use Chrome OS - this is like Windows on a Microsoft computer, Android on your phone, or OS X on your Apple computer. It is the main software that runs your computer. 
+A Chromebook is designed to primarily be an Internet browser. In other words, it mostly will only allow you to open up websites and navigate between them. Chromebooks use Chrome OS - this is like Windows on a Microsoft computer, Android on your phone, or OS X on your Apple computer. It is the main software that runs your computer. 
 
-But unlike "normal" computers Chrome OS basically only allows you to use an internet browser. Chromebooks use [Google Chrome](https://www.google.com/chrome/), Google's internet browser. When you are using a Chromebook, almost all of the time you will be interacting with the world through Chrome. When you have opened up your Chromebook you will see something like this. 
+But unlike "normal" computers Chrome OS basically only allows you to use an Internet browser. Chromebooks use [Google Chrome](https://www.google.com/chrome/), Google's Internet browser. When you are using a Chromebook, almost all of the time you will be interacting with the world through Chrome. When you have opened up your Chromebook you will see something like this. 
 
 ![Chromebook opening screen](images/01_chromebrowser/01_chromebookintro_chromebrowser-1.png)
 
@@ -81,41 +81,56 @@ Those are the basics of how you manipulate windows and tabs in the Chrome browse
 
 ### Chrome Browser quiz
 
-? What internet browser will we be using?
+{choose-answers:4}
+? What Internet browser will we be using?
 
-a) Firefox
-B) Chrome
-c) Edge
-d) Safari
+C) Google Chrome
+C) Chrome
+o) Firefox
+o) Edge
+o) Safari
+o) Bing
 
+{choose-answers:4}
 ? Why would you bookmark a page?
 
-a) If you never want to visit the page again
-B) If you visit it frequently
-c) To block that page
-d) To block ads from appearing
+C) If you visit it frequently
+C) If you'll return to it often
+o) If you never want to visit the page again
+o) To block that page
+o) To block ads from appearing
+o) If you liked the colors of the website
 
-? Which of the following is the command to open a new window?
+{choose-answers:4}
+? Which of the following is the keyboard shortcut to open a new window?
 
-a) `Ctrl+w`
-b) `Ctrl+t`
 C) `Ctrl+n`
-d) `Ctrl+d`
+o) `Ctrl+w`
+o) `Ctrl+t`
+o) `Ctrl+d`
+o) `Ctrl+b`
+o) `Ctrl+v`
 
 
-? Which of the following is the command to open a new tab?
+{choose-answers:4}
+? Which of the following is the keyboard shortcut to open a new tab?
 
-a) `Ctrl+w`
-B) `Ctrl+t`
-c) `Ctrl+n`
-d) `Ctrl+d`
+C) `Ctrl+t`
+o) `Ctrl+w`
+o) `Ctrl+n`
+o) `Ctrl+d`
+o) `Ctrl+b`
+o) `Ctrl+v`
 
+{choose-answers:4}
+? Which of the following is the keyboard shortcut to close a tab or window?
 
-? Which of the following is the command to close a tab or window?
+C) `Ctrl+w`
+o) `Ctrl+t`
+o) `Ctrl+n`
+o) `Ctrl+d`
+o) `Ctrl+b`
+o) `Ctrl+v`
 
-A) `Ctrl+w`
-b) `Ctrl+t`
-c) `Ctrl+n`
-d) `Ctrl+d`
 {/quiz}
 

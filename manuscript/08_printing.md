@@ -62,25 +62,38 @@ This will send the file to your printer. One thing to note is that printing from
 
 ### Printing with a Chromebook quiz
 
-? True or False you can only print to wifi connected printers with a Chromebook
+?1 True or False you can only print to wifi connected printers with a Chromebook
 
 A) TRUE
 b) FALSE
 
-? When setting up a printer on a Chromebook which of the following is critically important?
+?1 True or False you cannot print to wifi connected printers with a Chromebook
 
-A) To make sure you have picked the right printer name
-b) To make sure the printer is offline
-c) To make sure that your file is printed in color
-d) To use the `ctrl+t` command to print
+a) TRUE
+B) FALSE
 
-? Which of the following is the command to print a page from your Chromebook?
+{choose-answers: 4}
+?2 When setting up a printer on a Chromebook which of the following is critically important?
 
-A) `ctrl+p`
-b) `ctrl+t`
-c) `ctrl+w`
-d) `ctrl+d`
+C) To make sure you have picked the right printer name
+C) To make sure you have the right printer name selected
+o) To make sure the printer is offline
+o) To make sure that your file is printed in color
+o) To use the `ctrl+t` command to print
+o) To make sure it's a Brother brand printer
+o) To make sure the printer is right next to you
 
+
+{choose-answers: 4}
+?3 Which of the following is the command to print a page from your Chromebook?
+
+C) `ctrl+p`
+o) `ctrl+t`
+o) `ctrl+w`
+o) `ctrl+d`
+o) `ctrl+n`
+o) `ctrl+x`
+o) `ctrl+c`
 
 {/quiz}
 

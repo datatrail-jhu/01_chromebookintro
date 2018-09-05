@@ -1,13 +1,13 @@
 # Working offline
 
-Chromebooks are primarily meant to be used with an internet connection. This is because most of the software you are using is through an Internet browser. So you will want to make sure you have internet access when you are working on your Chromebook whenever possible. 
+Chromebooks are primarily meant to be used with an Internet connection. This is because most of the software you are using is through an Internet browser. So you will want to make sure you have Internet access when you are working on your Chromebook whenever possible. 
 
-But sometimes you won't have access to the internet. Fortunately, some of the Chromebook Apps and functionality are available offline. You can use these to work when you can't get an internet connection. Then your changes will appear online when you reconnect. 
+But sometimes you won't have access to the Internet. Fortunately, some of the Chromebook Apps and functionality are available offline. You can use these to work when you can't get an Internet connection. Then your changes will appear online when you reconnect. 
 
 
 ### Google Drive
 
-As we discussed in a previous section, the _Files_ App shows files both from your Google Drive and in a "Downloads" folder. All the files in your "Downloads" folder are saved directly on your Chromebook and are available even if you aren't connected to the internet. But you can also store files on your Google Drive. The advantage of Google Drive is that all your files are stored online. This means they won't be lost if you lose your Chromebook and will be accessible from any internet connected computer. However, sometimes when you don't have access to the Internet you may want to access your files offline. 
+As we discussed in a previous section, the _Files_ App shows files both from your Google Drive and in a "Downloads" folder. All the files in your "Downloads" folder are saved directly on your Chromebook and are available even if you aren't connected to the Internet. But you can also store files on your Google Drive. The advantage of Google Drive is that all your files are stored online. This means they won't be lost if you lose your Chromebook and will be accessible from any Internet connected computer. However, sometimes when you don't have access to the Internet you may want to access your files offline. 
 
 You can make Google Drive files available offline on your Chromebook. To do so you need to open the Google Drive App on your Chromebook. You can find the Google Drive App by opening the apps using the launcher button and clicking on the Google Drive icon. 
 
@@ -19,14 +19,14 @@ Once you have opened Google Drive you can open the Settings in the upper right h
 ![Open the Google Drive Settings](images/06_working_offline/06_chromebookintro_working_offline-2.png)
 
 
-Then you can confirm that the box is checked next to the "Offline" setting. This means that all of your Google Slides presentations, Google Docs text files, and Google Sheets data files will be available offline. This will use up storage on your Chromebook, but will let you work even when your computer is not connected to the internet. 
+Then you can confirm that the box is checked next to the "Offline" setting. This means that all of your Google Slides presentations, Google Docs text files, and Google Sheets data files will be available offline. This will use up storage on your Chromebook, but will let you work even when your computer is not connected to the Internet. 
 
 ![Confirm that the setting to work offline is turned on](images/06_working_offline/06_chromebookintro_working_offline-3.png)
 
 
 ### Example: editing a text file offline
 
-One of the most common things you might want to do when you don't have internet access is to write in a text file. You can do this with a number of different apps. But the one we will use most frequently is _Google Docs_. You will learn more about Google Docs in a future course, but for now we will show you how offline editing works. First, click on the Google Docs icon to open up the Google Docs App. Note you may have to click on the launcher window to find this App if it is not pinned to your shelf. When Google Docs is open you can click on the plus sign to create a new document. 
+One of the most common things you might want to do when you don't have Internet access is to write in a text file. You can do this with a number of different apps. But the one we will use most frequently is _Google Docs_. You will learn more about Google Docs in a future course, but for now we will show you how offline editing works. First, click on the Google Docs icon to open up the Google Docs App. Note you may have to click on the launcher window to find this App if it is not pinned to your shelf. When Google Docs is open you can click on the plus sign to create a new document. 
 
 
 ![Open Google Docs and create a new document](images/06_working_offline/06_chromebookintro_working_offline-4.png)
@@ -43,7 +43,7 @@ To test offline editing you need to turn off wifi on your computer. You can do t
 ![Open your wifi options](images/06_working_offline/06_chromebookintro_working_offline-6.png)
 
 
-You can turn off wifi and your internet connection by clicking the dot at the top of the wifi menu. Now your Chromebook is offline. 
+You can turn off wifi and your Internet connection by clicking the dot at the top of the wifi menu. Now your Chromebook is offline. 
 
 ![Turn off wifi by clicking the dot.](images/06_working_offline/06_chromebookintro_working_offline-7.png)
 
@@ -59,16 +59,16 @@ When you are working offline the offline icon will appear next to the file name.
 ![The offline icon appears next to the file name.](images/06_working_offline/06_chromebookintro_working_offline-9.png)
 
 
-When you are editing a file offline you will see that it says "All changes saved offline" at the top of the window next to the file name. This means that changes to your online document won't happen until you reconnect to the internet.  
+When you are editing a file offline you will see that it says "All changes saved offline" at the top of the window next to the file name. This means that changes to your online document won't happen until you reconnect to the Internet.  
 
-![Changes are not saved to the file on the internet until you reconnect.](images/06_working_offline/06_chromebookintro_working_offline-10.png)
+![Changes are not saved to the file on the Internet until you reconnect.](images/06_working_offline/06_chromebookintro_working_offline-10.png)
 
-To see how this works you can open back up the wifi menu and turn the internet connection back on by again going through the menu opened by clicking on your avatar on the lower right hand side of the screen. 
+To see how this works you can open back up the wifi menu and turn the Internet connection back on by again going through the menu opened by clicking on your avatar on the lower right hand side of the screen. 
 
 ![Turn the wifi back on.](images/06_working_offline/06_chromebookintro_working_offline-11.png)
 
 
-Right after you turn the wifi back on you will briefly see that it says "Saving" at the top of the document next to the file name. This means that the changes you have made to the file are being saved from the version on your Chromebook to the version on the internet. 
+Right after you turn the wifi back on you will briefly see that it says "Saving" at the top of the document next to the file name. This means that the changes you have made to the file are being saved from the version on your Chromebook to the version on the Internet. 
 
 ![Changes are saved when you go back online.](images/06_working_offline/06_chromebookintro_working_offline-12.png)
 
@@ -95,25 +95,35 @@ In addition to the main apps from Google, many other apps and extensions offer O
 
 ### Working Offline Quiz
 
-? Determine whether the following statement is True or false: files in your Download folder are only stored online
+?1 Determine whether the following statement is TRUE or FALSE: Files in your Download folder are only stored online.
 
 a) TRUE
 B) FALSE
 
-? When you edit a file on Google Docs offline when do the changes appear in the online version of the document? 
+?1 Determine whether the following statement is TRUE or FALSE: Files in your Download folder are stored on your Chromebook.
 
-A) When you re-connect to the internet
-b) When you save the file 
-c) When you rename the file
-d) They are saved online even though you aren't connected
+A) TRUE
+b) FALSE
 
+{choose-answers: 4}
+?2 When you edit a file on Google Docs offline when do the changes appear in the online version of the document? 
 
-? What do you need to be careful of if you edit a file offline? 
+C) When you re-connect to the Internet
+C) The next time you're connected to the Internet
+o) When you save the file 
+o) When you rename the file
+o) when you delete the file
+o) They are saved online even though you aren't connected
 
-A) Your version might write over someone else's work when you reconnect
-b) The edits may be lost because you aren't connected
-c) You will not be able to save a file offline
-d) You might delete the file by editing it offline
+{choose-answers: 4}
+?3 What do you need to be careful of if you edit a file offline? 
+
+C) Your version might write over someone else's work when you reconnect
+C) Your edited offline version might overwrite someone else's work when you reconnect
+o) The edits may be lost because you aren't connected
+o) You will not be able to save a file offline
+o) You might delete the file by editing it offline
+o) You may forget to put it on the Internet later
 
 {/quiz}
 

@@ -139,27 +139,33 @@ If you click on a particular app you can take away the permission of that app to
 
 ### Chromebook Security quiz
 
+{choose-answers:4}
 ? Which of the following is a good password?
 
-A) weatherbaltimorefrisbeetacos
-b) password
-c) 12345
-d) jeffleek
+C) weatherbaltimorefrisbeetacos
+C) baltimore4frisbee29weather19
+o) password
+o) 12345
+o) jeffleek
+o) abcd
+o) weather
 
+{choose-answers:4}
 ? Which of the following is not a required characteristic of a good password?
 
-a) It is long
-b) It is easy for you to remember
-c) It is hard to guess
-D) It has lots of numbers and symbols in it
+C) It has lots of numbers and symbols in it
+o) It is long
+o) It is easy for you to remember
+o) It is hard to guess
 
-
+{choose-answers:4}
 ? What is two step verification?
 
-A) When you have to input a password and a security code from your phone to log in. 
-b) When you have to input just a password to log in
-c) When you have to input just a security code from your phone to log in
-d) When you have to click through two pages to get to your password
+C) When you have to input a password and a security code from your phone to log in. 
+o) When you have to input just a password to log in
+o) When you have to input just a security code from your phone to log in
+o) When you have to click through two pages to get to your password
+o) When you have to include the number two in your password
 
 
 {/quiz}
