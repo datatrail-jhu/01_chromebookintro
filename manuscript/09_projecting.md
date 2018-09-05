@@ -95,41 +95,50 @@ In a future class we will go over the software for making and delivering data sc
 ### Projecting from a Chromebook quiz
 
 
-? True or False you can connect your Chromebook directly to most projectors?
+
+? TRUE or FALSE: you can connect your Chromebook directly to most projectors
 
 a) TRUE
 B) FALSE
 
+
+{choose-answers: 4}
 ? Which of the following is a type of projector cable connection?
 
-A) VGA
-b) Bluetooth
-c) USB-C
-d) USB
+C) VGA
+C) HDMI
+o) Bluetooth
+o) USB-C
+o) USB
+o) TypeC
 
+{choose-answers: 4}
 ? Which of the following are the most common types of projector cable connections? 
 
-A) HDMI and VGA
-b) HDMI and USB
-c) VGA and USB-C
-d) HDMI and MiniDisplay
+C) HDMI and VGA
+C) VGA and HDMI
+o) HDMI and USB
+o) VGA and USB-C
+o) VGA and USB
+o) HDMI and USB-C
+o) HDMI and MiniDisplay
 
-
+{choose-answers: 4}
 ? Which display setting is most appropriate for projecting?
 
-A) Mirrored Displays
-b) Extended Displays
-c) VGA Displays
-d) USB Displays
+C) Mirrored Displays
+o) Extended Displays
+o) VGA Displays
+o) USB Displays
+o) ColorSmart Displays
 
-
+{choose-answers: 4}
 ? When your screen is extended how do you move a window from the projector screen to the Desktop screen?
 
-
-A) Move the cursor to the right or left until it moves to the second screen, click on the window, hold down and drag it back to your Desktop. 
-b) Double click on your settings window and it will open the Screens menu which you can click to move the screen back. 
-c) Move the screen by pressing `ctrl+m` then selecting the Desktop Screen from the menu that appears. 
-d) Pressing down on the launcher key until the window appears on your Desktop screen. 
+C) Move the cursor to the right or left until it moves to the second screen, click on the window, hold down and drag it back to your Desktop. 
+o) Double click on your settings window and it will open the Screens menu which you can click to move the screen back. 
+o) Move the screen by pressing `ctrl+m` then selecting the Desktop Screen from the menu that appears. 
+o) Pressing down on the launcher key until the window appears on your Desktop screen. 
 
 
 {/quiz}

@@ -64,25 +64,33 @@ There are lots of other useful apps and as we go through the courses we will poi
 
 ### Suggested Apps quiz
 
-? TRUE/FALSE: Web apps cannot be accessed on your Internet Browser.
+?1 TRUE/FALSE: Web apps cannot be accessed on your Internet Browser.
 
 a) TRUE
 B) FALSE
 
-? Which of these apps is great for keeping track of meetings?
+?1 TRUE/FALSE: Web apps can be accessed on your Internet Browser.
 
-a) DataCamp
-b) Tweetdeck
+A) TRUE
+b) FALSE
+
+{choose-answers: 4}
+?2 Which of these apps is great for keeping track of meetings?
+
 C) Google Calendar
-d) DocHub
+o) DataCamp
+o) Tweetdeck
+o) DocHub
+o) Angry Birds
 
-? Which of these apps improves communication between team members?
+{choose-answers: 4}
+?3 Which of these apps improves communication between team members?
 
-A) Slack
-b) DataCamp
-c) DocHub
-d) Angry Birds
-
+C) Slack
+o) DataCamp
+o) DocHub
+o) Angry Birds
+o) Evernote
 
 {/quiz}
 

@@ -40,7 +40,7 @@ However one key difference is that if you click on the _Slack_ icon and open the
 
 ![Click on the Slack icon to open Slack](images/03_android/03_chromebookintro_android-8.png)
 
-Android Apps are not Chrome Apps so are not accessed through the web browser. In this case, they will open in a separate window. Even though they don't open in a web browser, many apps, including _Slack_, still require an internet connection to be fully functional. Others may be more useful when used entirely offline. 
+Android Apps are not Chrome Apps so are not accessed through the web browser. In this case, they will open in a separate window. Even though they don't open in a web browser, many apps, including _Slack_, still require an Internet connection to be fully functional. Others may be more useful when used entirely offline. 
 
 ![The app is working in a window, but not a Chrome Browser](images/03_android/03_chromebookintro_android-9.png)
 
@@ -56,21 +56,24 @@ Android Apps are not Chrome Apps so are not accessed through the web browser. In
 
 ### Android Apps quiz
 
+{choose-answers: 4}
 ? Is an Android App the same thing as a Chrome Web App?
 
-A) No, Chrome Web Apps run in the Chrome Web Browser
-b) No, Android Apps run in the Chrome Web Browser
-c) Yes, they are the same thing
-d) Yes, they look the same on your Shelf
+C) No, Chrome Web Apps run in the Chrome Web Browser
+o) No, Android Apps run in the Chrome Web Browser
+o) Yes, they are the same thing
+o) Yes, they look the same on your Shelf
+o) Yes, they both run in the Chrome Web Browser
 
 
+{choose-answers: 4}
 ? Where do you download Android Apps from?
 
-a) The Chrome Web Store
-B) The Google Play Store
-c) The iOS App Store
-d) Your shelf
-
+C) The Google Play Store
+o) The Chrome Web Store
+o) The iOS App Store
+o) Your shelf
+o) The Apple App Store
 
 {/quiz}
 

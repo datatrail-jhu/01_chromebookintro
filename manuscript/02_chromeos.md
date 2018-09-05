@@ -8,7 +8,7 @@ When using a "normal" computer you usually download software that makes it possi
 * __Chrome Extensions__: These are actually pieces of software that modify the way the Chrome Browser itself works. An example would be an ad blocker that prevents ads on webpages you visit in Chrome from being shown. 
 * __Android Apps__: Many modern Chromebooks now support installing Android Apps. These are the same apps that you would get if you had an Android phone. These apps won't run inside of a web browser, but will function just like an app on your phone. 
 
-You can think of all three of these extensions to Chrome OS as "Apps". Not all Chromebooks support Android Apps and we want anyone to be able to complete the Chromebook Data Science Program if they have a Chrome web browser and an internet connection. So we will mostly focus on Chrome Apps and Extensions for this course. But if you have Android Apps that you like on your phone and have a [Chromebook that supports Android Apps](https://www.androidcentral.com/these-are-chromebooks-can-run-android-apps) then you can install those apps as well as we discuss in the next section.  
+You can think of all three of these extensions to Chrome OS as "Apps". Not all Chromebooks support Android Apps and we want anyone to be able to complete the Chromebook Data Science Program if they have a Chrome web browser and an Internet connection. So we will mostly focus on Chrome Apps and Extensions for this course. But if you have Android Apps that you like on your phone and have a [Chromebook that supports Android Apps](https://www.androidcentral.com/these-are-chromebooks-can-run-android-apps) then you can install those apps as well as we discuss in the next section.  
 
  
 
@@ -137,7 +137,7 @@ If you click on the _StackEdit_ icon you'll be taken to the app, which you can s
 
 Chrome extensions are software programs that modify the way that the Chrome browser itself works. You can find and install them through the Chrome Web Store just like you can with Chrome Apps but they look and function slightly differently. Sometimes these extensions may do something very simple (like [show you a funny picture](https://chrome.google.com/webstore/detail/animatedtabs-a-new-gif-on/kenhfdoiondldpcoajdbackbnmehgahl?hl=en) when you open a new tab) or they might do something very important (like [managinging your passwords](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en)). 
 
-As an example we will install the _Pocket_ Chrome extension. _Pocket_ is an extension that lets you save a particular website or essay for reading when your Chromebook is offline. So if you know you will need to read a document you can save it to _Pocket_ before you are traveling somewhere where you will not have internet access and then retrieve and read it even when you are offline. You can open the Chrome Web Store just as we did previously and search for Pocket under the _Extensions_ window. 
+As an example we will install the _Pocket_ Chrome extension. _Pocket_ is an extension that lets you save a particular website or essay for reading when your Chromebook is offline. So if you know you will need to read a document you can save it to _Pocket_ before you are traveling somewhere where you will not have Internet access and then retrieve and read it even when you are offline. You can open the Chrome Web Store just as we did previously and search for Pocket under the _Extensions_ window. 
 
 
 Once you have found the extension you want, you can click on the extension and it will open a page where you can click on _Add to Chrome_ if you do that and click add the extension will be added. 
@@ -175,27 +175,34 @@ Extensions, like Chrome Web Apps, can improve the way that Chrome OS functions i
 
 ### Chrome OS Quiz
 
+{choose-answers:4}
 ? How do you get Chromebook Apps?
 
-a) From Google Slides
-b) From Google Drive
 C) From Google Play
-d) From Google Sheets
+o) From Google Slides
+o) From Google Drive
+o) From Google Sheets
+o) From Google Forms
+o) From Google Gmail
 
-
+{choose-answers:4}
 ? What is a Chromebook App?
 
-a) A piece of software you install on your computer
-b) An app you install on your computer
 C) A link to a website that works like an app
-d) A piece of software you run on your Chromebook
+C) A link to a website that works like an application
+o) A piece of software you install on your computer
+o) An app you install on your computer
+o) A piece of software you run on your Chromebook
+o) A piece of software you have to write
 
+{choose-answers:4}
 ? What is your Shelf on a Chromebook ? 
 
-a) The place where you store files
-b) The place where you store apps
 C) A bar on your Desktop with links to web applications
-d) A bar on your Desktop with links to data files
+C) A bar on your Chromebook with links to web applications
+o) The place where you store files
+o) The place where you store apps
+o) A bar on your Desktop with links to data files
 
 {/quiz}
 

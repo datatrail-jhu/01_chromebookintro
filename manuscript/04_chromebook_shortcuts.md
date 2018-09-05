@@ -118,27 +118,44 @@ One thing that is somewhat unusual about a Chromebook is that there is not a cap
 
 ### Chromebook Shortcuts Quiz
 
+{choose-answers:4}
 ? What is the shortcut for taking a screenshot of the whole screen?
 
-A) `ctrl+showwindows`
-b) `ctrl+fullscreen`
-c) `ctrl+s`
-d) `ctrl+lock`
+C) `ctrl+showwindows`
+o) `ctrl+fullscreen`
+o) `ctrl+s`
+o) `ctrl+lock`
+o) `ctrl+f`
+o) `ctrl+back`
+o) `ctrl+forward`
 
-
+{choose-answers:4}
 ? What is the shortcut for searching for a word or phrase on a webpage ?
 
-A) `ctrl+f`
-b) `ctrl+s`
-c) `ctrl+back`
-d) `ctrl+forward`
+C) `ctrl+f`
+o) `ctrl+s`
+o) `ctrl+back`
+o) `ctrl+forward`
+o) `ctrl+showwindows`
+o) `ctrl+fullscreen`
+o) `ctrl+s`
+o) `ctrl+lock`
 
+{choose-answers:4}
 ? How do you turn on caps lock on a Chromebook?
 
-A) `alt+launcher`
-b) `alt+shift`
-c) `shift+c`
-d) `launcher`
+C) `alt+launcher`
+o) `alt+shift`
+o) `shift+c`
+o) `launcher`
+o) `ctrl+f`
+o) `ctrl+s`
+o) `ctrl+back`
+o) `ctrl+forward`
+o) `ctrl+showwindows`
+o) `ctrl+fullscreen`
+o) `ctrl+s`
+o) `ctrl+lock`
 
 {/quiz}
 

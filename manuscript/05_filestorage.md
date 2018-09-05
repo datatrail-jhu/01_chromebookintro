@@ -17,11 +17,11 @@ You can then find the _Files_ App which looks like a blue circle with a white fi
 ![Pin the Files App to your Shelf.](images/05_filestorage/05_chromebookintro_filestorage-2.png)
 
 
-If you click on the _Files_ App you will see all of the files you have downloaded from the internet, any screenshots you may have taken, and any other files you have stored locally on your computer. 
+If you click on the _Files_ App you will see all of the files you have downloaded from the Internet, any screenshots you may have taken, and any other files you have stored locally on your computer. 
 
 ![The Files App shows you all of your files.](images/05_filestorage/05_chromebookintro_filestorage-3.png)
 
-These files are all stored in a folder called "Downloads" if you click on the Downloads button you will only see the files that are actually stored on your Chromebook. These files will be available whether you are connected to the internet or not. 
+These files are all stored in a folder called "Downloads" if you click on the Downloads button you will only see the files that are actually stored on your Chromebook. These files will be available whether you are connected to the Internet or not. 
 
 ![The Downloads folder shows you all of the files on your Chromebook.](images/05_filestorage/05_chromebookintro_filestorage-4.png)
 
@@ -31,7 +31,7 @@ One challenge is that most Chromebooks don't have much space on them to store da
 ![The Files options lets you see how much storage you have left.](images/05_filestorage/05_chromebookintro_filestorage-5.png)
 
 
-Despite the limitation on local storage you can also store some of your files and data on the cloud. We will talk about different options for this depending on whether you are storing code, data, or other files later. But in general, you have access to all of your files stored on the "cloud" here as well. For example, everything in Google Drive is also available from the _Files_ App. These files aren't saved to your computer, they are saved on the internet, so you will need an internet connection to be able to access them. To see these files click on "Google Drive" on the left hand side of the _Files_ App. 
+Despite the limitation on local storage you can also store some of your files and data on the cloud. We will talk about different options for this depending on whether you are storing code, data, or other files later. But in general, you have access to all of your files stored on the "cloud" here as well. For example, everything in Google Drive is also available from the _Files_ App. These files aren't saved to your computer, they are saved on the Internet, so you will need an Internet connection to be able to access them. To see these files click on "Google Drive" on the left hand side of the _Files_ App. 
 
 ![Google Drive files can be accessed from the Files App](images/05_filestorage/05_chromebookintro_filestorage-6.png)
 
@@ -67,27 +67,38 @@ Usually it is a good idea to leave the file extension the same even if you renam
 
 ### File Storage quiz
 
+{choose-answers:4}
 ? When you save an image from the Internet, where is it saved?
 
-a) It's not saved. There is no local storage on the Chromebook.
-b) Gmail
-c) Google Drive
-D) Downloads folder inthe 'Files' on the Chromebook
+C) Downloads folder in the 'Files' on the Chromebook
+C) Under 'Files' on the Chromebook, in the Downloads folder
+C) Under 'Files' on the Chromebook, in the Downloads directory
+C) Downloads directory in the 'Files' on the Chromebook
+o) It's not saved. There is no local storage on the Chromebook.
+o) Gmail
+o) Google Drive
+o) USB Drive
+o) Dropbox
+o) Google Drive
 
+{choose-answers:4}
 ? When you run out of space on your Chromebook, what can you do to free up space?
 
-A) Delete files from 'Downloads' folder.
-b) Nothing. Files cannot be deleted.
-c) Move files from Google Drive to Downloads.
-d) Convert files to larger file formats.
+C) Delete files from 'Downloads' folder.
+C) Get rid of files from 'Downloads' by deleting files.
+o) Nothing. Files cannot be deleted.
+o) Move files from Google Drive to Downloads.
+o) Convert files to larger file formats.
+o) Call Google to get more space.
 
-
+{choose-answers:4}
 ? When you drag a file from Downloads to Google Drive what happens? 
 
-A) The file is uploaded to Google Drive, which stores files on the internet.
-b) The file is uploaded to Google Drive, which stores files on your Chromebook.
-c) The file is deleted from Google Drive, which stores files on your Chromebook.
-d) The file is moved to the Google Drive folder on your Chromebook.
+C) The file is uploaded to Google Drive, which stores files on the Internet.
+o) The file is uploaded to Google Drive, which stores files on your Chromebook.
+o) The file is deleted from Google Drive, which stores files on your Chromebook.
+o) The file is moved to the Google Drive folder on your Chromebook.
+o) The file is uploaded to Google Drive, which stores files on Dropbox.
 
 {/quiz}
 
