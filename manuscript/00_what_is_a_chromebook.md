@@ -7,7 +7,9 @@ default-random-choice-order: true
 
 # What is a Chromebook?
 
-This course is part of the ["Chromebook Data Science"](http://jhudatascience.org/chromebookdatascience/) series of courses. [Chromebooks](https://www.google.com/chromebook/) are a very specific type of computer produced by Google. Chromebooks aren't exactly like normal computers and they have a few unique characteristics:
+This course is part of the ["Chromebook Data Science"](http://jhudatascience.org/chromebookdatascience/) Course Set; however, it is not a required course in this Course Set. While not required for completion of the Chromebook Data Science course set on Leanpub, it may be very helpful to you! It's not required because you don't *need* a Chromebook to complete the courses. The only requirement for all of these courses is an Internet browser and connection to the web. However, *if* you have a Chromebook and want to get better acquainted with how it works, this course is for you!
+
+[Chromebooks](https://www.google.com/chromebook/) are a very specific type of computer produced by Google. Chromebooks aren't exactly like normal computers and they have a few unique characteristics:
 
 * They are usually [very cheap](https://www.google.com/chromebook/find-yours/)
 * They are designed mostly to use the web
@@ -37,7 +39,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 
 ### Slides and Video
 
-![What is a Chromebook](https://www.youtube.com/watch?v=nzWbszFh0qc)
+![What is a Chromebook](https://www.youtube.com/watch?v=Dz9Uj3Mz08U)
 
 * [Slides](https://docs.google.com/presentation/d/1GMZhK8UFRljEGRFfcj2Uy358E7DYUf3Asi_UtPeYY88/edit?usp=sharing)
 
