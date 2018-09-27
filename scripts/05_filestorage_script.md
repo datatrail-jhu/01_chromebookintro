@@ -6,9 +6,7 @@ You can then find the Files App which looks like a blue circle with a white file
 
 If you click on the Files App you will see all of the files you have downloaded from the internet, any screenshots you may have taken, and any other files you have stored locally on your computer. 
 
-
 These files are all stored in a folder called Downloads if you click on the Downloads button you will only see the files that are actually stored on your Chromebook. These files will be available whether you are connected to the internet or not. 
-
 
 One challenge is that most Chromebooks don't have much space on them to store data and files. You can check how much space is left on your Chromebook by clicking the three dots on the upper right hand side of the Files app. 
 

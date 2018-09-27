@@ -1,6 +1,6 @@
-# Chromebook security
+# Chromebook Security
 
-In some ways a Chromebook provides some security for you. Chrome OS has a number of [security features](https://support.google.com/chromebook/answer/3438631?hl=en) that are constantly being improved by Google. We will discuss updating your Chromebook in a later section, but the updates ensure that at a basic level your Chromebook will have good security features. For example, data wil be encrypted when passing through a web browser and each browser window will be sandboxed so a web app open in one browser window can't access data from another window. 
+In some ways a Chromebook provides some security for you. Chrome OS has a number of [security features](https://support.google.com/chromebook/answer/3438631?hl=en) that are constantly being improved by Google. We will discuss updating your Chromebook in a later section, but the updates ensure that at a basic level your Chromebook will have good security features. For example, data will be encrypted when passing through a web browser and each browser window will be sandboxed so a web app open in one browser window can't access data from another window. 
 
 But there are still some steps that you can take to make sure that your Chromebook is secure. This will be particularly important if your Chromebook is lost or stolen, but will also be useful if you share your computer with family or friends. Since a data scientist is often working with data that may be private or sensitive, it is important that if they lose their computer, they don't risk losing the data they are working on. Setting your Chromebook up to be secure from the start is an important step for any data scientist. 
 
@@ -15,7 +15,7 @@ Good passwords have a few important characteristics:
 2. They are easy for you to remember. 
 3. They are not a commonly used password. 
 
-One way to create relatively good passwords is to string together four or five random words. This approach was made popular by an xkcd cartoon. For example a password made with this approach would be "bikerainsmellblue". This passowrd has more than 10 characters, is easy for you to remember, and is unlikely to be used by a lot of other people. Try to pick words that aren't related to each other. Then you only have to remember the four words to remember your password. 
+One way to create relatively good passwords is to string together four or five random words. This approach was made popular by an xkcd cartoon. For example a password made with this approach would be "bikerainsmellblue". This password has more than 10 characters, is easy for you to remember, and is unlikely to be used by a lot of other people. Try to pick words that aren't related to each other. Then you only have to remember the four words to remember your password. 
 
 
 ![xkcd suggested a good password combines four random words.](images/07_chromebook_security/07_chromebookintro_security-1.png)
@@ -110,7 +110,7 @@ You can monitor and manage which apps and devices have access to your account in
 
 ![Your account security page.](images/07_chromebook_security/07_chromebookintro_security-15.png)
 
-First you can see any security events that have occured. Security events can be found by looking under "Device activity & security events" in the section "Recent Security Events". This will give you information on when your passwords are changed or when you have turned on or off two step verification. 
+First you can see any security events that have occurred. Security events can be found by looking under "Device activity & security events" in the section "Recent Security Events". This will give you information on when your passwords are changed or when you have turned on or off two step verification. 
 
 ![Your security events tell you about when your password or two step verification settings have changed.](images/07_chromebook_security/07_chromebookintro_security-16.png)
 
@@ -131,7 +131,7 @@ If you click on a particular app you can take away the permission of that app to
 
 ### Slides and Video
 
-![Chromebook Security](https://www.youtube.com/watch?v=UObzYMzZ8is)
+![Chromebook Security](https://www.youtube.com/watch?v=S5TN3jlKIfk)
 
 * [Slides](https://docs.google.com/presentation/d/1-nW4KgJOVcfbRx4Vot_x6ZgoQGFItIxqIHZBXtLHDr8/edit?usp=sharing)
 

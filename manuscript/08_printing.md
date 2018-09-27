@@ -1,6 +1,6 @@
 # Printing with a Chromebook
 
-A Chromebook is designed to mostly work with files and documents online. The same is true if you want to print documents from a Chromebook. To print a document you will need to have a printer that is connected to the same wifi network as your Chromebook. If it is your personal printer you will need to follow the instructions that came with your printer to connect it to the wifi. If it is a work computer, make sure that the person responsbile for the printer has enabled wifi-based printing. 
+A Chromebook is designed to mostly work with files and documents online. The same is true if you want to print documents from a Chromebook. To print a document you will need to have a printer that is connected to the same wifi network as your Chromebook. If it is your personal printer you will need to follow the instructions that came with your printer to connect it to the wifi. If it is a work computer, make sure that the person responsible for the printer has enabled wifi-based printing. 
 
 You can then set up your Chromebook to print by first going to your avatar and clicking the settings icon as we have done before. 
 
@@ -22,7 +22,7 @@ On the next page you will be shown a list of available printers. If this is your
 
 ![Click on ADD PRINTER.](images/08_printing/08_chromebookintro_printing-4.png)
 
-You will see a list of all the printers avialable on your current wifi network. You should make very sure that you are selecting the right printer name to match either your personal printer or your work printer. You may want to print something harmless the first time you print to be sure you have connected to the right printer. Find the name of the printer that you want and click the name, then "ADD"
+You will see a list of all the printers available on your current wifi network. You should make very sure that you are selecting the right printer name to match either your personal printer or your work printer. You may want to print something harmless the first time you print to be sure you have connected to the right printer. Find the name of the printer that you want and click the name, then "ADD"
 
 ![Click the name of the printer, then ADD to add the printer.](images/08_printing/08_chromebookintro_printing-5.png)
 
@@ -54,7 +54,7 @@ This will send the file to your printer. One thing to note is that printing from
 
 ### Slides and Video
 
-![Printing with a Chromebook](https://www.youtube.com/watch?v=ycCAW5PCpqQ)
+![Printing with a Chromebook](https://www.youtube.com/watch?v=_eHGPls1nhs)
 
 * [Slides](https://docs.google.com/presentation/d/1KxH-cciEQAyyHcngpzw_4n-vQkznmBsvi6QhS5RBOwg/edit?usp=sharing)
 
