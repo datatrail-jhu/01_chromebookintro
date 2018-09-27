@@ -109,7 +109,7 @@ One thing that is somewhat unusual about a Chromebook is that there is not a cap
 
 ### Slides and Video
 
-![Chromebook Shortcuts](https://www.youtube.com/watch?v=Tny_GFu-U5k)
+![Chromebook Shortcuts](https://www.youtube.com/watch?v=PTuBxc1h0AE)
 
 * [Slides](https://docs.google.com/presentation/d/1CuNUXwu9BukytMCmtJ5JrRHWF_7O8Me2pu-PN_Zu6uU/edit?usp=sharing)
 

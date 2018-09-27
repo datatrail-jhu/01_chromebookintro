@@ -8,15 +8,11 @@ The first time you click on 'Play Store' will bring you to the Google Play Terms
 
 The following window will ask you to accept the Google Play Terms of Service. Here, you will need to click 'ACCEPT' to get to Google Play's apps if you agree with the Terms of Service. 
 
-
 This will bring up Google Play where you can install Android Apps. This is the same place you would go if you have an Android Phone and you were going to install an App on your phone. 
-
 
 We will install the Slack app that can be used for communication with teams and is frequently used by data scientists. First we search for the app in the Google Play Store. 
 
-
 When you find the Slack app you will be taken to a page where you can click Install to install the app. You may be asked to agree to terms and Google Play may ask you to enter payment details. However, if you are only going to use free apps you can find the small grey Skip box and skip over entering this information. Once you install the app it will appear as any other app on your Chromebook.  
-
 
 However one key difference is that if you click on the Slack icon and open the app then you will see that it does not open in a browser window.  
 

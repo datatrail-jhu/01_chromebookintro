@@ -44,10 +44,10 @@ If you don't see the app among the first set of apps if you click on the arrow a
 
 Another way to open the screen with your apps is to click on the Launcher button on your keyboard. On most Chromebooks this is a button that looks like a magnifying glass. 
 
-![The keyboard launcher button looks like a magnifyign glass](images/02_chromeos/02_chromebookintro_chromeos-5.png)
+![The keyboard launcher button looks like a magnifying glass](images/02_chromeos/02_chromebookintro_chromeos-5.png)
 
 
-Once you have found the App you want to open, click on it. When you click on a Chrome App the Chrome Browser will open and be directed to the website where that piece of software lives. For exampele if you click on the Google Docs icon (the blue piece of paper) then you will be directed to the website https://docs.google.com/document/u/0/ which lets you edit and work with your Google Docs. 
+Once you have found the App you want to open, click on it. When you click on a Chrome App the Chrome Browser will open and be directed to the website where that piece of software lives. For example if you click on the Google Docs icon (the blue piece of paper) then you will be directed to the website https://docs.google.com/document/u/0/ which lets you edit and work with your Google Docs. 
 
 ![Clicking on the Google Docs icon will open Google Docs in the web browser.](images/02_chromeos/02_chromebookintro_chromeos-6.png)
 
@@ -80,10 +80,10 @@ If you want to "Unpin" or remove an App from your Shelf you should right click o
 
 You can actually add any website you want to your shelf, not just the ones that have Chrome Apps. For example, we will be using http://rstudio.cloud for a lot of the work in this course. There is not a Chrome App for http://rstudio.cloud. But you can still add this website to your shelf. 
 
-You can do this by first navigating to the website you want to add. Then clicking on the three dots in the upper right hand corner of the Chrome Browser. This will open up a menu and you can move yur cursor until it hovers over _More Tools_. Then you can move your cursor over _Add to shelf..._ and let go. 
+You can do this by first navigating to the website you want to add. Then clicking on the three dots in the upper right hand corner of the Chrome Browser. This will open up a menu and you can move your cursor until it hovers over _More Tools_. Then you can move your cursor over _Add to shelf..._ and let go. 
 
 
-![Navigate to rstudio.cloud, move the cursor over More Toos, then Add to Shelf.](images/02_chromeos/02_chromebookintro_chromeos-10.png)
+![Navigate to rstudio.cloud, move the cursor over More Tools, then Add to Shelf.](images/02_chromeos/02_chromebookintro_chromeos-10.png)
 
 
 This should then open up a window where you can name the website you are linking to. Uncheck the box that says _Open as Window_ so that your Chromebook knows this is a website you want to open. Then click _Add_ to put the icon onto your shelf. 
@@ -101,7 +101,7 @@ Once you are done you will see an icon for http://rstudio.cloud on your shelf so
 
 Chrome Apps are pieces of software that can be run from the web browser. Sometimes you will need to download and install them on your Chromebook and sometimes they will just be an icon with a link to a particular website that lets you do some function. 
 
-We already talked about how you can install any webpage as a Chrome App direclty. But many Chrome Apps can also be found in the Chrome Web Store. This is a website that lets you search and find Chrome Apps for your Chromebook, similar to Google Play for Android Apps or the App Store for Apple apps. You can get to the Chrome Web Store by clicking on the launcher button, then finding and clicking the Web Store icon. 
+We already talked about how you can install any webpage as a Chrome App directly. But many Chrome Apps can also be found in the Chrome Web Store. This is a website that lets you search and find Chrome Apps for your Chromebook, similar to Google Play for Android Apps or the App Store for Apple apps. You can get to the Chrome Web Store by clicking on the launcher button, then finding and clicking the Web Store icon. 
 
 
 ![Open the Chrome Web Store by clicking on the Web Store Icon.](images/02_chromeos/02_chromebookintro_chromeos-13.png)
@@ -133,9 +133,9 @@ If you click on the _StackEdit_ icon you'll be taken to the app, which you can s
 
 
 
-### Chrome extensions
+### Chrome Extensions
 
-Chrome extensions are software programs that modify the way that the Chrome browser itself works. You can find and install them through the Chrome Web Store just like you can with Chrome Apps but they look and function slightly differently. Sometimes these extensions may do something very simple (like [show you a funny picture](https://chrome.google.com/webstore/detail/animatedtabs-a-new-gif-on/kenhfdoiondldpcoajdbackbnmehgahl?hl=en) when you open a new tab) or they might do something very important (like [managinging your passwords](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en)). 
+Chrome extensions are software programs that modify the way that the Chrome browser itself works. You can find and install them through the Chrome Web Store just like you can with Chrome Apps but they look and function slightly differently. Sometimes these extensions may do something very simple (like [show you a funny picture](https://chrome.google.com/webstore/detail/animatedtabs-a-new-gif-on/kenhfdoiondldpcoajdbackbnmehgahl?hl=en) when you open a new tab) or they might do something very important (like [managing your passwords](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en)). 
 
 As an example we will install the _Pocket_ Chrome extension. _Pocket_ is an extension that lets you save a particular website or essay for reading when your Chromebook is offline. So if you know you will need to read a document you can save it to _Pocket_ before you are traveling somewhere where you will not have Internet access and then retrieve and read it even when you are offline. You can open the Chrome Web Store just as we did previously and search for Pocket under the _Extensions_ window. 
 
@@ -166,7 +166,7 @@ Extensions, like Chrome Web Apps, can improve the way that Chrome OS functions i
 
 ### Slides and Video
 
-![Chromebook OS](https://www.youtube.com/watch?v=bax8wu6y10U)
+![Chromebook OS](https://www.youtube.com/watch?v=pC8BvVSa6f4)
 
 * [Slides](https://docs.google.com/presentation/d/1_qk0_j1BDjJXLKW-G436BlxmUw3Wt9sxtlYBwA1eKLg/edit?usp=sharing)
 

@@ -19,7 +19,7 @@ Google Calendar is a great place to keep track of meetings and life events. We'l
 
 ### Wunderlist
 
-Wunderlist is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to thers. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash. You can get Wunderlist from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android. 
+Wunderlist is a list-making app. It is somewhere you can make to-do lists for work and grocery lists for at home. You can access these lists on your Chromebook or your smartphone. These lists can be shared with others from the app and tasks on to-do lists can be delegated to others. Additionally, it has reminder capabilities so that you never forget someone's birthday or to take out the trash. You can get Wunderlist from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android. 
 
 ![Wunderlist is available from the Chrome Web Store or from the Google Play Store](images/10_useful_apps/10_chromebookintro_useful_apps-3.png)
 
@@ -55,7 +55,7 @@ There are lots of other useful apps and as we go through the courses we will poi
 
 ### Slides and Video
 
-![Useful Applications](https://www.youtube.com/watch?v=tpJywSx5QFw)
+![Useful Applications](https://www.youtube.com/watch?v=aLa8TE8azG8)
 
 * [Slides](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/edit?usp=sharing)
 

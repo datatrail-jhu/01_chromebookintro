@@ -13,7 +13,7 @@ Chromebooks have the advantage of being very simple. You are going to do almost 
 All of these issues are addressed among Google's [Chromebook help pages](https://support.google.com/chromebook/answer/4514391?hl=en). 
 
 
-![Chrombook Support Page](images/11_getting_help/11_chromebookintro_getting_help-1.png)
+![Chromebook Support Page](images/11_getting_help/11_chromebookintro_getting_help-1.png)
 
 
 Below we'll demonstrate how to step through finding answers among this documentation; however, a few good things to consider before going to the help documentation are:
@@ -70,7 +70,7 @@ You're now all up-to-date!
 
 ### Slides and Video
 
-![Getting Help](https://www.youtube.com/watch?v=TthBmkiqr5k)
+![Getting Help](https://www.youtube.com/watch?v=oOy07oW4SIs)
 
 * [Slides](https://docs.google.com/presentation/d/1pAzLCi3qGonAlUi2uKTzSe5eIxgNPUjvOs8IQVNIRC8/edit?usp=sharing)
 

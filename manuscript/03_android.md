@@ -47,7 +47,7 @@ Android Apps are not Chrome Apps so are not accessed through the web browser. In
 
 ### Slides and Video
 
-![Android Apps](https://www.youtube.com/watch?v=1-zD_nzMNks)
+![Android Apps](https://www.youtube.com/watch?v=TcgFb_4ghAQ)
 
 * [Slides](https://docs.google.com/presentation/d/1m82nWg5wtp_8WC6alsppr-UjlyK8VoORcMQnsswgNhU/edit?usp=sharing)
 

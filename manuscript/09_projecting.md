@@ -10,7 +10,7 @@ You won't be able to plug your Chromebook in directly to a projector. You will n
 ![Find out what kind of projector cable you will be using ](images/09_projecting/09_chromebookintro_projecting-1.png)
 
 
-You will then need to figure out what ports you have avaialable on your computer. For example, the type of Chromebook I'm writing this on is a [Chromebook Plus](https://www.samsung.com/us/computing/chromebooks/12-14/xe513c24-k01us-xe513c24-k01us/) from Samsung. My computer has a USB-C port for connecting external devices like printers. 
+You will then need to figure out what ports you have available on your computer. For example, the type of Chromebook I'm writing this on is a [Chromebook Plus](https://www.samsung.com/us/computing/chromebooks/12-14/xe513c24-k01us-xe513c24-k01us/) from Samsung. My computer has a USB-C port for connecting external devices like printers. 
 
 ![My Chromebook has a USB-C connector, but yours might be different. ](images/09_projecting/09_chromebookintro_projecting-2.png)
 
@@ -25,7 +25,7 @@ You will need to search or scroll down to find the version of Chromebook that yo
 ![Find your style of Chromebook and click on it. ](images/09_projecting/09_chromebookintro_projecting-4.png)
 
 
-This should bring you to a screen with different options for purchasing a Chromebook. Any of those websites will have informaiton about your Chromebook, but we have found that BestBuy often has the most information about ports, so click on the BestBuy logo on the left hand side to see more information. 
+This should bring you to a screen with different options for purchasing a Chromebook. Any of those websites will have information about your Chromebook, but we have found that BestBuy often has the most information about ports, so click on the BestBuy logo on the left hand side to see more information. 
 
 ![Click on the BestBuy logo to see more information. ](images/09_projecting/09_chromebookintro_projecting-5.png)
 
@@ -33,7 +33,7 @@ On the BestBuy page you can scroll down until you see the section called "Featur
 
 ![Find the type of port you have under Features. ](images/09_projecting/09_chromebookintro_projecting-6.png)
 
-Once you know the type of port you have on your Chromebook adn the type of connection the projector cable has you can get the right dongle. Sometimes the place you will be presenting has a dongle avialable, but it is better to have two dongles. For each dongle you want one end to plug into the appropriate port on your computer (in my case USB-C). One of the dongles should have a VGA connection on the other end and the other dongle should have an HDMI connection. Then you will be prepared to connect your Chromebook to the vast majority of projectors you will use. 
+Once you know the type of port you have on your Chromebook and the type of connection the projector cable has you can get the right dongle. Sometimes the place you will be presenting has a dongle available, but it is better to have two dongles. For each dongle you want one end to plug into the appropriate port on your computer (in my case USB-C). One of the dongles should have a VGA connection on the other end and the other dongle should have an HDMI connection. Then you will be prepared to connect your Chromebook to the vast majority of projectors you will use. 
 
 ![Get a projector with the port for your computer and a VGA and HDMI connection on the other end. ](images/09_projecting/09_chromebookintro_projecting-7.png)
 
@@ -86,7 +86,7 @@ In a future class we will go over the software for making and delivering data sc
 
 ### Slides and Video
 
-![Projecting From a Chromebook](https://www.youtube.com/watch?v=VF7YiYVHICY)
+![Projecting From a Chromebook](https://www.youtube.com/watch?v=oiXBo6Qf9YQ)
 
 * [Slides](https://docs.google.com/presentation/d/1c4diFFLIkAqYE4EIbI6mZAYLc8zOPMwLEiczFMMM2nQ/edit?usp=sharing)
 
@@ -94,13 +94,10 @@ In a future class we will go over the software for making and delivering data sc
 
 ### Projecting from a Chromebook quiz
 
-
-
 ? TRUE or FALSE: you can connect your Chromebook directly to most projectors
 
 a) TRUE
 B) FALSE
-
 
 {choose-answers: 4}
 ? Which of the following is a type of projector cable connection?
