@@ -47,7 +47,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 
 {quiz, id: quiz_00_what_is_a_chromebook}
 
-### What is a Chromebook Quiz
+### What is a Chromebook quiz
 
 {choose-answers:4}
 ? Why is the program called Chromebook Data Science?

@@ -1,4 +1,4 @@
-# Chromebook shortcuts
+# Chromebook Shortcuts
 
 When we discussed the Chrome Browser we learned a couple of keyboard shortcuts. Keyboard shortcuts are combination of keys that make your Chromebook do certain functions. For example, if you hold the `Crtl` key and press the `n` key you get a new Chrome window. When we want to tell you to press this key combination we will use the symbols `Ctrl+n` to describe what you are doing. 
 

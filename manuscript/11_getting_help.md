@@ -1,4 +1,4 @@
-# Getting help with a Chromebook
+# Getting Help with a Chromebook
 
 Chromebooks have the advantage of being very simple. You are going to do almost everything through the Internet browser. This minimizes many issues that laptop computers had historically. However, there are still issues that you will run into from time to time. We'll discuss them below and describe where you can find help for these problems. 
 
@@ -77,7 +77,7 @@ You're now all up-to-date!
 
 {quiz, id: quiz_11_getting_help}
 
-### Getting Help quiz
+### Getting Help with a Chromebook quiz
 
 ? Before posting a new question on the support pages, what should you do first?
 
