@@ -1,4 +1,4 @@
-# Working offline
+# Working Offline
 
 Chromebooks are primarily meant to be used with an Internet connection. This is because most of the software you are using is through an Internet browser. So you will want to make sure you have Internet access when you are working on your Chromebook whenever possible. 
 
@@ -93,7 +93,7 @@ In addition to the main apps from Google, many other apps and extensions offer O
 
 {quiz, id: quiz_05_working_offline}
 
-### Working Offline Quiz
+### Working Offline quiz
 
 ?1 Determine whether the following statement is TRUE or FALSE: Files in your Download folder are only stored online.
 
