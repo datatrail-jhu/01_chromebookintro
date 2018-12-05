@@ -9,31 +9,31 @@ Every time you power on your Chromebook, it will check for and apply available u
 
 **Step 1**. Click on your username or photo at the bottom right-hand of the screen.
 
-![Home Screen](images/12_updating/12_chromebookintro_updating-1.png)
+![Home Screen](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3135bc8102_0_2)
 
 **Step 2**. A menu will display. On this menu, click on the settings button, which is the icon that looks like a gear turning.
 
-![Settings Icon](images/12_updating/12_chromebookintro_updating-2.png)
+![Settings Icon](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3135bc8102_0_9)
 
 **Step 3**. A new window will appear. Here, you will click settings in the top left-hand portion of the screen.
 
-![Settings Screen](images/12_updating/12_chromebookintro_updating-3.png)
+![Settings Screen](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_0)
 
 **Step 4**. On the menu that appears, click on 'About Chrome OS'. 
 
-![About Chrome OS](images/12_updating/12_chromebookintro_updating-4.png)
+![About Chrome OS](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_5)
 
 **Step 5**. From the 'About Chrome OS' window that is now displayed, click on 'CHECK FOR UPDATES.' 
 
-![CHECK FOR UPDATES](images/12_updating/12_chromebookintro_updating-5.png)
+![CHECK FOR UPDATES](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_10)
 
 **Step 6**. The progress of your update will be displayed in that window. Once the update has finished, a message will display letting you know that you are "Nearly up to date!"
 
-![Nearly up to date! RESTART your device to finish updating](images/12_updating/12_chromebookintro_updating-6.png)
+![Nearly up to date! RESTART your device to finish updating](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_15)
 
 To complete the update, you will have to restart your Chromebook. To do so, click 'RESTART' at the right of the window.
 
-![RESTART to finish updating](images/12_updating/12_chromebookintro_updating-7.png)
+![RESTART to finish updating](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_24)
 
 
 At this point, your screen will go black for a few seconds. Your Chromebook will then restart and you'll be brought back to the login screen. Login back in here using your Google username and password.  
