@@ -5,7 +5,7 @@
 04_chromebook_shortcuts.md
 05_filestorage.md
 06_working_offline.md
-07_chromebook_security.md
+07_security.md
 08_printing.md
 09_projecting.md
 10_useful_apps.md
