@@ -106,7 +106,7 @@ In addition to the main apps from Google, many other apps and extensions offer O
 
 {quiz, id: quiz_05_working_offline}
 
-### Working Offline quiz
+### Working Offline Quiz
 
 ?1 Determine whether the following statement is TRUE or FALSE: Files in your Download folder are only stored online.
 

@@ -129,7 +129,7 @@ One thing that is somewhat unusual about a Chromebook is that there is not a cap
 
 {quiz, id: quiz_04_chromebook_shortcuts}
 
-### Chromebook Shortcuts quiz
+### Chromebook Shortcuts Quiz
 
 {choose-answers:4}
 ? What is the shortcut for taking a screenshot of the whole screen?
