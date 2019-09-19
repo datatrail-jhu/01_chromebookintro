@@ -8,7 +8,7 @@ default-quiz-show-answers: none
 
 # What is a Chromebook?
 
-This course is part of ["Cloud-based Data Science"](https://www.clouddatascience.org/); however, it is not a required course in this Course Set. While not required for completion of the Cloud-based Data Science course set on Leanpub, it may be very helpful to you! It's not required because you don't *need* a Chromebook to complete the courses. The only requirement for all of these courses is an Internet browser and connection to the web. However, *if* you have a Chromebook and want to get better acquainted with how it works, this course is for you!
+This course is part of ["Cloud-Based Data Science"](https://www.clouddatascience.org/); however, it is not a required course in this Course Set. While not required for completion of the Cloud-Based Data Science course set on Leanpub, it may be very helpful to you! It's not required because you don't *need* a Chromebook to complete the courses. The only requirement for all of these courses is an Internet browser and connection to the web. However, *if* you have a Chromebook and want to get better acquainted with how it works, this course is for you!
 
 [Chromebooks](https://www.google.com/chromebook/) are a very specific type of computer produced by Google. Chromebooks aren't exactly like normal computers and they have a few unique characteristics:
 
@@ -19,7 +19,7 @@ This course is part of ["Cloud-based Data Science"](https://www.clouddatascience
 
 A simple way to think about it is that a Chromebook is a computer that only lets you use an Internet browser like [Chrome](https://www.google.com/chrome/). You can't really do much on the computer itself. Some people call this way of working - working only through the Internet - ["cloud computing"](https://en.wikipedia.org/wiki/Cloud_computing). It's called cloud computing because the computer you are using most of the time is not the one sitting in front of you. You are using the Internet to access tools and computers to do your work. But the physical computers doing the work are stored somewhere else - it could be nearby or on the other side of the globe. That is why people call the computers "in the cloud".
 
-The goal of Cloud-based Data Science is not that you _have_ to use a Chromebook to finish the program, it is just that you _could_ use a Chromebook to finish the whole program. You can finish the entire sequence of courses using any computer with an Internet connection and a web browser. Doing everything through a web browser has a couple of advantages for a training program like this: 
+The goal of Cloud-Based Data Science is not that you _have_ to use a Chromebook to finish the program, it is just that you _could_ use a Chromebook to finish the whole program. You can finish the entire sequence of courses using any computer with an Internet connection and a web browser. Doing everything through a web browser has a couple of advantages for a training program like this: 
 
 * All Chromebooks have the same system so if you log out of one Chromebook and log onto another you will always see the same system (unless there has been an update to Chrome OS that affects all Chromebooks).
 * Since everything is stored on the Internet (sometimes called "in the cloud") then the Chromebook will always be set up with your preferences when you log off and log back on. 
@@ -40,7 +40,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 
 ### Slides and Video
 
-![What is a Chromebook](https://www.youtube.com/watch?v=6YreaTMK25A)
+![What is a Chromebook](https://youtu.be/2pRb_DxDzRQ)
 
 * [Slides](https://docs.google.com/presentation/d/1GMZhK8UFRljEGRFfcj2Uy358E7DYUf3Asi_UtPeYY88/edit?usp=sharing)
 
@@ -50,7 +50,7 @@ Using Chromebooks to do data science is a relatively [new idea](https://simplyst
 ### What is a Chromebook quiz
 
 {choose-answers:4}
-? Why is the program called Cloud-based Data Science?
+? Why is the program called Cloud-Based Data Science?
 
 C) Because you could do the program on a Chromebook if you want
 C) Because everything in this program can be done on a Chromebook
