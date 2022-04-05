@@ -16,6 +16,7 @@ Bloomberg
 Catina
 cbds
 chromebook
+chromeos
 ColorSmart
 Coretta
 Coursera
@@ -32,6 +33,7 @@ else's
 Evernote
 Farrah
 fyi
+Fi
 frisbee
 findinghelp
 Gelfand
@@ -83,10 +85,13 @@ rstudio
 RStudio
 sandboxed
 StackEdit
+stackedit
 ShanEllis
 Sharla
 SMS
 so's
+Tweetdeck
+TypeC
 ums
 StackOverflow
 sys
