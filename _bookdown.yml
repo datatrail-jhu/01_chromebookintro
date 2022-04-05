@@ -2,8 +2,19 @@ book_filename: "DataTrail"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
-            "01-intro.Rmd",
-            "02-chapter_of_course.Rmd",
+            "00_what_is_a_chromebook.Rmd",
+            "01_chromebrowser.Rmd",
+            "02_chrome_os.Rmd",
+            "03_android.Rmd",
+            "04_chromebook_shortcuts.Rmd",
+            "05_filestorage.Rmd",
+            "06_working_offline.Rmd",
+            "07_security.Rmd",
+            "08_printing.Rmd",
+            "09_projecting.Rmd",
+            "10_useful_apps.Rmd",
+            "11_getting_help.Rmd",
+            "12_updating.Rmd",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
