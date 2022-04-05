@@ -1,5 +1,4 @@
 ---
-title: "Chrome Browser"
 author: "Davon person"
 date: "1/18/2022"
 output: html_document
@@ -64,7 +63,7 @@ You can see that the Google Doc app is just another web browser but sent to a sp
 {format: png}
 ![Google Docs website](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/export/png?id=1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M&pageid=g3964b445cb_1_51)
 
-Signing in to Chrome using your Gmail account automatically signs you in to all Google services including YouTube, Gmail, Google Drive, and others. This is particularly useful since you don't have to sign in to websites that use Google services when you go to them with your web browser.  For example if you click on the Gmail icon - the envelope - on your shelf in the bottom left corner of the screen you'll be taken to the Gmail website and then logged in to your account. 
+Signing in to Chrome using your Gmail account automatically signs you in to all Google services including YouTube, Gmail, Google Drive, and others. This is particularly useful since you don't have to sign in to websites that use Google services when you go to them with your web browser.  For example if you click on the Gmail icon - the envelope - on your shelf in the bottom left corner of the screen you'll be taken to the Gmail website and then logged in to your account.
 
 {format: png}
 ![You are already logged into Gmail when you log into your Chromebook](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/export/png?id=1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M&pageid=g3964b445cb_4_12)
