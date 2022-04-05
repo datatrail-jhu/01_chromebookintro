@@ -33,12 +33,12 @@ Every time you power on your Chromebook, it will check for and apply available u
 {format: png}
 ![Settings Screen](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_0)
 
-**Step 4**. On the menu that appears, click on 'About Chrome OS'. 
+**Step 4**. On the menu that appears, click on 'About Chrome OS'.
 
 {format: png}
 ![About Chrome OS](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_5)
 
-**Step 5**. From the 'About Chrome OS' window that is now displayed, click on 'CHECK FOR UPDATES.' 
+**Step 5**. From the 'About Chrome OS' window that is now displayed, click on 'CHECK FOR UPDATES.'
 
 {format: png}
 ![CHECK FOR UPDATES](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/export/png?id=1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o&pageid=g3476d1f5c2_0_10)
@@ -72,7 +72,7 @@ At this point, your screen will go black for a few seconds. Your Chromebook will
 a) TRUE
 B) FALSE
 
-?1 TRUE/FALSE: Your Chromebook will update automoatically upon login.
+?1 TRUE/FALSE: Your Chromebook will update automatically upon login.
 
 A) TRUE
 b) FALSE
