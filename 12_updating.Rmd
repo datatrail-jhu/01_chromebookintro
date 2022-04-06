@@ -1,3 +1,13 @@
+---
+author: "Davon person"
+date: "2/3/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
 # Updating your Chromebook
 
 In computing, there are often updates that are available. Updates can fix bugs, add new features, and/or improve security on your chromebook. Over time, your apps will need to be updated as well as your Chromebook's operating system (OS) itself. To update your Chromebook you need internet connection.

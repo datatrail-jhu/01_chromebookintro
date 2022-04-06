@@ -1,14 +1,25 @@
+---
+author: "Davon person"
+date: "2/3/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
 # Useful Applications
 
 In previous lessons we have discussed how to download apps from the Chrome Web Store. Here we will discuss some Chrome web apps that may be useful for the course and where you can get them. None of these apps is essential, but they may be helpful for productivity or organization. These apps can all be accessed directly from your Internet browser, but sometimes it will make your life and work easier to have the app directly on your Chromebook.
 
 
-### Slack
+### Basecamp
 
-We've previously discussed Slack as a place where you and all your other team members can communicate about projects. You can chat, share documents, read past conversations, and receive notifications on Slack. Having the Slack App on your Chromebook will allow you to be updated whenever anyone on the team is trying to communicate with you. You can get Slack from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android.
+We've previously discussed Basecamp as a place where you and all your other team members can communicate about projects. You can chat, share documents, read past conversations, and receive notifications on Basecamp. Having the Basecamp App on your Chromebook will allow you to be updated whenever anyone on the team is trying to communicate with you. You can get Slack from either the Chrome Web Store or from the Google Play Store if your Chromebook runs Android.
 
 {format: png}
-![Slack is available from the Chrome Web Store or from the Google Play Store](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/export/png?id=1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A&pageid=g3b177a318f_0_5)
+![Basecamp is available from the Chrome Web Store or from the Google Play Store](https://docs.google.com/presentation/d/1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A/export/png?id=1oEKP1NX1_cjxQj4SQNDknVwDDV8bG3JRkvFxOiLUg3A&pageid=g3b177a318f_0_5)
 
 
 ### Google Calendar
@@ -93,7 +104,7 @@ o) Angry Birds
 {choose-answers: 4}
 ?3 Which of these apps improves communication between team members?
 
-C) Slack
+C) Basecamp
 o) DataCamp
 o) DocHub
 o) Angry Birds
