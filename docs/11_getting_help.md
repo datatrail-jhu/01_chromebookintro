@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "2/3/2022"
 output: html_document
 ---
@@ -92,26 +92,3 @@ You're now all up-to-date!
 ![Getting Help](https://www.youtube.com/watch?v=oOy07oW4SIs)
 
 * [Slides](https://docs.google.com/presentation/d/1pAzLCi3qGonAlUi2uKTzSe5eIxgNPUjvOs8IQVNIRC8/edit?usp=sharing)
-
-
-{quiz, id: quiz_11_getting_help}
-
-### Getting Help with a Chromebook quiz
-
-? Before posting a new question on the support pages, what should you do first?
-
-a) See if your question has been asked and answered previously.
-b) Consider whether you've recently restarted your computer.
-c) Checked to see if there's an obvious mistake you've made.
-D) All of the above.
-
-{choose-answers:4}
-? Which of these is NOT a common Chromebook problem?
-
-C) documents frequently accidentally deleted from Chromebook.
-o) problems connecting to the Internet.
-o) Google Account Login issues.
-o) Chromebook OS issues
-
-
-{/quiz}

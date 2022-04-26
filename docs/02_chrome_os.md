@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "1/19/2022"
 output: html_document
 ---
@@ -197,39 +197,3 @@ Extensions, like Chrome Web Apps, can improve the way that Chrome OS functions i
 ![Chromebook OS](https://youtu.be/PSNZ9YGg1G4)
 
 * [Slides](https://docs.google.com/presentation/d/1_qk0_j1BDjJXLKW-G436BlxmUw3Wt9sxtlYBwA1eKLg/edit?usp=sharing)
-
-
-{quiz, id: quiz_02_chromeos}
-
-### Chrome OS Quiz
-
-{choose-answers:4}
-? How do you get Chromebook Apps?
-
-C) From Google Play
-o) From Google Slides
-o) From Google Drive
-o) From Google Sheets
-o) From Google Forms
-o) From Google Gmail
-
-{choose-answers:4}
-? What is a Chromebook App?
-
-C) A link to a website that works like an app
-C) A link to a website that works like an application
-o) A piece of software you install on your computer
-o) An app you install on your computer
-o) A piece of software you run on your Chromebook
-o) A piece of software you have to write
-
-{choose-answers:4}
-? What is your Shelf on a Chromebook ?
-
-C) A bar on your Desktop with links to web applications
-C) A bar on your Chromebook with links to web applications
-o) The place where you store files
-o) The place where you store apps
-o) A bar on your Desktop with links to data files
-
-{/quiz}

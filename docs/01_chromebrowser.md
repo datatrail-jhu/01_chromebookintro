@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "1/18/2022"
 output: html_document
 ---
@@ -97,61 +97,3 @@ Those are the basics of how you manipulate windows and tabs in the Chrome browse
 ![Chrome Browser](https://youtu.be/Xeoh5Sgly4Y)
 
 * [Slides](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/edit?usp=sharing)
-
-
-{quiz, id: quiz_01_chrome_browser}
-
-### Chrome Browser quiz
-
-{choose-answers:4}
-? What Internet browser will we be using?
-
-C) Google Chrome
-C) Chrome
-o) Firefox
-o) Edge
-o) Safari
-o) Bing
-
-{choose-answers:4}
-? Why would you bookmark a page?
-
-C) If you visit it frequently
-C) If you'll return to it often
-o) If you never want to visit the page again
-o) To block that page
-o) To block ads from appearing
-o) If you liked the colors of the website
-
-{choose-answers:4}
-? Which of the following is the keyboard shortcut to open a new window?
-
-C) `Ctrl+n`
-o) `Ctrl+w`
-o) `Ctrl+t`
-o) `Ctrl+d`
-o) `Ctrl+b`
-o) `Ctrl+v`
-
-
-{choose-answers:4}
-? Which of the following is the keyboard shortcut to open a new tab?
-
-C) `Ctrl+t`
-o) `Ctrl+w`
-o) `Ctrl+n`
-o) `Ctrl+d`
-o) `Ctrl+b`
-o) `Ctrl+v`
-
-{choose-answers:4}
-? Which of the following is the keyboard shortcut to close a tab or window?
-
-C) `Ctrl+w`
-o) `Ctrl+t`
-o) `Ctrl+n`
-o) `Ctrl+d`
-o) `Ctrl+b`
-o) `Ctrl+v`
-
-{/quiz}
