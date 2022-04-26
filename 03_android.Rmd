@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "1/19/2022"
 output: html_document
 ---
@@ -69,29 +69,3 @@ Android Apps are not Chrome Apps so are not accessed through the web browser. In
 ![Android Apps](https://www.youtube.com/watch?v=TcgFb_4ghAQ)
 
 * [Slides](https://docs.google.com/presentation/d/1m82nWg5wtp_8WC6alsppr-UjlyK8VoORcMQnsswgNhU/edit?usp=sharing)
-
-
-{quiz, id: quiz_03_android}
-
-### Android Apps quiz
-
-{choose-answers: 4}
-? Is an Android App the same thing as a Chrome Web App?
-
-C) No, Chrome Web Apps run in the Chrome Web Browser
-o) No, Android Apps run in the Chrome Web Browser
-o) Yes, they are the same thing
-o) Yes, they look the same on your Shelf
-o) Yes, they both run in the Chrome Web Browser
-
-
-{choose-answers: 4}
-? Where do you download Android Apps from?
-
-C) The Google Play Store
-o) The Chrome Web Store
-o) The iOS App Store
-o) Your shelf
-o) The Apple App Store
-
-{/quiz}

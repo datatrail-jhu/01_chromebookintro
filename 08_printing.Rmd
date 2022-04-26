@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: '2022-04-05'
 output: html_document
 ---
@@ -77,42 +77,3 @@ This will send the file to your printer. One thing to note is that printing from
 ![Printing with a Chromebook](https://www.youtube.com/watch?v=_eHGPls1nhs)
 
 * [Slides](https://docs.google.com/presentation/d/1KxH-cciEQAyyHcngpzw_4n-vQkznmBsvi6QhS5RBOwg/edit?usp=sharing)
-
-{quiz, id: quiz_08_printing}
-
-### Printing with a Chromebook quiz
-
-?1 True or False you can only print to wifi connected printers with a Chromebook
-
-A) TRUE
-b) FALSE
-
-?1 True or False you cannot print to wifi connected printers with a Chromebook
-
-a) TRUE
-B) FALSE
-
-{choose-answers: 4}
-?2 When setting up a printer on a Chromebook which of the following is critically important?
-
-C) To make sure you have picked the right printer name
-C) To make sure you have the right printer name selected
-o) To make sure the printer is offline
-o) To make sure that your file is printed in color
-o) To use the `ctrl+t` command to print
-o) To make sure it's a Brother brand printer
-o) To make sure the printer is right next to you
-
-
-{choose-answers: 4}
-?3 Which of the following is the command to print a page from your Chromebook?
-
-C) `ctrl+p`
-o) `ctrl+t`
-o) `ctrl+w`
-o) `ctrl+d`
-o) `ctrl+n`
-o) `ctrl+x`
-o) `ctrl+c`
-
-{/quiz}

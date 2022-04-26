@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "1/26/2022"
 output: html_document
 ---
@@ -135,49 +135,3 @@ One thing that is somewhat unusual about a Chromebook is that there is not a cap
 ![Chromebook Shortcuts](https://www.youtube.com/watch?v=PTuBxc1h0AE)
 
 * [Slides](https://docs.google.com/presentation/d/1CuNUXwu9BukytMCmtJ5JrRHWF_7O8Me2pu-PN_Zu6uU/edit?usp=sharing)
-
-
-{quiz, id: quiz_04_chromebook_shortcuts}
-
-### Chromebook Shortcuts Quiz
-
-{choose-answers:4}
-? What is the shortcut for taking a screenshot of the whole screen?
-
-C) `ctrl+showwindows`
-o) `ctrl+fullscreen`
-o) `ctrl+s`
-o) `ctrl+lock`
-o) `ctrl+f`
-o) `ctrl+back`
-o) `ctrl+forward`
-
-{choose-answers:4}
-? What is the shortcut for searching for a word or phrase on a webpage ?
-
-C) `ctrl+f`
-o) `ctrl+s`
-o) `ctrl+back`
-o) `ctrl+forward`
-o) `ctrl+showwindows`
-o) `ctrl+fullscreen`
-o) `ctrl+s`
-o) `ctrl+lock`
-
-{choose-answers:4}
-? How do you turn on caps lock on a Chromebook?
-
-C) `alt+launcher`
-o) `alt+shift`
-o) `shift+c`
-o) `launcher`
-o) `ctrl+f`
-o) `ctrl+s`
-o) `ctrl+back`
-o) `ctrl+forward`
-o) `ctrl+showwindows`
-o) `ctrl+fullscreen`
-o) `ctrl+s`
-o) `ctrl+lock`
-
-{/quiz}

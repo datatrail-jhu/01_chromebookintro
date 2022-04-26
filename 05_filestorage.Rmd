@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "1/26/2022"
 output: html_document
 ---
@@ -81,43 +81,3 @@ Usually it is a good idea to leave the file extension the same even if you renam
 ![File Storage](https://www.youtube.com/watch?v=6V0MNlMYlg0)
 
 * [Slides](https://docs.google.com/presentation/d/1k9e4UEhxg63DWSFkV71u1ewQQe-4DopdXAMG35O0hkc/edit?usp=sharing)
-
-
-{quiz, id: quiz_05_file_storage}
-
-### File Storage quiz
-
-{choose-answers:4}
-? When you save an image from the Internet, where is it saved?
-
-C) Downloads folder in the 'Files' on the Chromebook
-C) Under 'Files' on the Chromebook, in the Downloads folder
-C) Under 'Files' on the Chromebook, in the Downloads directory
-C) Downloads directory in the 'Files' on the Chromebook
-o) It's not saved. There is no local storage on the Chromebook.
-o) Gmail
-o) Google Drive
-o) USB Drive
-o) Dropbox
-o) Google Drive
-
-{choose-answers:4}
-? When you run out of space on your Chromebook, what can you do to free up space?
-
-C) Delete files from 'Downloads' folder.
-C) Get rid of files from 'Downloads' by deleting files.
-o) Nothing. Files cannot be deleted.
-o) Move files from Google Drive to Downloads.
-o) Convert files to larger file formats.
-o) Call Google to get more space.
-
-{choose-answers:4}
-? When you drag a file from Downloads to Google Drive what happens?
-
-C) The file is uploaded to Google Drive, which stores files on the Internet.
-o) The file is uploaded to Google Drive, which stores files on your Chromebook.
-o) The file is deleted from Google Drive, which stores files on your Chromebook.
-o) The file is moved to the Google Drive folder on your Chromebook.
-o) The file is uploaded to Google Drive, which stores files on Dropbox.
-
-{/quiz}

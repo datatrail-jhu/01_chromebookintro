@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "2/3/2022"
 output: html_document
 ---
@@ -60,30 +60,3 @@ At this point, your screen will go black for a few seconds. Your Chromebook will
 ![Updating Your Chromebook](https://www.youtube.com/watch?v=6vUGdEP20PA)
 
 * [Slides](https://docs.google.com/presentation/d/1ypTp6aMvOIW9vlMDaeLEML4GIMaSKu2gn5o_QrtOE_o/edit?usp=sharing)
-
-
-{quiz, id: quiz_12_updating}
-
-### Updating Your Chromebook quiz
-
-?1 TRUE/FALSE: You will always have to manually update your Chromebook. Otherwise, it will not update.
-
-a) TRUE
-B) FALSE
-
-?1 TRUE/FALSE: Your Chromebook will update automatically upon login.
-
-A) TRUE
-b) FALSE
-
-?2 TRUE/FALSE: Manually updating your Chromebook can be done in a couple simple steps.
-
-A) TRUE
-b) FALSE
-
-?2 TRUE/FALSE: Manually updating your Chromebook takes an incredible amount of complicated steps and should never be done.
-
-a) TRUE
-B) FALSE
-
-{/quiz}

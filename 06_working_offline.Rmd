@@ -1,5 +1,5 @@
 ---
-author: "Davon person"
+
 date: "1/26/2022"
 output: html_document
 ---
@@ -112,40 +112,3 @@ In addition to the main apps from Google, many other apps and extensions offer O
 ![Working Offline](https://www.youtube.com/watch?v=fPjllOjkTtU)
 
 * [Slides](https://docs.google.com/presentation/d/1OfWCdEL_1NMfa4C5Paz8iOzYaQHFg_60uD0rmpyfjtA/edit?usp=sharing)
-
-
-{quiz, id: quiz_05_working_offline}
-
-### Working Offline Quiz
-
-?1 Determine whether the following statement is TRUE or FALSE: Files in your Download folder are only stored online.
-
-a) TRUE
-B) FALSE
-
-?1 Determine whether the following statement is TRUE or FALSE: Files in your Download folder are stored on your Chromebook.
-
-A) TRUE
-b) FALSE
-
-{choose-answers: 4}
-?2 When you edit a file on Google Docs offline when do the changes appear in the online version of the document?
-
-C) When you re-connect to the Internet
-C) The next time you're connected to the Internet
-o) When you save the file
-o) When you rename the file
-o) when you delete the file
-o) They are saved online even though you aren't connected
-
-{choose-answers: 4}
-?3 What do you need to be careful of if you edit a file offline?
-
-C) Your version might write over someone else's work when you reconnect
-C) Your edited offline version might overwrite someone else's work when you reconnect
-o) The edits may be lost because you aren't connected
-o) You will not be able to save a file offline
-o) You might delete the file by editing it offline
-o) You may forget to put it on the Internet later
-
-{/quiz}
