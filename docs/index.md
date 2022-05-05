@@ -1,5 +1,5 @@
 ---
-title: "How to use a Chromebook"
+title: "01: How to use a Chromebook"
 date: "May, 2022"
 site: bookdown::bookdown_site
 documentclass: book
