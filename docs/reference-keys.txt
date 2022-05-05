@@ -1,5 +1,6 @@
 what-is-a-chromebook
 slides-and-video
+output-html_document
 chrome-browser
 slides-and-video-1
 chrome-os
