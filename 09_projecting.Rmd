@@ -1,6 +1,4 @@
 ---
-
-date: "1/27/2022"
 output: html_document
 ---
 

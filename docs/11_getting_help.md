@@ -1,6 +1,6 @@
 ---
 
-date: "2/3/2022"
+
 output: html_document
 ---
 
