@@ -18,7 +18,7 @@ jobs:
 
   yaml-check:
     name: Load user automation choices
-    runs-on: ottrpal:latest
+    runs-on: jhudsl/ottrpal:latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
