@@ -1,18 +1,7 @@
----
-output: html_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-{
-course-completeness: 100
-course-attempts: 2
-default-quiz-attempts: 2
-default-random-choice-order: true
-default-quiz-show-answers: none
-}
 
 # What is a Chromebook?
 
