@@ -1,4 +1,4 @@
-1-What-is-a-Chromebook?.md
+1-What-is-a-Chromebook.md
 2-Chrome-Browser.md
 3-Chrome-OS.md
 4-Android-Apps.md
