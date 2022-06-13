@@ -45,7 +45,7 @@ google-calendar
 wunderlist
 tweetdeck
 evernote
-datacamp
+swirl
 dochub
 slides-and-video-10
 getting-help-with-a-chromebook
