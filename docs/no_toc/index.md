@@ -1,6 +1,6 @@
 ---
 title: "01: How to use a Chromebook"
-date: "June, 2022"
+date: "March, 2023"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: book.bib
