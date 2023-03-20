@@ -90,6 +90,6 @@ Those are the basics of how you manipulate windows and tabs in the Chrome browse
 
 ### Slides and Video
 
-![Chrome Browser](https://youtu.be/Xeoh5Sgly4Y)
+[Automated Videos](https://youtu.be/Xeoh5Sgly4Y)
 
 * [Slides](https://docs.google.com/presentation/d/1ywZbtFacZK0UIsnt2g-sheC9du_rw_7XZ1FX4rRt27M/edit?usp=sharing)
